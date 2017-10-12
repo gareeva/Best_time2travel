@@ -1,0 +1,5 @@
+#!/Users/liana/Developer/Best_time2travel/mynewvenv/bin/python3.5
+from django.core import management
+
+if __name__ == "__main__":
+    management.execute_from_command_line()
