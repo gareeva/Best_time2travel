@@ -1,0 +1,7 @@
+# database.cnf
+[client]
+database = 'best_travel_time'
+user = 'liana'
+password = '53vg!hks7'
+default-character-set = utf8
+default-time-zone = 'UTC'
