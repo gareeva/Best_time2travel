@@ -1,0 +1,16 @@
+{% if places_top %}
+    <ul>
+    {% for place in places_top %}
+        <li>
+            <a href = "/places/{{datetime}}/">
+                {{place.city,
+                place.month,
+                place.temperature, 
+                place.precipitation }}
+            </a>
+        </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No details for this city! </p>
+{% endif %}
