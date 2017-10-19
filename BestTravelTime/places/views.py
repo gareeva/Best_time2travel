@@ -20,11 +20,36 @@ def placedetails(request, city_id):
 
 #require the number of the month for a datetime!
 def placestop(request, datetime):
+    places_top = []
+    print(places_top)
+    all_indicators = Indicators.objects.all()
+    print(all_indicators)
+    for ind in all_indicators:
+        print(ind)
+        #ind.month = str(ind.month)
+        if (str(ind.month) == '2017-10-16 00:00:00+00:00'):
+            print("success")
+            places_top.append(ind)
+
     #change when you fix datetime in db!!!
-    places_top = Indicators.objects.filter(datetime = '2017-10-16')
+    #places_top = Indicators.objects.filter(datetime = '2017-10-16 18:24:04.000000')
+
+    #places_top = Indicators.objects.filter(datetime = '2017-10-16 00:00:00')
+
+    #all_filtered_cities = City.objects.all()
+    new_city_list = []
+    for ind in places_top:
+        print(ind)
+        if (City.objects.get(id = ind.city_id)):
+            print("city_successsss!!!!")
+            city = City.objects.get(id = ind.city_id)
+            new_city_list.append(city)
+            print(city.city_name + " " + str(city.city_country))
+
+    print(new_city_list[0].city_name + " - " + str(new_city_list[0].city_country))
     template = loader.get_template('places/index.html')
     context = {
-        'places_top' : places_top,
+        'places_top' : new_city_list,
     }
     #places_top = City.objects.all()
     return HttpResponse(template.render(context, request))

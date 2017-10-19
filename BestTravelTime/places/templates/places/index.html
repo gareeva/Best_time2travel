@@ -2,12 +2,16 @@
     <ul>
     {% for place in places_top %}
         <li>
-            <a href = "/places/{{datetime}}/">
-                {{place.city,
-                place.month,
-                place.temperature, 
-                place.precipitation }}
-            </a>
+            {{ place.city_name }},
+            {{ place.id }}
+            {{ place.city_country }}
+            <!--<a href = "/places/{{datetime}}/">-->
+                {{ place.city }},
+                {{ place.month }},
+                {{ place.temperature }}, 
+                {{ place.precipitation }}
+            <!--</a>-->
+            
         </li>
     {% endfor %}
     </ul>
