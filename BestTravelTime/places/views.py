@@ -21,35 +21,35 @@ def placedetails(request, city_id):
 #require the number of the month for a datetime!
 def placestop(request, datetime):
     places_top = []
-    print(places_top)
-    all_indicators = Indicators.objects.all()
-    print(all_indicators)
-    for ind in all_indicators:
-        print(ind)
-        #ind.month = str(ind.month)
-        if (str(ind.month) == '2017-10-16 00:00:00+00:00'):
-            print("success")
-            places_top.append(ind)
+    places_top = get_indicator_by_month()
 
     #change when you fix datetime in db!!!
     #places_top = Indicators.objects.filter(datetime = '2017-10-16 18:24:04.000000')
 
-    #places_top = Indicators.objects.filter(datetime = '2017-10-16 00:00:00')
-
-    #all_filtered_cities = City.objects.all()
     new_city_list = []
-    for ind in places_top:
-        print(ind)
-        if (City.objects.get(id = ind.city_id)):
-            print("city_successsss!!!!")
-            city = City.objects.get(id = ind.city_id)
-            new_city_list.append(city)
-            print(city.city_name + " " + str(city.city_country))
-
-    print(new_city_list[0].city_name + " - " + str(new_city_list[0].city_country))
-    template = loader.get_template('places/index.html')
+    new_city_list = get_city_info(places_top)
     context = {
         'places_top' : new_city_list,
     }
-    #places_top = City.objects.all()
-    return HttpResponse(template.render(context, request))
+    return render(request, 'places/index.html', context)
+
+def get_indicator_by_month():
+    places_top = []
+
+    all_indicators = Indicators.objects.all()
+
+    for indicator in all_indicators:
+        print(indicator)
+        #ind.month = str(ind.month)
+        #change when you fix datetime in db!!!
+        if (str(indicator.month) == '2017-10-16 00:00:00+00:00'):
+            places_top.append(indicator)
+    return places_top
+
+def get_city_info(places_top):
+    new_city_list = []
+    for ind in places_top:
+        if (City.objects.get(id = ind.city_id)):
+            city = City.objects.get(id = ind.city_id)
+            new_city_list.append(city)
+    return new_city_list
