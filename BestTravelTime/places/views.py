@@ -15,8 +15,19 @@ def timeenterform(request):
     return HttpResponse("enter here the holiday time!")
 
 def placedetails(request, city_id):
-    #place_detaled_info = Indicators.objects.get
-    return HttpResponse("You are searching for %s" + city_id + " city info")
+    #change to id later!
+    required_city = City.objects.get(city_name = 'Moscow')
+    
+    print(str(required_city.id) + "-" + required_city.city_name + "-"+ str(required_city.city_country_id))
+    
+    place_details = []
+    place_details = Indicators.objects.filter(city = required_city.id)
+    for indicator in place_details:
+        print(str(indicator.city) + "-" + str(indicator.temperature) + "-" + str(indicator.precipitation))
+    context = {
+        'place_info' : place_details,
+    }
+    return render(request, 'places/city_details.html', context)
 
 #require the number of the month for a datetime!
 def placestop(request, datetime):
@@ -27,7 +38,7 @@ def placestop(request, datetime):
     #places_top = Indicators.objects.filter(datetime = '2017-10-16 18:24:04.000000')
 
     new_city_list = []
-    new_city_list = get_city_info(places_top)
+    new_city_list = get_city_list(places_top)
     context = {
         'places_top' : new_city_list,
     }
@@ -35,7 +46,6 @@ def placestop(request, datetime):
 
 def get_indicator_by_month():
     places_top = []
-
     all_indicators = Indicators.objects.all()
 
     for indicator in all_indicators:
@@ -46,10 +56,10 @@ def get_indicator_by_month():
             places_top.append(indicator)
     return places_top
 
-def get_city_info(places_top):
+def get_city_list(places_top):
     new_city_list = []
-    for ind in places_top:
-        if (City.objects.get(id = ind.city_id)):
-            city = City.objects.get(id = ind.city_id)
+    for indicator in places_top:
+        if (City.objects.get(id = indicator.city_id)):
+            city = City.objects.get(id = indicator.city_id)
             new_city_list.append(city)
     return new_city_list

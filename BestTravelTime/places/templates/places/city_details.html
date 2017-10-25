@@ -1,0 +1,14 @@
+{% if place_info %}
+    <ul>
+    {% for place in place_info %}
+        <li>
+            {{ place.city }},
+            {{ place.month }},
+            {{ place.temperature }}, 
+            {{ place.precipitation }}            
+        </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No details for this city! </p>
+{% endif %}

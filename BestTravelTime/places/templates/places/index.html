@@ -4,17 +4,10 @@
         <li>
             {{ place.city_name }},
             {{ place.id }}
-            {{ place.city_country }}
-            <!--<a href = "/places/{{datetime}}/">-->
-                {{ place.city }},
-                {{ place.month }},
-                {{ place.temperature }}, 
-                {{ place.precipitation }}
-            <!--</a>-->
-            
+            {{ place.city_country }}   
         </li>
     {% endfor %}
     </ul>
 {% else %}
-    <p>No details for this city! </p>
+    <p>No cities for this time! </p>
 {% endif %}
