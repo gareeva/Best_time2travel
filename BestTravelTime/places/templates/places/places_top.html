@@ -1,0 +1,14 @@
+
+{% if places_top %}
+    <ul>
+    {% for place in places_top %}
+        <li>
+            {{ place.city_name }},
+            {{ place.id }}
+            {{ place.city_country }}   
+        </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>No cities for this time! </p>
+{% endif %}

@@ -6,7 +6,9 @@ from .models import City, Indicators
 
 # Create your views here.
 def index(request):
-    return HttpResponse("Hey there. You r in main page!")
+
+    return render(request, 'places/index.html')
+    #return HttpResponse("Hey there. You r in main page!")
 
 def placeenterform(request):
     return HttpResponse("enter here the city to visit!")
@@ -42,7 +44,8 @@ def placestop(request, datetime):
     context = {
         'places_top' : new_city_list,
     }
-    return render(request, 'places/index.html', context)
+    #return render(request, 'places/index.html', context)
+    return render(request, 'places/places_top.html', context)
 
 def get_indicator_by_month():
     places_top = []

@@ -1,13 +1,12 @@
-{% if places_top %}
-    <ul>
-    {% for place in places_top %}
-        <li>
-            {{ place.city_name }},
-            {{ place.id }}
-            {{ place.city_country }}   
-        </li>
-    {% endfor %}
-    </ul>
-{% else %}
-    <p>No cities for this time! </p>
+<h1>Hey there. You rcsdcsdc in main page!</h1>
+
+{% if error_message %}
+    <p><strong>{{ error_message }}</strong></p>
 {% endif %}
+
+<form action = "{% url 'placedetails' 7 %}" method="post">
+{% csrf_token %}
+    <label>Type here the city name to search</label> 
+    <input type="text" name="placename" value = "enter here" />
+    <input type="submit" value="search" />
+</form>
