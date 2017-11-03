@@ -2,11 +2,14 @@ from django.shortcuts import render
 from django.shortcuts import HttpResponse
 from django.template import loader
 
+from django.http import HttpResponseRedirect
+from django.urls import reverse
+from django.views import generic
+
 from .models import City, Indicators
 
 # Create your views here.
 def index(request):
-
     return render(request, 'places/index.html')
     #return HttpResponse("Hey there. You r in main page!")
 
@@ -16,20 +19,27 @@ def placeenterform(request):
 def timeenterform(request):
     return HttpResponse("enter here the holiday time!")
 
-def placedetails(request, city_id):
+#def placedetails(request, city_id):
+def placedetails(request):
+   # streingg = request.POST['placename']
+    streingg = request.POST.get('placename', False);
+    print(streingg)
+
+    return HttpResponse("dcjsdkcndjcsd")
+
     #change to id later!
-    required_city = City.objects.get(city_name = 'Moscow')
+    #required_city = City.objects.get(city_name = 'Moscow')
     
-    print(str(required_city.id) + "-" + required_city.city_name + "-"+ str(required_city.city_country_id))
+    #print(str(required_city.id) + "-" + required_city.city_name + "-"+ str(required_city.city_country_id))
     
-    place_details = []
-    place_details = Indicators.objects.filter(city = required_city.id)
-    for indicator in place_details:
-        print(str(indicator.city) + "-" + str(indicator.temperature) + "-" + str(indicator.precipitation))
-    context = {
-        'place_info' : place_details,
-    }
-    return render(request, 'places/city_details.html', context)
+    #place_details = []
+    #place_details = Indicators.objects.filter(city = required_city.id)
+    #or indicator in place_details:
+    #    print(str(indicator.city) + "-" + str(indicator.temperature) + "-" + str(indicator.precipitation))
+    #context = {
+     #   'place_info' : place_details,
+    #}
+    #return render(request, 'places/city_details.html', context)
 
 #require the number of the month for a datetime!
 def placestop(request, datetime):
