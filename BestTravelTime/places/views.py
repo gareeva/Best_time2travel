@@ -21,14 +21,29 @@ def timeenterform(request):
 
 #def placedetails(request, city_id):
 def placedetails(request):
-   # streingg = request.POST['placename']
-    streingg = request.POST.get('placename', False);
-    print(streingg)
+    entered_city= request.POST.get('placename', False);
+    #print(entered_city)
+    required_city = City.objects.get(city_name = entered_city)
 
-    return HttpResponse("dcjsdkcndjcsd")
+    place_info = []
+    place_indicators = Indicators.objects.all()
+    for indicator in place_indicators:
+        print(indicator)
+        #if (3 == 3):
+        if (indicator.city_id == required_city.id):
+            place_info.append(indicator)
 
-    #change to id later!
-    #required_city = City.objects.get(city_name = 'Moscow')
+    context = {
+        'place_info' : place_info,
+    }
+
+    return render(request, 'places/city_details.html', context)
+    #change to id later! Because you will need to automate the entering
+    
+
+    #return HttpResponse(required_city.city_country)
+
+    
     
     #print(str(required_city.id) + "-" + required_city.city_name + "-"+ str(required_city.city_country_id))
     
