@@ -34,30 +34,18 @@ def placedetails(request):
             place_info.append(indicator)
 
     context = {
+        'place_name' : str(entered_city),
         'place_info' : place_info,
+        'error_message' : "No such a city! Please enter another one!",
     }
 
     return render(request, 'places/city_details.html', context)
     #change to id later! Because you will need to automate the entering
-    
 
-    #return HttpResponse(required_city.city_country)
-
-    
-    
-    #print(str(required_city.id) + "-" + required_city.city_name + "-"+ str(required_city.city_country_id))
-    
-    #place_details = []
-    #place_details = Indicators.objects.filter(city = required_city.id)
-    #or indicator in place_details:
-    #    print(str(indicator.city) + "-" + str(indicator.temperature) + "-" + str(indicator.precipitation))
-    #context = {
-     #   'place_info' : place_details,
-    #}
-    #return render(request, 'places/city_details.html', context)
 
 #require the number of the month for a datetime!
-def placestop(request, datetime):
+def placestop(request):
+    # datetime entered??
     places_top = []
     places_top = get_indicator_by_month()
 

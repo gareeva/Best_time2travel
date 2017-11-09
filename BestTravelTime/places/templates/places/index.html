@@ -4,9 +4,16 @@
     <p><strong>{{ error_message }}</strong></p>
 {% endif %}
 
-<form action = "{% url 'places:placedetails' %}" method="post">
+<form action = "{% url 'places:placedetails' %}" method="post" id = "form1" >
 {% csrf_token %}
     <label for = "placenameid"> Type here the city name to search </label> 
     <input type="text" id="placenameid" name="placename" placeholder = "enter name here" />
+    <input type="submit" value="search" />
+</form>
+
+<form action = "{% url 'places:placestop' %}" method="post" id = "form2">
+{% csrf_token %}
+    <label for = "placenameid"> Or enter the month of holiday </label> 
+    <input type="text" id="placenameid" name="placename" placeholder = "enter date here" />
     <input type="submit" value="search" />
 </form>

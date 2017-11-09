@@ -1,14 +1,20 @@
-<h1>Welcome to the best travel place!</h1>
+<h1>Welcome to the best travel place:</h1>
 
 {% if error_message %}
     <p><strong>{{ error_message }}</strong></p>
 {% endif %}
 
+{% if place_name %}
+    <h1> {{ place_name }} </h1>
+{% else %}
+    <p>dcsdcds</p>
+{% endif %}
+
+
 {% if place_info %}
     <ul>
     {% for place in place_info %}
         <li>
-            <h1> {{ place.city }} </h1>,
             {{ place.month }},
             {{ place.temperature }}, 
             {{ place.precipitation }}            
