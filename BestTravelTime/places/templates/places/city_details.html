@@ -1,13 +1,9 @@
 <h1>Welcome to the best travel place:</h1>
 
-{% if error_message %}
-    <p><strong>{{ error_message }}</strong></p>
-{% endif %}
-
 {% if place_name %}
     <h1> {{ place_name }} </h1>
 {% else %}
-    <p>dcsdcds</p>
+    <p><strong>{{ error_message }}</strong></p>
 {% endif %}
 
 
