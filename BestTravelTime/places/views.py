@@ -11,8 +11,7 @@ from .models import City, Indicators
 
 # Create your views here.
 def index(request):
-    #return render(request, 'places/index.html')
-    return HttpResponse(test_get_info_from_weatheronline())
+    return render(request, 'places/index.html')
     #return HttpResponse("api test!")
 
 def placeenterform(request):
@@ -41,7 +40,10 @@ def placedetails(request):
         'error_message' : "No such a city! Please enter another one!",
     }
 
-    return render(request, 'places/city_details.html', context)
+    return HttpResponse(test_get_info_from_weatheronline(entered_city))
+    #change the variables when cleaned
+    #return render(request, 'places/city_details.html', context)
+
     #change to id later! Because you will need to automate the entering
 
 
@@ -82,8 +84,11 @@ def get_city_list(places_top):
             new_city_list.append(city)
     return new_city_list
 
-def test_get_info_from_weatheronline():
-    request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q=Moscow&format=json'
+def test_get_info_from_weatheronline(cityname):
+    request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q='
+    #request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q=Moscow&format=json'
+    request_url = request_url + cityname
+    request_url = request_url + '&format=json'
     response = requests.get(request_url)
-    print(response)
+    print (request_url)
     return response
