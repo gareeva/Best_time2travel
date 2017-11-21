@@ -2,16 +2,15 @@ from django.db import models
 from django.db.models.functions import Concat
 
 # Create your models here.
-
 class Country(models.Model):
-    country_name = models.CharField(max_length=1000)
+    short_name = models.CharField(max_length=1000, default='none')
+    country_name = models.CharField(max_length=1000, default='none')
     def __str__(self):
         return self.country_name
 
 class City(models.Model):
     city_country = models.ForeignKey(Country, on_delete=models.CASCADE)
     city_name = models.CharField(max_length=1000)
-    #indicator = models.ForeignKey(Indicators, on_delete=models.CASCADE)
     
     def __str__(self):
         return self.city_name
@@ -26,4 +25,3 @@ class Indicators(models.Model):
         longname = str(self.city)
         longname = longname + str(self.month)
         return longname
-
