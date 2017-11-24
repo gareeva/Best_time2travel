@@ -1,0 +1,7323 @@
+city	country	iso2
+Qal eh-ye Now	Afghanistan	AF
+Chaghcharan	Afghanistan	AF
+Lashkar Gah	Afghanistan	AF
+Zaranj	Afghanistan	AF
+Tarin Kowt	Afghanistan	AF
+Zareh Sharan	Afghanistan	AF
+Asadabad	Afghanistan	AF
+Taloqan	Afghanistan	AF
+Mahmud-E Eraqi	Afghanistan	AF
+Mehtar Lam	Afghanistan	AF
+Baraki Barak	Afghanistan	AF
+Aybak	Afghanistan	AF
+Mayda Shahr	Afghanistan	AF
+Karokh	Afghanistan	AF
+Sheberghan	Afghanistan	AF
+Pol-e Khomri	Afghanistan	AF
+Balkh	Afghanistan	AF
+Meymaneh	Afghanistan	AF
+Andkhvoy	Afghanistan	AF
+Qalat	Afghanistan	AF
+Ghazni	Afghanistan	AF
+Feyzabad	Afghanistan	AF
+Kondoz	Afghanistan	AF
+Jalalabad	Afghanistan	AF
+Charikar	Afghanistan	AF
+Gardiz	Afghanistan	AF
+Bamian	Afghanistan	AF
+Baghlan	Afghanistan	AF
+Farah	Afghanistan	AF
+Herat	Afghanistan	AF
+Mazar-e Sharif	Afghanistan	AF
+Kandahar	Afghanistan	AF
+Kabul	Afghanistan	AF
+Mariehamn	Aland	AX
+Kruje	Albania	AL
+Fier	Albania	AL
+Lushnje	Albania	AL
+Puke	Albania	AL
+Bajram Curri	Albania	AL
+Kukes	Albania	AL
+Sarande	Albania	AL
+Erseke	Albania	AL
+Pogradec	Albania	AL
+Korce	Albania	AL
+Berat	Albania	AL
+Corovode	Albania	AL
+Gramsh	Albania	AL
+Librazhd	Albania	AL
+Tepelene	Albania	AL
+Permet	Albania	AL
+Gjirokaster	Albania	AL
+Peshkopi	Albania	AL
+Burrel	Albania	AL
+Lezhe	Albania	AL
+Rreshen	Albania	AL
+Vlore	Albania	AL
+Elbasan	Albania	AL
+Durres	Albania	AL
+Shkoder	Albania	AL
+Tirana	Albania	AL
+Jijel	Algeria	DZ
+Tizi-Ouzou	Algeria	DZ
+Bordj Bou Arreridj	Algeria	DZ
+M'sila	Algeria	DZ
+Guelma	Algeria	DZ
+Oum el Bouaghi	Algeria	DZ
+Timimoun	Algeria	DZ
+Sidi bel Abbes	Algeria	DZ
+Tlimcen	Algeria	DZ
+Beni Ounif	Algeria	DZ
+Abadla	Algeria	DZ
+Sefra	Algeria	DZ
+Skikda	Algeria	DZ
+Djanet	Algeria	DZ
+I-n-Amenas	Algeria	DZ
+In Amguel	Algeria	DZ
+El Bayadh	Algeria	DZ
+El Oued	Algeria	DZ
+Hassi Messaoud	Algeria	DZ
+Chlef	Algeria	DZ
+Mascara	Algeria	DZ
+Mostaganem	Algeria	DZ
+Saida	Algeria	DZ
+Tiarat	Algeria	DZ
+Bejaia	Algeria	DZ
+Blida	Algeria	DZ
+Bouira	Algeria	DZ
+Medea	Algeria	DZ
+Souk Ahras	Algeria	DZ
+Tebessa	Algeria	DZ
+Adrar	Algeria	DZ
+Reggane	Algeria	DZ
+Bechar	Algeria	DZ
+Tindouf	Algeria	DZ
+Illizi	Algeria	DZ
+Arak	Algeria	DZ
+I-n-Salah	Algeria	DZ
+El Golea	Algeria	DZ
+Laghouat	Algeria	DZ
+Touggourt	Algeria	DZ
+Ouargla	Algeria	DZ
+Biskra	Algeria	DZ
+Djelfa	Algeria	DZ
+Setif	Algeria	DZ
+Batna	Algeria	DZ
+Annaba	Algeria	DZ
+Constantine	Algeria	DZ
+Oran	Algeria	DZ
+Tamanrasset	Algeria	DZ
+Ghardaia	Algeria	DZ
+Algiers	Algeria	DZ
+Pago Pago	American Samoa	AS
+Andorra	Andorra	AD
+Mucusso	Angola	AO
+Lucapa	Angola	AO
+Capenda-Camulemba	Angola	AO
+Saurimo	Angola	AO
+Muconda	Angola	AO
+Cacolo	Angola	AO
+Caxito	Angola	AO
+Camabatela	Angola	AO
+Ndalatando	Angola	AO
+Quibala	Angola	AO
+Calulo	Angola	AO
+Waku Kungo	Angola	AO
+Songo	Angola	AO
+Mbanza-Congo	Angola	AO
+Nzeto	Angola	AO
+Soyo	Angola	AO
+Cabinda	Angola	AO
+Calucinga	Angola	AO
+Camacupa	Angola	AO
+Cubal	Angola	AO
+Mavinga	Angola	AO
+Cuito Caunavale	Angola	AO
+Luiana	Angola	AO
+Ondjiva	Angola	AO
+Chitado	Angola	AO
+Chibemba	Angola	AO
+Chibia	Angola	AO
+Quipungo	Angola	AO
+Luau	Angola	AO
+Cangamba	Angola	AO
+Lumbala Nguimbo	Angola	AO
+Cazombo	Angola	AO
+Dundo	Angola	AO
+Ambriz	Angola	AO
+Dondo	Angola	AO
+Sumbe	Angola	AO
+Uige	Angola	AO
+Kuito	Angola	AO
+Lobito	Angola	AO
+Xangongo	Angola	AO
+Luena	Angola	AO
+TÃ´mbua	Angola	AO
+Malanje	Angola	AO
+Benguela	Angola	AO
+Lubango	Angola	AO
+Namibe	Angola	AO
+Menongue	Angola	AO
+Huambo	Angola	AO
+Luanda	Angola	AO
+Artigas Base	Antarctica	AQ
+Capitan Arturo Prat Station	Antarctica	AQ
+Marambio Station	Antarctica	AQ
+Zucchelli Station	Antarctica	AQ
+Rothera Station	Antarctica	AQ
+Palmer Station	Antarctica	AQ
+Base Presidente Montalva	Antarctica	AQ
+Carlini Station	Antarctica	AQ
+King Sejong Station	Antarctica	AQ
+Great Wall Station	Antarctica	AQ
+Escudero Base	Antarctica	AQ
+Elephant Island	3	Antarctica
+Scott Base	Antarctica	AQ
+McMurdo Station	Antarctica	AQ
+Zhongshan Station	Antarctica	AQ
+Vostok	Antarctica	AQ
+Peter I Island	Antarctica	AQ
+Mirny Station	Antarctica	AQ
+Mawson Station	Antarctica	AQ
+Davis Station	Antarctica	AQ
+Concordia Research Station	Antarctica	AQ
+Casey Station	Antarctica	AQ
+Amundsenâ€“Scott South Pole Station	Antarctica	AQ
+Wasa Station	Antarctica	AQ
+Troll Station	Antarctica	AQ
+Svea Station	Antarctica	AQ
+Novolazarevskaya Station	Antarctica	AQ
+Neumayer Station III	Antarctica	AQ
+Maitri Station	Antarctica	AQ
+Halley Station	Antarctica	AQ
+Belgrano Station	Antarctica	AQ
+Camp Sobral	Antarctica	AQ
+Aboa Station	Antarctica	AQ
+San MartÃ­n Station	Antarctica	AQ
+Gen. O'Higgins Station	Antarctica	AQ
+Esperanza Station	Antarctica	AQ
+Orcadas Station	Antarctica	AQ
+Signy Research Station	Antarctica	AQ
+Dumont d'Urville Station	Antarctica	AQ
+Showa Station	Antarctica	AQ
+Saint John's	Antigua and Barbuda	AG
+28 de Noviembre	Argentina	AR
+Gobernador Gregores	Argentina	AR
+Comondante Luis Piedrabuena	Argentina	AR
+Paso Rio Mayo	Argentina	AR
+Alto Rio Sanguer	Argentina	AR
+El Maiten	Argentina	AR
+Puerto Madryn	Argentina	AR
+Trelew	Argentina	AR
+Las Heras	Argentina	AR
+San Martin	Argentina	AR
+Uspallata	Argentina	AR
+Cutral Co	Argentina	AR
+Punta Alta	Argentina	AR
+San Nicolas	Argentina	AR
+Campana	Argentina	AR
+Chacabuco	Argentina	AR
+Mercedes	Argentina	AR
+Lincoln	Argentina	AR
+Chivilcoy	Argentina	AR
+Veinticinco de Mayo	Argentina	AR
+Nueve de Julio	Argentina	AR
+Dolores	Argentina	AR
+Pedro Luro	Argentina	AR
+Tres Arroyos	Argentina	AR
+Coronel Suarez	Argentina	AR
+Balcarce	Argentina	AR
+25 de Mayo	Argentina	AR
+General Roca	Argentina	AR
+Comallo	Argentina	AR
+Ingeniero Jacobacci	Argentina	AR
+General Conesa	Argentina	AR
+Choele Choel	Argentina	AR
+San Francisco	Argentina	AR
+Alta Gracia	Argentina	AR
+Villa Maria	Argentina	AR
+Bell Ville	Argentina	AR
+Villa Rumipal	Argentina	AR
+Villa Carlos Paz	Argentina	AR
+Chumbicha	Argentina	AR
+Tinogasta	Argentina	AR
+Abra Pampa	Argentina	AR
+Humahuaca	Argentina	AR
+Susques	Argentina	AR
+Chepes	Argentina	AR
+Yacuiba	Argentina	AR
+Tartagal	Argentina	AR
+Joaquin V. Gonzalez	Argentina	AR
+General Guemes	Argentina	AR
+Trancas	Argentina	AR
+Presidencia Roque Saenz Pena	Argentina	AR
+Pampa del Infierno	Argentina	AR
+Villa Angela	Argentina	AR
+Ingeniero Guillermo N. Juarez	Argentina	AR
+Comandante Fontana	Argentina	AR
+Doctor Pedro P. Pena	Argentina	AR
+San Lorenzo	Argentina	AR
+Corrientes	Argentina	AR
+Concepcion del Uruguay	Argentina	AR
+Victoria	Argentina	AR
+Gualeguay	Argentina	AR
+Parana	Argentina	AR
+Villa Constitucion	Argentina	AR
+Rafaela	Argentina	AR
+Eldorado	Argentina	AR
+Rodeo	Argentina	AR
+Las Plumas	Argentina	AR
+Gastre	Argentina	AR
+Telsen	Argentina	AR
+Malargue	Argentina	AR
+Tunuyan	Argentina	AR
+La Paz	Argentina	AR
+Chos Malal	Argentina	AR
+Las Lajas	Argentina	AR
+Zarate	Argentina	AR
+Carhue	Argentina	AR
+Darregueira	Argentina	AR
+Juarez	Argentina	AR
+Mar de Ajo	Argentina	AR
+Lobos	Argentina	AR
+Chascomus	Argentina	AR
+Junin	Argentina	AR
+La Plata	Argentina	AR
+Pergamino	Argentina	AR
+Lujan	Argentina	AR
+Azul	Argentina	AR
+Villalonga	Argentina	AR
+Victorica	Argentina	AR
+General Pico	Argentina	AR
+San Antonio Oeste	Argentina	AR
+Sierra Colorado	Argentina	AR
+Mercedes	Argentina	AR
+Rio Tercero	Argentina	AR
+Belen	Argentina	AR
+Rinconada	Argentina	AR
+San Pedro	Argentina	AR
+Libertador General San Martin	Argentina	AR
+Chilecito	Argentina	AR
+Chamical	Argentina	AR
+Los Blancos	Argentina	AR
+Cafayate	Argentina	AR
+Cerrillos	Argentina	AR
+San Antonio de los Cobres	Argentina	AR
+Anatuya	Argentina	AR
+Frias	Argentina	AR
+Monte Quemado	Argentina	AR
+Juan Jose Castelli	Argentina	AR
+Charata	Argentina	AR
+Las Lomitas	Argentina	AR
+Mercedes	Argentina	AR
+Concordia	Argentina	AR
+Sunchales	Argentina	AR
+San Justo	Argentina	AR
+Vera	Argentina	AR
+Reconquista	Argentina	AR
+Venado Tuerto	Argentina	AR
+Esquel	Argentina	AR
+Zapala	Argentina	AR
+Olavarria	Argentina	AR
+Tandil	Argentina	AR
+Viedma	Argentina	AR
+San Luis	Argentina	AR
+Rio Cuarto	Argentina	AR
+San Salvador de Jujuy	Argentina	AR
+San Ramon de la Nueva Oran	Argentina	AR
+Goya	Argentina	AR
+Puerto San Julian	Argentina	AR
+Perito Moreno	Argentina	AR
+Rio Grande	Argentina	AR
+Ushuaia	Argentina	AR
+Sarmiento	Argentina	AR
+San Rafael	Argentina	AR
+Necochea	Argentina	AR
+Rio Colorado	Argentina	AR
+Catamarca	Argentina	AR
+La Rioja	Argentina	AR
+Santiago del Estero	Argentina	AR
+Resistencia	Argentina	AR
+Gualeguaychu	Argentina	AR
+El Calafate	Argentina	AR
+San Juan	Argentina	AR
+Rawson	Argentina	AR
+Neuquen	Argentina	AR
+Santa Rosa	Argentina	AR
+San Carlos de Bariloche	Argentina	AR
+Salta	Argentina	AR
+TucumÃ¡n	Argentina	AR
+Formosa	Argentina	AR
+Santa Fe	Argentina	AR
+Rosario	Argentina	AR
+Puerto Deseado	Argentina	AR
+Rio Gallegos	Argentina	AR
+Comodoro Rivadavia	Argentina	AR
+Mendoza	Argentina	AR
+Bahia Blanca	Argentina	AR
+Mar del Plata	Argentina	AR
+CÃ³rdoba	Argentina	AR
+Posadas	Argentina	AR
+Buenos Aires	Argentina	AR
+Ashtarak	Armenia	AM
+Ijevan	Armenia	AM
+Artashat	Armenia	AM
+Gavarr	Armenia	AM
+Yeghegnadzor	Armenia	AM
+Gyumri	Armenia	AM
+Vanadzor	Armenia	AM
+Yerevan	Armenia	AM
+Oranjestad	Aruba	AW
+Central Coast	Australia	AU
+Sunshine Coast	Australia	AU
+Bourke	Australia	AU
+Pine Creek	Australia	AU
+Adelaide River	Australia	AU
+McMinns Lagoon	Australia	AU
+Newcastle Waters	Australia	AU
+Ravensthorpe	Australia	AU
+Wagin	Australia	AU
+Roebourne	Australia	AU
+Pannawonica	Australia	AU
+Tom Price	Australia	AU
+Kalbarri	Australia	AU
+Mount Magnet	Australia	AU
+Morawa	Australia	AU
+Port Denison	Australia	AU
+Merredin	Australia	AU
+Mount Barker	Australia	AU
+Katanning	Australia	AU
+Narrogin	Australia	AU
+Gingin	Australia	AU
+Bunbury	Australia	AU
+Kwinana	Australia	AU
+Southern Cross	Australia	AU
+Kaltukatjara	Australia	AU
+Queanbeyan	Australia	AU
+Tweed Heads	Australia	AU
+Ivanhoe	Australia	AU
+Wilcannia	Australia	AU
+Merimbula	Australia	AU
+Echuca	Australia	AU
+Deniliquin	Australia	AU
+Nowra	Australia	AU
+Ulladulla	Australia	AU
+Batemans Bay	Australia	AU
+Cooma	Australia	AU
+Tumut	Australia	AU
+Leeton	Australia	AU
+Young	Australia	AU
+Cowra	Australia	AU
+Forbes	Australia	AU
+Goulburn	Australia	AU
+Kiama	Australia	AU
+Katoomba	Australia	AU
+Richmond	Australia	AU
+Lithgow	Australia	AU
+Parkes	Australia	AU
+Bathurst	Australia	AU
+Maitland	Australia	AU
+Singleton	Australia	AU
+Mudgee	Australia	AU
+Muswellbrook	Australia	AU
+Taree	Australia	AU
+Kempsey	Australia	AU
+Gunnedah	Australia	AU
+Coffs Harbour	Australia	AU
+Narrabri	Australia	AU
+Inverell	Australia	AU
+Yamba	Australia	AU
+Ballina	Australia	AU
+Wagga Wagga	Australia	AU
+Scone	Australia	AU
+Byron Bay	Australia	AU
+Berri	Australia	AU
+Peterborough	Australia	AU
+Wallaroo	Australia	AU
+Clare	Australia	AU
+Meningie	Australia	AU
+Kingston South East	Australia	AU
+Bordertown	Australia	AU
+Penola	Australia	AU
+Kingoonya	Australia	AU
+Kimba	Australia	AU
+Streaky Bay	Australia	AU
+Cowell	Australia	AU
+Tumby Bay	Australia	AU
+Andamooka	Australia	AU
+Woomera	Australia	AU
+Port Pirie	Australia	AU
+Gawler	Australia	AU
+Murray Bridge	Australia	AU
+Victor Harbor	Australia	AU
+Hamilton	Australia	AU
+Ouyen	Australia	AU
+Colac	Australia	AU
+Stawell	Australia	AU
+Horsham	Australia	AU
+Ararat	Australia	AU
+Maryborough	Australia	AU
+Bairnsdale	Australia	AU
+Sale	Australia	AU
+Traralgon	Australia	AU
+Wonthaggi	Australia	AU
+Cranbourne	Australia	AU
+Ballarat	Australia	AU
+Melton	Australia	AU
+Seymour	Australia	AU
+Shepparton	Australia	AU
+Cobram	Australia	AU
+Swan Hill	Australia	AU
+Sunbury	Australia	AU
+Proserpine	Australia	AU
+Theodore	Australia	AU
+Eidsvold	Australia	AU
+Barcaldine	Australia	AU
+Winton	Australia	AU
+Longreach	Australia	AU
+Caboolture	Australia	AU
+Warwick	Australia	AU
+Kingaroy	Australia	AU
+Dalby	Australia	AU
+Bongaree	Australia	AU
+Gympie	Australia	AU
+Ingham	Australia	AU
+Birdsville	Australia	AU
+Bedourie	Australia	AU
+Boulia	Australia	AU
+Richmond	Australia	AU
+Burketown	Australia	AU
+Hervey Bay	Australia	AU
+Biloela	Australia	AU
+Yeppoon	Australia	AU
+Emerald	Australia	AU
+Moranbah	Australia	AU
+Charters Towers	Australia	AU
+Ayr	Australia	AU
+Atherton	Australia	AU
+Port Douglas	Australia	AU
+Smithton	Australia	AU
+Scottsdale	Australia	AU
+Bicheno	Australia	AU
+Oatlands	Australia	AU
+Queenstown	Australia	AU
+Kingston	Australia	AU
+Tennant Creek	Australia	AU
+Yulara	Australia	AU
+Erldunda	Australia	AU
+Norseman	Australia	AU
+Halls Creek	Australia	AU
+Kununurra	Australia	AU
+Derby	Australia	AU
+Onslow	Australia	AU
+Exmouth	Australia	AU
+Carnarvon	Australia	AU
+Newman	Australia	AU
+Meekatharra	Australia	AU
+Three Springs	Australia	AU
+Manjimup	Australia	AU
+Northam	Australia	AU
+Esperance	Australia	AU
+Leonara	Australia	AU
+Laverton	Australia	AU
+Wyndham	Australia	AU
+Albury	Australia	AU
+Forster-Tuncurry	Australia	AU
+Port Macquarie	Australia	AU
+Tamworth	Australia	AU
+Grafton	Australia	AU
+Moree	Australia	AU
+Goondiwindi	Australia	AU
+Lismore	Australia	AU
+Wollongong	Australia	AU
+Ceduna	Australia	AU
+Mount Gambier	Australia	AU
+Port Augusta	Australia	AU
+Warrnambool	Australia	AU
+Mildura	Australia	AU
+Geelong	Australia	AU
+Camooweal	Australia	AU
+Quilpie	Australia	AU
+Charleville	Australia	AU
+Hughenden	Australia	AU
+Caloundra	Australia	AU
+Roma	Australia	AU
+Toowoomba	Australia	AU
+Georgetown	Australia	AU
+Thargomindah	Australia	AU
+Weipa	Australia	AU
+Karumba	Australia	AU
+Cloncurry	Australia	AU
+Maryborough	Australia	AU
+Bundaberg	Australia	AU
+Gladstone	Australia	AU
+Bowen	Australia	AU
+Innisfail	Australia	AU
+Mackay	Australia	AU
+Burnie	Australia	AU
+Launceston	Australia	AU
+Katherine	Australia	AU
+Busselton	Australia	AU
+Mandurah	Australia	AU
+Broome	Australia	AU
+Kalgoorlie	Australia	AU
+Albany	Australia	AU
+Port Hedland	Australia	AU
+Karratha	Australia	AU
+Geraldton	Australia	AU
+Griffith	Australia	AU
+Orange	Australia	AU
+Dubbo	Australia	AU
+Armidale	Australia	AU
+Broken Hill	Australia	AU
+Port Lincoln	Australia	AU
+Whyalla	Australia	AU
+Portland	Australia	AU
+Bendigo	Australia	AU
+Wangaratta	Australia	AU
+Windorah	Australia	AU
+Mount Isa	Australia	AU
+Rockhampton	Australia	AU
+Cairns	Australia	AU
+Gold Coast	Australia	AU
+Devonport	Australia	AU
+Darwin	Australia	AU
+Alice Springs	Australia	AU
+Canberra	Australia	AU
+Newcastle	Australia	AU
+Adelaide	Australia	AU
+Townsville	Australia	AU
+Brisbane	Australia	AU
+Hobart	Australia	AU
+Perth	Australia	AU
+Melbourne	Australia	AU
+Sydney	Australia	AU
+Bregenz	Austria	AT
+Eisenstadt	Austria	AT
+Wiener Neustadt	Austria	AT
+Graz	Austria	AT
+Klagenfurt	Austria	AT
+Linz	Austria	AT
+Passau	Austria	AT
+Salzburg	Austria	AT
+Innsbruck	Austria	AT
+Vienna	Austria	AT
+Gadabay	Azerbaijan	AZ
+Goranboy	Azerbaijan	AZ
+Tovuz	Azerbaijan	AZ
+Agdam	Azerbaijan	AZ
+Qabala	Azerbaijan	AZ
+Oguz	Azerbaijan	AZ
+Ganca	Azerbaijan	AZ
+Yevlax	Azerbaijan	AZ
+Sumqayt	Azerbaijan	AZ
+Ali Bayramli	Azerbaijan	AZ
+Goycay	Azerbaijan	AZ
+Lankaran	Azerbaijan	AZ
+Saki	Azerbaijan	AZ
+Stepanakert	Azerbaijan	AZ
+Kapan	Azerbaijan	AZ
+Naxcivan	Azerbaijan	AZ
+Baku	Azerbaijan	AZ
+Manama	Bahrain	BH
+Tangail	Bangladesh	BD
+Sylhet	Bangladesh	BD
+Mymensingh	Bangladesh	BD
+Jamalpur	Bangladesh	BD
+Narayanganj	Bangladesh	BD
+Jessore	Bangladesh	BD
+Barisal	Bangladesh	BD
+Comilla	Bangladesh	BD
+Pabna	Bangladesh	BD
+Nawabganj	Bangladesh	BD
+Saidpur	Bangladesh	BD
+Rangpur	Bangladesh	BD
+Khulna	Bangladesh	BD
+Rajshahi	Bangladesh	BD
+Dhaka	Bangladesh	BD
+Chittagong	Bangladesh	BD
+Bridgetown	Barbados	BB
+Baranavichy	Belarus	BY
+Polatsk	Belarus	BY
+Maladzyechna	Belarus	BY
+Pinsk	Belarus	BY
+Mazyr	Belarus	BY
+Mahilyow	Belarus	BY
+Babruysk	Belarus	BY
+Orsha	Belarus	BY
+Lida	Belarus	BY
+Hrodna	Belarus	BY
+Barysaw	Belarus	BY
+Homyel	Belarus	BY
+Vitsyebsk	Belarus	BY
+Brest	Belarus	BY
+Minsk	Belarus	BY
+Mons	Belgium	BE
+Hasselt	Belgium	BE
+Arlon	Belgium	BE
+Gent	Belgium	BE
+Liege	Belgium	BE
+Brugge	Belgium	BE
+Namur	Belgium	BE
+Charleroi	Belgium	BE
+Antwerpen	Belgium	BE
+Brussels	Belgium	BE
+El Cayo	Belize	BZ
+Corozal	Belize	BZ
+Dangriga	Belize	BZ
+Belize City	Belize	BZ
+Orange Walk	Belize	BZ
+Punta Gorda	Belize	BZ
+Belmopan	Belize	BZ
+Lokossa	Benin	BJ
+Kandi	Benin	BJ
+Ouidah	Benin	BJ
+Abomey	Benin	BJ
+Natitingou	Benin	BJ
+Djougou	Benin	BJ
+Parakou	Benin	BJ
+Porto-Novo	Benin	BJ
+Cotonou	Benin	BJ
+Hamilton	Bermuda	BM
+Paro	Bhutan	BT
+Punakha	Bhutan	BT
+Wangdue Prodrang	Bhutan	BT
+Thimphu	Bhutan	BT
+Punata	Bolivia	BO
+Cliza	Bolivia	BO
+Quillacollo	Bolivia	BO
+Puerto Villarroel	Bolivia	BO
+Tarabuco	Bolivia	BO
+Guayaramerin	Bolivia	BO
+Santa Ana	Bolivia	BO
+Baures	Bolivia	BO
+Sica Sica	Bolivia	BO
+Rurrenabaque	Bolivia	BO
+Sorata	Bolivia	BO
+Achacachi	Bolivia	BO
+Viacha	Bolivia	BO
+Quime	Bolivia	BO
+Llallagua	Bolivia	BO
+Uncia	Bolivia	BO
+Uyuni	Bolivia	BO
+Villa Martin	Bolivia	BO
+Betanzos	Bolivia	BO
+Portachuelo	Bolivia	BO
+Samaipata	Bolivia	BO
+Cuevo	Bolivia	BO
+San Carlos	Bolivia	BO
+San Lorenzo	Bolivia	BO
+Entre Rios	Bolivia	BO
+Aiquile	Bolivia	BO
+Padilla	Bolivia	BO
+Camargo	Bolivia	BO
+Reyes	Bolivia	BO
+San Borja	Bolivia	BO
+Magdalena	Bolivia	BO
+San Ramon	Bolivia	BO
+Puerto Heath	Bolivia	BO
+Charana	Bolivia	BO
+Puerto Acosta	Bolivia	BO
+Apolo	Bolivia	BO
+Coroico	Bolivia	BO
+Coro Coro	Bolivia	BO
+Sabaya	Bolivia	BO
+Challapata	Bolivia	BO
+Llica	Bolivia	BO
+Potosi	Bolivia	BO
+Villazon	Bolivia	BO
+Tupiza	Bolivia	BO
+Montero	Bolivia	BO
+Piso Firme	Bolivia	BO
+Robore	Bolivia	BO
+Puerto Quijarro	Bolivia	BO
+San Ignacio	Bolivia	BO
+Ascension	Bolivia	BO
+San Javier	Bolivia	BO
+San Rafael	Bolivia	BO
+Vallegrande	Bolivia	BO
+Puerto Suarez	Bolivia	BO
+Charagua	Bolivia	BO
+Villamontes	Bolivia	BO
+Bermejo	Bolivia	BO
+Cochabamba	Bolivia	BO
+Oruro	Bolivia	BO
+Camiri	Bolivia	BO
+Cobija	Bolivia	BO
+San Matias	Bolivia	BO
+San JosÃ©	Bolivia	BO
+Trinidad	Bolivia	BO
+Tarija	Bolivia	BO
+Sucre	Bolivia	BO
+Riberalta	Bolivia	BO
+La Paz	Bolivia	BO
+Santa Cruz	Bolivia	BO
+Zenica	Bosnia and Herzegovina	BA
+Mostar	Bosnia and Herzegovina	BA
+Tuzla	Bosnia and Herzegovina	BA
+Prijedor	Bosnia and Herzegovina	BA
+Banja Luka	Bosnia and Herzegovina	BA
+Sarajevo	Bosnia and Herzegovina	BA
+Mochudi	Botswana	BW
+Ghanzi	Botswana	BW
+Lokhwabe	Botswana	BW
+Lehututu	Botswana	BW
+Tshabong	Botswana	BW
+Tsau	Botswana	BW
+Nokaneng	Botswana	BW
+Mohembo	Botswana	BW
+Maun	Botswana	BW
+Kasane	Botswana	BW
+Nata	Botswana	BW
+Mopipi	Botswana	BW
+Palapye	Botswana	BW
+Lobatse	Botswana	BW
+Kanye	Botswana	BW
+Molepolole	Botswana	BW
+Francistown	Botswana	BW
+Mahalapye	Botswana	BW
+Serowe	Botswana	BW
+Gaborone	Botswana	BW
+Grajau	Brazil	BR
+Presidente Dutra	Brazil	BR
+Itapecuru Mirim	Brazil	BR
+Sao Jose de Ribamar	Brazil	BR
+Santa Ines	Brazil	BR
+Rosario	Brazil	BR
+Timon	Brazil	BR
+Capanema	Brazil	BR
+Portel	Brazil	BR
+Itupiranga	Brazil	BR
+Pimenta Bueno	Brazil	BR
+Ponta Pora	Brazil	BR
+Maracaju	Brazil	BR
+Jardim	Brazil	BR
+Tres Lagoas	Brazil	BR
+Guanhaes	Brazil	BR
+Leopoldina	Brazil	BR
+Nova Lima	Brazil	BR
+Pouso Alegre	Brazil	BR
+Itauna	Brazil	BR
+Caratinga	Brazil	BR
+Diamantina	Brazil	BR
+Nanuque	Brazil	BR
+Barbacena	Brazil	BR
+Pocos de Caldas	Brazil	BR
+Guaxupe	Brazil	BR
+Sao Joao del Rei	Brazil	BR
+Muriae	Brazil	BR
+Passos	Brazil	BR
+Conselheiro Lafaiete	Brazil	BR
+Formiga	Brazil	BR
+Frutal	Brazil	BR
+Iturama	Brazil	BR
+Ituiutaba	Brazil	BR
+Araguari	Brazil	BR
+Almenara	Brazil	BR
+Varzea Grande	Brazil	BR
+CÃ¡ceres	Brazil	BR
+Santana do Livramento	Brazil	BR
+Canoas	Brazil	BR
+Quarai	Brazil	BR
+Santa Vitoria do Palmar	Brazil	BR
+Sao Lourenco do Sul	Brazil	BR
+Canela	Brazil	BR
+Sao Gabriel	Brazil	BR
+Rosario do Sul	Brazil	BR
+Cachoeira do Sul	Brazil	BR
+Osorio	Brazil	BR
+Santa Cruz do Sul	Brazil	BR
+Sao Luiz Gonzaga	Brazil	BR
+Santo Angelo	Brazil	BR
+Carazinho	Brazil	BR
+Erechim	Brazil	BR
+Guaira	Brazil	BR
+Palmas	Brazil	BR
+Arapongas	Brazil	BR
+Paranagua	Brazil	BR
+Sao Jose dos Pinhais	Brazil	BR
+Guarapuava	Brazil	BR
+Rio Negro	Brazil	BR
+Apucarana	Brazil	BR
+Lapa	Brazil	BR
+Irati	Brazil	BR
+Castro	Brazil	BR
+Telemaco Borba	Brazil	BR
+Jacarezinho	Brazil	BR
+Concordia	Brazil	BR
+Blumenau	Brazil	BR
+Brusque	Brazil	BR
+Ararangua	Brazil	BR
+Jaragua do Sul	Brazil	BR
+Tubarao	Brazil	BR
+Laguna	Brazil	BR
+Joacaba	Brazil	BR
+Cacador	Brazil	BR
+Canoinhas	Brazil	BR
+Camocim	Brazil	BR
+Russas	Brazil	BR
+Sobral	Brazil	BR
+Iguatu	Brazil	BR
+Quixada	Brazil	BR
+Caninde	Brazil	BR
+Campo Maior	Brazil	BR
+Barras	Brazil	BR
+Rio Largo	Brazil	BR
+Palmeira dos Indios	Brazil	BR
+Santa Cruz Cabralia	Brazil	BR
+Paulo Afonso	Brazil	BR
+Brumado	Brazil	BR
+Jaguaquara	Brazil	BR
+Itapetinga	Brazil	BR
+Ubaitaba	Brazil	BR
+Cachoeiro de Itapemirim	Brazil	BR
+Barra Mansa	Brazil	BR
+Nova Iguacu	Brazil	BR
+Duque de Caxias	Brazil	BR
+Niteroi	Brazil	BR
+Cabo Frio	Brazil	BR
+Macae	Brazil	BR
+Miracema	Brazil	BR
+Apodi	Brazil	BR
+Santa Cruz	Brazil	BR
+Morrinhos	Brazil	BR
+Ceres	Brazil	BR
+Catalao	Brazil	BR
+Cristalina	Brazil	BR
+Trindade	Brazil	BR
+Ipora	Brazil	BR
+Inhumas	Brazil	BR
+Itaberai	Brazil	BR
+Santo Andre	Brazil	BR
+Pindamonhangaba	Brazil	BR
+Rio Claro	Brazil	BR
+Ourinhos	Brazil	BR
+Itanhaem	Brazil	BR
+Jaboticabal	Brazil	BR
+Braganca Paulista	Brazil	BR
+Jundiai	Brazil	BR
+Sao Jose dos Campos	Brazil	BR
+Guaratingueta	Brazil	BR
+Pirassununga	Brazil	BR
+Americana	Brazil	BR
+Piracicaba	Brazil	BR
+Sao Joao da Boa Vista	Brazil	BR
+Sao Carlos	Brazil	BR
+Tupa	Brazil	BR
+Penapolis	Brazil	BR
+Presidente Prudente	Brazil	BR
+Registro	Brazil	BR
+Tatui	Brazil	BR
+Avare	Brazil	BR
+Garca	Brazil	BR
+Catanduva	Brazil	BR
+Batatais	Brazil	BR
+Barretos	Brazil	BR
+Marilia	Brazil	BR
+Itu	Brazil	BR
+Itapetininga	Brazil	BR
+Jaboatao	Brazil	BR
+Olinda	Brazil	BR
+Cabo de Santo Agostinho	Brazil	BR
+Carpina	Brazil	BR
+Arcoverde	Brazil	BR
+Manacapuru	Brazil	BR
+Maues	Brazil	BR
+Pedreiras	Brazil	BR
+Codo	Brazil	BR
+Coroata	Brazil	BR
+Chapadinha	Brazil	BR
+Pinheiro	Brazil	BR
+Barra do Corda	Brazil	BR
+Viana	Brazil	BR
+Colinas	Brazil	BR
+Viseu	Brazil	BR
+Capitao Poco	Brazil	BR
+Castanhal	Brazil	BR
+Salinopolis	Brazil	BR
+Alenquer	Brazil	BR
+Oriximina	Brazil	BR
+Xinguara	Brazil	BR
+JacundÃ¡	Brazil	BR
+Uruara	Brazil	BR
+Altamira	Brazil	BR
+Paragominas	Brazil	BR
+Cameta	Brazil	BR
+Rolim de Moura	Brazil	BR
+Ariquemes	Brazil	BR
+Abuna	Brazil	BR
+Tocantinopolis	Brazil	BR
+Gurupi	Brazil	BR
+Aquidauana	Brazil	BR
+Paranaiba	Brazil	BR
+Sete Lagoas	Brazil	BR
+Divinopolis	Brazil	BR
+Ipatinga	Brazil	BR
+Araxa	Brazil	BR
+Lavras	Brazil	BR
+Uba	Brazil	BR
+Campo Belo	Brazil	BR
+Ponte Nova	Brazil	BR
+Curvelo	Brazil	BR
+Paracatu	Brazil	BR
+Bocaiuva	Brazil	BR
+Aracuai	Brazil	BR
+Janauba	Brazil	BR
+Juina	Brazil	BR
+Barra do Garcas	Brazil	BR
+Pontes e Lacerda	Brazil	BR
+Barra do Bugres	Brazil	BR
+Rondonopolis	Brazil	BR
+Uruguaiana	Brazil	BR
+Sao Borja	Brazil	BR
+Novo Hamburgo	Brazil	BR
+Rio Grande	Brazil	BR
+Camaqua	Brazil	BR
+Bento Goncalves	Brazil	BR
+Vacaria	Brazil	BR
+Ijui	Brazil	BR
+Santa Rosa	Brazil	BR
+Maringa	Brazil	BR
+Cascavel	Brazil	BR
+Campo Murao	Brazil	BR
+Foz do Iguacu	Brazil	BR
+Sao Francisco do Sul	Brazil	BR
+Porto Uniao	Brazil	BR
+Itajai	Brazil	BR
+Imbituba	Brazil	BR
+Lajes	Brazil	BR
+Granja	Brazil	BR
+Crato	Brazil	BR
+Itapipoca	Brazil	BR
+Paracuru	Brazil	BR
+Acarau	Brazil	BR
+Taua	Brazil	BR
+Crateus	Brazil	BR
+Baturite	Brazil	BR
+Ipu	Brazil	BR
+Floriano	Brazil	BR
+Piripiri	Brazil	BR
+Penedo	Brazil	BR
+Itabuna	Brazil	BR
+Itamaraju	Brazil	BR
+Guanambi	Brazil	BR
+Porto Seguro	Brazil	BR
+Valenca	Brazil	BR
+Serrinha	Brazil	BR
+Tucano	Brazil	BR
+Senhor do Bonfim	Brazil	BR
+Remanso	Brazil	BR
+Itambe	Brazil	BR
+Bom Jesus da Lapa	Brazil	BR
+Itaberaba	Brazil	BR
+Sao Mateus	Brazil	BR
+Patos	Brazil	BR
+Volta Redonda	Brazil	BR
+Petropolis	Brazil	BR
+Nova Cruz	Brazil	BR
+Caico	Brazil	BR
+Acu	Brazil	BR
+Estancia	Brazil	BR
+Caracarai	Brazil	BR
+Porto Santana	Brazil	BR
+Rio Verde	Brazil	BR
+Pires do Rio	Brazil	BR
+Anapolis	Brazil	BR
+Goianesia	Brazil	BR
+Niquelandia	Brazil	BR
+Itumbiara	Brazil	BR
+Jatai	Brazil	BR
+Mineiros	Brazil	BR
+Formosa	Brazil	BR
+Sao Jose do Rio Preto	Brazil	BR
+Limeira	Brazil	BR
+Taubate	Brazil	BR
+Jau	Brazil	BR
+Assis	Brazil	BR
+Itapeva	Brazil	BR
+Botucatu	Brazil	BR
+Novo Horizonte	Brazil	BR
+Andradina	Brazil	BR
+Fernandopolis	Brazil	BR
+Barreiros	Brazil	BR
+Salgueiro	Brazil	BR
+Goiana	Brazil	BR
+Timbauba	Brazil	BR
+Bacabal	Brazil	BR
+Braganca	Brazil	BR
+Obidos	Brazil	BR
+Guajara-Miram	Brazil	BR
+Porto Nacional	Brazil	BR
+Dourados	Brazil	BR
+Governador Valadares	Brazil	BR
+Pirapora	Brazil	BR
+Juiz de Fora	Brazil	BR
+Santa Maria	Brazil	BR
+Passo Fundo	Brazil	BR
+Xapeco	Brazil	BR
+Joinville	Brazil	BR
+Juazeiro do Norte	Brazil	BR
+Nova Vicosa	Brazil	BR
+Alagoinhas	Brazil	BR
+Juazeiro	Brazil	BR
+VitÃ³ria	Brazil	BR
+Joao Pessoa	Brazil	BR
+Campina Grande	Brazil	BR
+Nova Friburgo	Brazil	BR
+Aracatuba	Brazil	BR
+Sena Madureira	Brazil	BR
+Fonte Boa	Brazil	BR
+Eirunepe	Brazil	BR
+Manicore	Brazil	BR
+Barcelos	Brazil	BR
+Tonantins	Brazil	BR
+Tefe	Brazil	BR
+Coari	Brazil	BR
+Sao Cabriel da Cachoeira	Brazil	BR
+Novo Airao	Brazil	BR
+Itacoatiara	Brazil	BR
+Parintins	Brazil	BR
+Natal	Brazil	BR
+Crato	Brazil	BR
+Imperatriz	Brazil	BR
+Balsas	Brazil	BR
+Breves	Brazil	BR
+Jacareacanga	Brazil	BR
+Tucurui	Brazil	BR
+Itaituba	Brazil	BR
+Conceicao do Araguaia	Brazil	BR
+Abaetetuba	Brazil	BR
+Principe da Beira	Brazil	BR
+Araguaina	Brazil	BR
+Palmas	Brazil	BR
+Teofilo Otoni	Brazil	BR
+Uberaba	Brazil	BR
+Januaria	Brazil	BR
+Mato Grosso	Brazil	BR
+Aripuana	Brazil	BR
+Sinop	Brazil	BR
+Jaguarao	Brazil	BR
+Bage	Brazil	BR
+Londrina	Brazil	BR
+Criciuma	Brazil	BR
+Aracati	Brazil	BR
+Ico	Brazil	BR
+Parnaiba	Brazil	BR
+Picos	Brazil	BR
+Arapiraca	Brazil	BR
+Jequie	Brazil	BR
+Ilheus	Brazil	BR
+Canavieiras	Brazil	BR
+Santa Maria da Vitoria	Brazil	BR
+Irece	Brazil	BR
+Xique-Xique	Brazil	BR
+Linhares	Brazil	BR
+Campos	Brazil	BR
+Mossoro	Brazil	BR
+Aracaju	Brazil	BR
+Laranjal do Jari	Brazil	BR
+Amapa	Brazil	BR
+Vila Velha	Brazil	BR
+Santos	Brazil	BR
+Bauru	Brazil	BR
+Iguape	Brazil	BR
+Franca	Brazil	BR
+Garanhuns	Brazil	BR
+Caruaru	Brazil	BR
+Rio Branco	Brazil	BR
+SÃ£o LuÃ­s	Brazil	BR
+Porto Velho	Brazil	BR
+Alvorada	Brazil	BR
+Corumba	Brazil	BR
+Belo Horizonte	Brazil	BR
+Montes Claros	Brazil	BR
+Uberlandia	Brazil	BR
+Colider	Brazil	BR
+Alta Floresta	Brazil	BR
+Cuiaba	Brazil	BR
+Pelotas	Brazil	BR
+Caxias do Sul	Brazil	BR
+Ponta Grossa	Brazil	BR
+Teresina	Brazil	BR
+Maceio	Brazil	BR
+Vitoria da Conquista	Brazil	BR
+Barreiras	Brazil	BR
+Vila Velha	Brazil	BR
+Natal	Brazil	BR
+Campinas	Brazil	BR
+Sorocaba	Brazil	BR
+Ribeirao Preto	Brazil	BR
+Petrolina	Brazil	BR
+Cruzeiro do Sul	Brazil	BR
+Manaus	Brazil	BR
+Caxias	Brazil	BR
+Santarem	Brazil	BR
+Maraba	Brazil	BR
+Vilhena	Brazil	BR
+Ji-Parana	Brazil	BR
+Campo Grande	Brazil	BR
+Florianopolis	Brazil	BR
+Feira de Santana	Brazil	BR
+Boa Vista	Brazil	BR
+MacapÃ¡	Brazil	BR
+Belem	Brazil	BR
+Brasilia	Brazil	BR
+Porto Alegre	Brazil	BR
+Curitiba	Brazil	BR
+Fortaleza	Brazil	BR
+Salvador	Brazil	BR
+Goiania	Brazil	BR
+Recife	Brazil	BR
+Rio de Janeiro	Brazil	BR
+Sao Paulo	Brazil	BR
+Bandar Seri Begawan	Brunei	BN
+Lovec	Bulgaria	BG
+Montana	Bulgaria	BG
+Razgrad	Bulgaria	BG
+Sliven	Bulgaria	BG
+Plovdiv	Bulgaria	BG
+Pernik	Bulgaria	BG
+Vratsa	Bulgaria	BG
+Shumen	Bulgaria	BG
+Khaskovo	Bulgaria	BG
+Stara Zagora	Bulgaria	BG
+Pleven	Bulgaria	BG
+Turnovo	Bulgaria	BG
+Kyustendil	Bulgaria	BG
+Dobrich	Bulgaria	BG
+Varna	Bulgaria	BG
+Ruse	Bulgaria	BG
+Burgas	Bulgaria	BG
+Sofia	Bulgaria	BG
+Fada Ngourma	Burkina Faso	BF
+Orodara	Burkina Faso	BF
+Solenzo	Burkina Faso	BF
+Nouna	Burkina Faso	BF
+Dedougou	Burkina Faso	BF
+Gorom Gorom	Burkina Faso	BF
+Djibo	Burkina Faso	BF
+Tougan	Burkina Faso	BF
+Kombissiri	Burkina Faso	BF
+Ziniare	Burkina Faso	BF
+Yako	Burkina Faso	BF
+Reo	Burkina Faso	BF
+Leo	Burkina Faso	BF
+Sapouy	Burkina Faso	BF
+Boulsa	Burkina Faso	BF
+Zorgo	Burkina Faso	BF
+Koupela	Burkina Faso	BF
+Po	Burkina Faso	BF
+Manga	Burkina Faso	BF
+Diebougou	Burkina Faso	BF
+Gaoua	Burkina Faso	BF
+Bogande	Burkina Faso	BF
+Dori	Burkina Faso	BF
+Sebba	Burkina Faso	BF
+Diapaga	Burkina Faso	BF
+Koudougou	Burkina Faso	BF
+Ouahigouya	Burkina Faso	BF
+Kaya	Burkina Faso	BF
+Tenkodogo	Burkina Faso	BF
+Banfora	Burkina Faso	BF
+Bobo Dioulasso	Burkina Faso	BF
+Ouagadougou	Burkina Faso	BF
+Cankuzo	Burundi	BI
+Karusi	Burundi	BI
+Rutana	Burundi	BI
+Ruyigi	Burundi	BI
+Bubanza	Burundi	BI
+Kayanza	Burundi	BI
+Makamba	Burundi	BI
+Ngozi	Burundi	BI
+Kirundo	Burundi	BI
+Muramvya	Burundi	BI
+Bururi	Burundi	BI
+Muyinga	Burundi	BI
+Gitega	Burundi	BI
+Bujumbura	Burundi	BI
+Kampong Spoe	Cambodia	KH
+Kampong Thum	Cambodia	KH
+Prey Veng	Cambodia	KH
+Phnum Tbeng Meanchey	Cambodia	KH
+Stoeng Treng	Cambodia	KH
+Kracheh	Cambodia	KH
+Senmonorom	Cambodia	KH
+Lumphat	Cambodia	KH
+Svay Rieng	Cambodia	KH
+Sisophon	Cambodia	KH
+Krong Koh Kong	Cambodia	KH
+Pursat	Cambodia	KH
+Kampong Cham	Cambodia	KH
+Kompong Chhnang	Cambodia	KH
+Kampot	Cambodia	KH
+Takeo	Cambodia	KH
+Battambang	Cambodia	KH
+Siem Reap	Cambodia	KH
+Phnom Penh	Cambodia	KH
+Buea	Cameroon	CM
+Bafang	Cameroon	CM
+Foumban	Cameroon	CM
+Bafoussam	Cameroon	CM
+Kumba	Cameroon	CM
+Eyumojok	Cameroon	CM
+Limbe	Cameroon	CM
+Kribi	Cameroon	CM
+Nkongsamba	Cameroon	CM
+Edea	Cameroon	CM
+Wum	Cameroon	CM
+Kumbo	Cameroon	CM
+Bafia	Cameroon	CM
+Mbalmayo	Cameroon	CM
+Eseka	Cameroon	CM
+Bertoua	Cameroon	CM
+Abong Mbang	Cameroon	CM
+Batouri	Cameroon	CM
+Belabo	Cameroon	CM
+Meiganga	Cameroon	CM
+Ngaoundere	Cameroon	CM
+Tibati	Cameroon	CM
+Kontcha	Cameroon	CM
+Guider	Cameroon	CM
+Mbe	Cameroon	CM
+Douala	Cameroon	CM
+Ebolowa	Cameroon	CM
+Bamenda	Cameroon	CM
+Garoua	Cameroon	CM
+Maroua	Cameroon	CM
+Yaounde	Cameroon	CM
+Selkirk	Canada	CA
+Berens River	Canada	CA
+Pukatawagan	Canada	CA
+Gimli	Canada	CA
+Island Lake	Canada	CA
+Melville	Canada	CA
+Weyburn	Canada	CA
+La Ronge	Canada	CA
+Stony Rapids	Canada	CA
+Camrose	Canada	CA
+Hinton	Canada	CA
+Vegreville	Canada	CA
+Stettler	Canada	CA
+Lac La Biche	Canada	CA
+Wetaskiwin	Canada	CA
+Meander River	Canada	CA
+Creston	Canada	CA
+Cranbrook	Canada	CA
+Terrace	Canada	CA
+Chilliwack	Canada	CA
+Hall Beach	Canada	CA
+Lutselke	Canada	CA
+Hay River	Canada	CA
+DÃ©line	Canada	CA
+Paulatuk	Canada	CA
+Tsiigehtchic	Canada	CA
+Owen Sound	Canada	CA
+Orillia	Canada	CA
+Kapuskasing	Canada	CA
+Thessalon	Canada	CA
+Geraldton	Canada	CA
+Belleville	Canada	CA
+Sarnia	Canada	CA
+Peterborough	Canada	CA
+Oshawa	Canada	CA
+London	Canada	CA
+Kitchener	Canada	CA
+New Liskeard	Canada	CA
+Brockville	Canada	CA
+Big Beaver House	Canada	CA
+Port-Menier	Canada	CA
+Riviere-du-Loup	Canada	CA
+Drummondville	Canada	CA
+Sherbrooke	Canada	CA
+Cap-Chat	Canada	CA
+Baie-Comeau	Canada	CA
+Natashquan	Canada	CA
+Eastmain	Canada	CA
+Schefferville	Canada	CA
+Salluit	Canada	CA
+Amos	Canada	CA
+Joliette	Canada	CA
+St.-Jerome	Canada	CA
+St-Augustin	Canada	CA
+Rouyn-Noranda	Canada	CA
+La Sarre	Canada	CA
+New Glasgow	Canada	CA
+Liverpool	Canada	CA
+Amherst	Canada	CA
+Baddeck	Canada	CA
+Deer Lake	Canada	CA
+La Scie	Canada	CA
+Hopedale	Canada	CA
+Happy Valley - Goose Bay	Canada	CA
+Port Hope Simpson	Canada	CA
+Tofino	Canada	CA
+Steinbach	Canada	CA
+Nelson House	Canada	CA
+Shamattawa	Canada	CA
+Oxford House	Canada	CA
+Yorkton	Canada	CA
+Swift Current	Canada	CA
+Biggar	Canada	CA
+Kindersley	Canada	CA
+Meadow Lake	Canada	CA
+Hudson Bay	Canada	CA
+Lethbridge	Canada	CA
+Brooks	Canada	CA
+Lake Louise	Canada	CA
+Athabasca	Canada	CA
+Fort Chipewyan	Canada	CA
+Bella Bella	Canada	CA
+Sandspit	Canada	CA
+Campbell River	Canada	CA
+Port Hardy	Canada	CA
+Nanaimo	Canada	CA
+Quesnel	Canada	CA
+Abbotsford	Canada	CA
+Dawson Creek	Canada	CA
+Penticton	Canada	CA
+Nelson	Canada	CA
+Lillooet	Canada	CA
+Powell River	Canada	CA
+Revelstoke	Canada	CA
+Burns Lake	Canada	CA
+Dease Lake	Canada	CA
+Coral Harbour	Canada	CA
+Baker Lake	Canada	CA
+Norman Wells	Canada	CA
+Fort McPherson	Canada	CA
+Burwash Landing	Canada	CA
+Orangeville	Canada	CA
+Little Current	Canada	CA
+Chapleau	Canada	CA
+Wawa	Canada	CA
+Hearst	Canada	CA
+Marathon	Canada	CA
+Sioux Lookout	Canada	CA
+Red Lake	Canada	CA
+Deer Lake	Canada	CA
+Cat Lake	Canada	CA
+Cornwall	Canada	CA
+Kingston	Canada	CA
+Barrie	Canada	CA
+Parry Sound	Canada	CA
+Wiarton	Canada	CA
+Cobalt	Canada	CA
+Cochrane	Canada	CA
+Nipigon	Canada	CA
+Atikokan	Canada	CA
+Rimouski	Canada	CA
+Saint-Georges	Canada	CA
+Victoriaville	Canada	CA
+Chevery	Canada	CA
+Mistassini	Canada	CA
+Kangirsuk	Canada	CA
+Shawinigan	Canada	CA
+Matagami	Canada	CA
+Mont-Laurier	Canada	CA
+Pembroke	Canada	CA
+Radisson	Canada	CA
+Saint John	Canada	CA
+Edmundston	Canada	CA
+Shelburne	Canada	CA
+Antigonish	Canada	CA
+Windsor	Canada	CA
+Digby	Canada	CA
+Stephenville	Canada	CA
+Argentia	Canada	CA
+St. Anthony	Canada	CA
+Channel-Port aux Basques	Canada	CA
+Buchans	Canada	CA
+Trout River	Canada	CA
+Churchill Falls	Canada	CA
+Forteau	Canada	CA
+Trepassey	Canada	CA
+Brochet	Canada	CA
+Lynn Lake	Canada	CA
+Gillam	Canada	CA
+North Battleford	Canada	CA
+Prince Albert	Canada	CA
+Courtenay	Canada	CA
+Kelowna	Canada	CA
+Pangnirtung	Canada	CA
+Holman	Canada	CA
+Dryden	Canada	CA
+Attawapiskat	Canada	CA
+Hamilton	Canada	CA
+Windsor	Canada	CA
+Trois-RiviÃ¨res	Canada	CA
+Sept-ÃŽles	Canada	CA
+Corner Brook	Canada	CA
+Norway House	Canada	CA
+Flin Flon	Canada	CA
+Dauphin	Canada	CA
+The Pas	Canada	CA
+Uranium City	Canada	CA
+Moose Jaw	Canada	CA
+Jasper	Canada	CA
+Medicine Hat	Canada	CA
+Red Deer	Canada	CA
+Banff	Canada	CA
+Grand Prairie	Canada	CA
+Smithers	Canada	CA
+Kamloops	Canada	CA
+Williams Lake	Canada	CA
+Prince George	Canada	CA
+Fort Nelson	Canada	CA
+Pond Inlet	Canada	CA
+Cape Dorset	Canada	CA
+Kimmirut	Canada	CA
+Gjoa Haven	Canada	CA
+Grise Fiord	Canada	CA
+Alert	Canada	CA
+Ennadai	Canada	CA
+Rankin Inlet	Canada	CA
+Fort Resolution	Canada	CA
+Fort Simpson	Canada	CA
+Inuvik	Canada	CA
+Tuktoyaktuk	Canada	CA
+Watson Lake	Canada	CA
+Lansdowne House	Canada	CA
+Moosonee	Canada	CA
+Sudbury	Canada	CA
+Kenora	Canada	CA
+Gaspe	Canada	CA
+Mingan	Canada	CA
+Dolbeau	Canada	CA
+Val d'Or	Canada	CA
+Ivugivik	Canada	CA
+Inukjuak	Canada	CA
+Chicoutimi	Canada	CA
+Moncton	Canada	CA
+Fredericton	Canada	CA
+Bathurst	Canada	CA
+Yarmouth	Canada	CA
+Gander	Canada	CA
+Cartwright	Canada	CA
+Rigolet	Canada	CA
+Port Burwell	Canada	CA
+Thompson	Canada	CA
+Brandon	Canada	CA
+Fort Smith	Canada	CA
+Fort McMurray	Canada	CA
+Peace River	Canada	CA
+Fort St. John	Canada	CA
+Iqaluit	Canada	CA
+Cambridge Bay	Canada	CA
+Kugluktuk	Canada	CA
+Chesterfield Inlet	Canada	CA
+Arviat	Canada	CA
+Taloyoak	Canada	CA
+Igloolik	Canada	CA
+Dawson City	Canada	CA
+Timmins	Canada	CA
+North Bay	Canada	CA
+Kuujjuarapik	Canada	CA
+Kuujjuaq	Canada	CA
+Sydney	Canada	CA
+Labrador City	Canada	CA
+Winnipeg	Canada	CA
+Churchill	Canada	CA
+Regina	Canada	CA
+Saskatoon	Canada	CA
+Calgary	Canada	CA
+Prince Rupert	Canada	CA
+Victoria	Canada	CA
+Arctic Bay	Canada	CA
+Resolute	Canada	CA
+Repulse Bay	Canada	CA
+Yellowknife	Canada	CA
+Fort Good Hope	Canada	CA
+Whitehorse	Canada	CA
+Ottawa	Canada	CA
+Fort Severn	Canada	CA
+Thunder Bay	Canada	CA
+QuÃ©bec	Canada	CA
+Halifax	Canada	CA
+St. Johnâ€™s	Canada	CA
+Nain	Canada	CA
+Charlottetown	Canada	CA
+Edmonton	Canada	CA
+MontrÃ©al	Canada	CA
+Vancouver	Canada	CA
+Toronto	Canada	CA
+Mindelo	Cape Verde	CV
+Praia	Cape Verde	CV
+George Town	Cayman Islands	KY
+Mobaye	Central African Republic	CF
+Mbaiki	Central African Republic	CF
+Carnot	Central African Republic	CF
+Bozoum	Central African Republic	CF
+Kaga Bandoro	Central African Republic	CF
+Zemio	Central African Republic	CF
+Yakossi	Central African Republic	CF
+Nola	Central African Republic	CF
+Sibut	Central African Republic	CF
+Bossangoa	Central African Republic	CF
+Birao	Central African Republic	CF
+Ouadda	Central African Republic	CF
+Bangassou	Central African Republic	CF
+Bossembele	Central African Republic	CF
+Berberati	Central African Republic	CF
+Bria	Central African Republic	CF
+Bouar	Central African Republic	CF
+Bambari	Central African Republic	CF
+Ndele	Central African Republic	CF
+Obo	Central African Republic	CF
+Bangui	Central African Republic	CF
+Lai	Chad	TD
+Zouar	Chad	TD
+Bol	Chad	TD
+Ati	Chad	TD
+Oum Hadjer	Chad	TD
+Mongo	Chad	TD
+Doba	Chad	TD
+Pala	Chad	TD
+Bongor	Chad	TD
+Kelo	Chad	TD
+Fada	Chad	TD
+Faya Largeau	Chad	TD
+Mao	Chad	TD
+Biltine	Chad	TD
+Sarh	Chad	TD
+Am Timan	Chad	TD
+Moundou	Chad	TD
+Ndjamena	Chad	TD
+Abeche	Chad	TD
+Rio Verde	Chile	CL
+Cuya	Chile	CL
+Chuquicamata	Chile	CL
+Maria Elena	Chile	CL
+Tierra Amarilla	Chile	CL
+Combarbala	Chile	CL
+San Bernardo	Chile	CL
+San Felipe	Chile	CL
+Vina del Mar	Chile	CL
+La Ligua	Chile	CL
+Quillota	Chile	CL
+Nueva Imperial	Chile	CL
+Loncoche	Chile	CL
+Villarica	Chile	CL
+Tolten	Chile	CL
+Lonquimay	Chile	CL
+Angol	Chile	CL
+Collipulli	Chile	CL
+La Union	Chile	CL
+Rio Bueno	Chile	CL
+Coronel	Chile	CL
+Talcahuano	Chile	CL
+Quirihue	Chile	CL
+Curanilahue	Chile	CL
+Santa Barbara	Chile	CL
+Pichilemu	Chile	CL
+San Fernando	Chile	CL
+Puerto Varas	Chile	CL
+Calbuco	Chile	CL
+Castro	Chile	CL
+Chonchi	Chile	CL
+Linares	Chile	CL
+Cauquenes	Chile	CL
+Cochrane	Chile	CL
+Lagunas	Chile	CL
+Pozo Almonte	Chile	CL
+Toconao	Chile	CL
+Huasco	Chile	CL
+Diego de Almagro	Chile	CL
+Caldera	Chile	CL
+Coquimbo	Chile	CL
+Vicuna	Chile	CL
+Illapel	Chile	CL
+Salamanca	Chile	CL
+Los Andes	Chile	CL
+San Antonio	Chile	CL
+Victoria	Chile	CL
+Carahue	Chile	CL
+Los Lagos	Chile	CL
+Lota	Chile	CL
+Lebu	Chile	CL
+Quellon	Chile	CL
+Constitucion	Chile	CL
+Villa O'Higgins	Chile	CL
+Puerto Aisen	Chile	CL
+Puerto Natales	Chile	CL
+Puerto Williams	Chile	CL
+Temuco	Chile	CL
+Tocopilla	Chile	CL
+Calama	Chile	CL
+Mejillones	Chile	CL
+Taltal	Chile	CL
+Vallenar	Chile	CL
+Chanaral	Chile	CL
+Ovalle	Chile	CL
+Chillan	Chile	CL
+Rancagua	Chile	CL
+Osorno	Chile	CL
+Ancud	Chile	CL
+Talca	Chile	CL
+Curico	Chile	CL
+Coihaique	Chile	CL
+Arica	Chile	CL
+Copiapo	Chile	CL
+La Serena	Chile	CL
+Los Angeles	Chile	CL
+Punta Arenas	Chile	CL
+Iquique	Chile	CL
+Antofagasta	Chile	CL
+Valparaiso	Chile	CL
+Valdivia	Chile	CL
+Concepcion	Chile	CL
+Puerto Montt	Chile	CL
+Santiago	Chile	CL
+Yumen	China	CN
+Linxia	China	CN
+Zhuozhou	China	CN
+Sanming	China	CN
+Huizhou	China	CN
+Chaozhou	China	CN
+Gyangze	China	CN
+Dali	China	CN
+Yangquan	China	CN
+Shiyan	China	CN
+Danjiangkou	China	CN
+Shashi	China	CN
+Anlu	China	CN
+Zixing	China	CN
+Deyang	China	CN
+Tengchong	China	CN
+Mengzi	China	CN
+Chuxiong	China	CN
+Hengshui	China	CN
+Xuanhua	China	CN
+Luohe	China	CN
+Beipiao	China	CN
+Wafangdian	China	CN
+Zhucheng	China	CN
+Hangu	China	CN
+Xinyi	China	CN
+Yangzhou	China	CN
+Linhai	China	CN
+Huangyan	China	CN
+Daan	China	CN
+Changling	China	CN
+Tonghua	China	CN
+Baishan	China	CN
+Yanji	China	CN
+Ergun Zuoqi	China	CN
+Shangdu	China	CN
+Orongen Zizhiqi	China	CN
+Zalantun	China	CN
+Wuchuan	China	CN
+Hanggin Houqi	China	CN
+Anda	China	CN
+Qinggang	China	CN
+Angangxi	China	CN
+Hulan Ergi	China	CN
+Qingan	China	CN
+Baiquan	China	CN
+Suileng	China	CN
+Linkou	China	CN
+Longxi	China	CN
+Pingliang	China	CN
+Anxi	China	CN
+Minxian	China	CN
+Jinchang	China	CN
+Guide	China	CN
+Qinzhou	China	CN
+Pingxiang	China	CN
+Yishan	China	CN
+Beihai	China	CN
+Hechi	China	CN
+Tongren	China	CN
+Fengjie	China	CN
+Changping	China	CN
+Shaowu	China	CN
+Longyan	China	CN
+Zhangzhou	China	CN
+Putian	China	CN
+Fuan	China	CN
+Changting	China	CN
+Nanping	China	CN
+Ninde	China	CN
+Jieshou	China	CN
+Tongling	China	CN
+Maanshan	China	CN
+Fuyang	China	CN
+Yangjiang	China	CN
+Meizhou	China	CN
+Heyuan	China	CN
+Qingyuan	China	CN
+Zhaoqing	China	CN
+Lianxian	China	CN
+Jiangmen	China	CN
+Maoming	China	CN
+Gar	China	CN
+Turpan	China	CN
+Quiemo	China	CN
+Koktokay	China	CN
+Hancheng	China	CN
+Weinan	China	CN
+Shuozhou	China	CN
+Xinzhou	China	CN
+Jincheng	China	CN
+Jiexiu	China	CN
+Changzhi	China	CN
+Guangshui	China	CN
+Jingmen	China	CN
+Zicheng	China	CN
+Shishou	China	CN
+Xiaogan	China	CN
+Puqi	China	CN
+Yunxian	China	CN
+Jinshi	China	CN
+Chenzhou	China	CN
+Zhijiang	China	CN
+Xiangtan	China	CN
+Zigong	China	CN
+Yaan	China	CN
+Langzhong	China	CN
+Rongzhag	China	CN
+Simao	China	CN
+Wenshan	China	CN
+Zhanyi	China	CN
+Huize	China	CN
+Chengde	China	CN
+Cangzhou	China	CN
+Baoding	China	CN
+Huanghua	China	CN
+Dingzhou	China	CN
+Nangong	China	CN
+Linqing	China	CN
+Xiangtai	China	CN
+Puyang	China	CN
+Hebi	China	CN
+Xuchang	China	CN
+Zhoukou	China	CN
+Dengzhou	China	CN
+Tieling	China	CN
+Chaoyang	China	CN
+Huanren	China	CN
+Zhuanghe	China	CN
+Yishui	China	CN
+Shanxian	China	CN
+Pingyi	China	CN
+Pingdu	China	CN
+Laiwu	China	CN
+Buizhou	China	CN
+Liaocheng	China	CN
+Rizhao	China	CN
+Dezhou	China	CN
+Linchuan	China	CN
+Fengcheng	China	CN
+Jian	China	CN
+Shangrao	China	CN
+Jingdezhen	China	CN
+Taizhou	China	CN
+Shuyang	China	CN
+Lianyungang	China	CN
+Lishui	China	CN
+Jiaojing	China	CN
+Quzhou	China	CN
+Fuyu	China	CN
+Dunhua	China	CN
+Nongan	China	CN
+Taonan	China	CN
+Liuhe	China	CN
+Huinan	China	CN
+Panshi	China	CN
+Jiaohe	China	CN
+Linjiang	China	CN
+Wangqing	China	CN
+Helong	China	CN
+Shulan	China	CN
+Jiutai	China	CN
+Alxa Zuoqi	China	CN
+Linxi	China	CN
+Kailu	China	CN
+Bairin Zuoqi	China	CN
+Yitulihe	China	CN
+Yakeshi	China	CN
+Bugt	China	CN
+Wuyuan	China	CN
+Bayan Obo	China	CN
+Fengzhen	China	CN
+Suihua	China	CN
+Shuangyashan	China	CN
+Shangzhi	China	CN
+Fujin	China	CN
+Yian	China	CN
+Tailai	China	CN
+Longjiang	China	CN
+Gannan	China	CN
+Hailun	China	CN
+Mishan	China	CN
+Tieli	China	CN
+Shuangcheng	China	CN
+Zhaodong	China	CN
+Lanxi	China	CN
+Keshan	China	CN
+Nancha	China	CN
+Xinqing	China	CN
+Hulin	China	CN
+Boli	China	CN
+Ningan	China	CN
+Jyekundo	China	CN
+Liuzhou	China	CN
+Xingyi	China	CN
+Anshun	China	CN
+Zunyi	China	CN
+Wanzhou	China	CN
+Huaibei	China	CN
+Wuhu	China	CN
+Luan	China	CN
+Bengbu	China	CN
+Anqing	China	CN
+Foshan	China	CN
+Nagchu	China	CN
+Nyingchi	China	CN
+Chamdo	China	CN
+Korla	China	CN
+Kuqa	China	CN
+Tacheng	China	CN
+Shihezi	China	CN
+Karamay	China	CN
+Aksu	China	CN
+Sanya	China	CN
+Haikou	China	CN
+Hanzhong	China	CN
+Baoji	China	CN
+Tongchuan	China	CN
+Linfen	China	CN
+Yuci	China	CN
+Datong	China	CN
+Jianmen	China	CN
+Yichang	China	CN
+Xiantao	China	CN
+Macheng	China	CN
+Huangshi	China	CN
+Zhuzhou	China	CN
+Yongzhou	China	CN
+Yiyang	China	CN
+Changde	China	CN
+Shaoyang	China	CN
+Leshan	China	CN
+Panzhihua	China	CN
+Fulin	China	CN
+Guangyuan	China	CN
+Luzhou	China	CN
+Yibin	China	CN
+Zhaotang	China	CN
+Lijiang	China	CN
+Yuxi	China	CN
+Dali	China	CN
+Qinhuangdao	China	CN
+Langfang	China	CN
+Zhangjiakou	China	CN
+Tangshan	China	CN
+Anyang	China	CN
+Jiaozuo	China	CN
+Kaifeng	China	CN
+Shangqiu	China	CN
+Pingdingshan	China	CN
+Xinyang	China	CN
+Xinxiang	China	CN
+Luoyang	China	CN
+Liaoyang	China	CN
+Dandong	China	CN
+Yingkow	China	CN
+Jinzhou	China	CN
+Fuxin	China	CN
+Benxi	China	CN
+Fushun	China	CN
+Jining	China	CN
+Weifang	China	CN
+Taian	China	CN
+Heze	China	CN
+Laiyang	China	CN
+Xinyu	China	CN
+Ganzhou	China	CN
+Jiujiang	China	CN
+Changzhou	China	CN
+Zhenjiang	China	CN
+Nantong	China	CN
+Jiaxing	China	CN
+Huzhou	China	CN
+Shaoxing	China	CN
+Jinhua	China	CN
+Liaoyuan	China	CN
+Tumen	China	CN
+Siping	China	CN
+Baicheng	China	CN
+Wuhai	China	CN
+Erenhot	China	CN
+Jining	China	CN
+Arxan	China	CN
+Manzhouli	China	CN
+Xilinhot	China	CN
+Heihe	China	CN
+Qitaihe	China	CN
+Yichun	China	CN
+Hegang	China	CN
+Nenjiang	China	CN
+Nehe	China	CN
+Mudangiang	China	CN
+Xuanzhou	China	CN
+Zhuhai	China	CN
+Xianyang	China	CN
+Xiangfan	China	CN
+Suining	China	CN
+Lingyuan	China	CN
+Weihai	China	CN
+Yichun	China	CN
+Yancheng	China	CN
+Fuyang	China	CN
+Xiamen	China	CN
+Nanchong	China	CN
+Neijiang	China	CN
+Nanyang	China	CN
+Jinxi	China	CN
+Yantai	China	CN
+Zaozhuang	China	CN
+Suzhou	China	CN
+Xuzhou	China	CN
+Wuxi	China	CN
+Jilin	China	CN
+Zhangye	China	CN
+Wuwei	China	CN
+Dunhuang	China	CN
+Tianshui	China	CN
+Dulan	China	CN
+Golmud	China	CN
+Yulin	China	CN
+Bose	China	CN
+Wuzhou	China	CN
+Lupanshui	China	CN
+Quanzhou	China	CN
+Hefei	China	CN
+Suzhou	China	CN
+Zhanjiang	China	CN
+Shaoguan	China	CN
+Xigaze	China	CN
+Shache	China	CN
+Yining	China	CN
+Altay	China	CN
+Shizuishan	China	CN
+Yulin	China	CN
+Ankang	China	CN
+Houma	China	CN
+Yueyang	China	CN
+Hengyang	China	CN
+Mianyang	China	CN
+Xichang	China	CN
+Baoshan	China	CN
+Gejiu	China	CN
+Shijianzhuang	China	CN
+Handan	China	CN
+Anshan	China	CN
+Dalian	China	CN
+Qingdao	China	CN
+Linyi	China	CN
+Huaiyin	China	CN
+Wenzhou	China	CN
+Ningbo	China	CN
+Tongliao	China	CN
+Hohhot	China	CN
+Chifeng	China	CN
+Ulanhot	China	CN
+Hailar	China	CN
+Jiamusi	China	CN
+Beian	China	CN
+Daqing	China	CN
+Jixi	China	CN
+Jiayuguan	China	CN
+Xining	China	CN
+Guilin	China	CN
+Huainan	China	CN
+Shantou	China	CN
+Lhasa	China	CN
+Hami	China	CN
+Hotan	China	CN
+Kashgar	China	CN
+Yinchuan	China	CN
+Pingxiang	China	CN
+Qiqihar	China	CN
+Shenzhen	China	CN
+Zibo	China	CN
+Lanzhou	China	CN
+Nanning	China	CN
+Guiyang	China	CN
+Chongqing	China	CN
+Fuzhou	China	CN
+Guangzhou	China	CN
+Dongguan	China	CN
+Xian	China	CN
+Taiyuan	China	CN
+Wuhan	China	CN
+Changsha	China	CN
+Kunming	China	CN
+Zhengzhou	China	CN
+Shenyeng	China	CN
+Jinan	China	CN
+Tianjin	China	CN
+Nanchang	China	CN
+Nanjing	China	CN
+Hangzhou	China	CN
+Changchun	China	CN
+Baotou	China	CN
+Harbin	China	CN
+Urumqi	China	CN
+Chengdu	China	CN
+Beijing	China	CN
+Shanghai	China	CN
+Yopal	Colombia	CO
+San Andres	Colombia	CO
+Sonson	Colombia	CO
+Sogamoso	Colombia	CO
+Barrancabermeja	Colombia	CO
+Girardot	Colombia	CO
+Campoalegre	Colombia	CO
+Tuquerres	Colombia	CO
+Mocoa	Colombia	CO
+Cartago	Colombia	CO
+Soledad	Colombia	CO
+Sabanalarga	Colombia	CO
+Arjona	Colombia	CO
+Magangue	Colombia	CO
+Valledupar	Colombia	CO
+San Jose del Guaviare	Colombia	CO
+Puerto Lopez	Colombia	CO
+Yarumal	Colombia	CO
+Puerto Berrio	Colombia	CO
+Turbo	Colombia	CO
+Tunja	Colombia	CO
+Chiquinquira	Colombia	CO
+Duitama	Colombia	CO
+Ayapel	Colombia	CO
+Lorica	Colombia	CO
+Socorro	Colombia	CO
+Riohacha	Colombia	CO
+Armenia	Colombia	CO
+Pereira	Colombia	CO
+Honda	Colombia	CO
+San Vicente del Caguan	Colombia	CO
+Florencia	Colombia	CO
+Guapi	Colombia	CO
+Neiva	Colombia	CO
+Garzon	Colombia	CO
+Ipiales	Colombia	CO
+Buenaventura	Colombia	CO
+Tulua	Colombia	CO
+El Carmen de Bolivar	Colombia	CO
+Jurado	Colombia	CO
+Nuqui	Colombia	CO
+Quibdo	Colombia	CO
+El Banco	Colombia	CO
+Cienaga	Colombia	CO
+Sincelejo	Colombia	CO
+Tolu	Colombia	CO
+Arauca	Colombia	CO
+Tame	Colombia	CO
+Pamplona	Colombia	CO
+Ocana	Colombia	CO
+Orocue	Colombia	CO
+Obando	Colombia	CO
+San Martin	Colombia	CO
+Puerto Carreno	Colombia	CO
+Bello	Colombia	CO
+Monteria	Colombia	CO
+Bucaramanga	Colombia	CO
+Ibague	Colombia	CO
+Popayan	Colombia	CO
+Santa Marta	Colombia	CO
+Cucuta	Colombia	CO
+Villavicencio	Colombia	CO
+Tumaco	Colombia	CO
+Manizales	Colombia	CO
+Pasto	Colombia	CO
+Barranquilla	Colombia	CO
+Cartagena	Colombia	CO
+Mitu	Colombia	CO
+Leticia	Colombia	CO
+Medellin	Colombia	CO
+Cali	Colombia	CO
+Bogota	Colombia	CO
+Moroni	Comoros	KM
+Madingou	Congo (Brazzaville)	CG
+Kinkala	Congo (Brazzaville)	CG
+Ewo	Congo (Brazzaville)	CG
+Impfondo	Congo (Brazzaville)	CG
+Sembe	Congo (Brazzaville)	CG
+Moloundou	Congo (Brazzaville)	CG
+Owando	Congo (Brazzaville)	CG
+Makoua	Congo (Brazzaville)	CG
+Sibiti	Congo (Brazzaville)	CG
+Mossendjo	Congo (Brazzaville)	CG
+Loubomo	Congo (Brazzaville)	CG
+Gamboma	Congo (Brazzaville)	CG
+Djambala	Congo (Brazzaville)	CG
+Ouesso	Congo (Brazzaville)	CG
+Kayes	Congo (Brazzaville)	CG
+Pointe-Noire	Congo (Brazzaville)	CG
+Brazzaville	Congo (Brazzaville)	CG
+Buluko	Congo (Kinshasa)	CD
+Zongo	Congo (Kinshasa)	CD
+Libenge	Congo (Kinshasa)	CD
+Bongandanga	Congo (Kinshasa)	CD
+Ikela	Congo (Kinshasa)	CD
+Binga	Congo (Kinshasa)	CD
+Basankusu	Congo (Kinshasa)	CD
+Boende	Congo (Kinshasa)	CD
+Gbadolite	Congo (Kinshasa)	CD
+Businga	Congo (Kinshasa)	CD
+Bosobolo	Congo (Kinshasa)	CD
+Yangambi	Congo (Kinshasa)	CD
+Aketi	Congo (Kinshasa)	CD
+Mongbwalu	Congo (Kinshasa)	CD
+Bafwasende	Congo (Kinshasa)	CD
+Bunia	Congo (Kinshasa)	CD
+Wamba	Congo (Kinshasa)	CD
+Basoko	Congo (Kinshasa)	CD
+Kenge	Congo (Kinshasa)	CD
+Bolobo	Congo (Kinshasa)	CD
+Kahemba	Congo (Kinshasa)	CD
+Bulungu	Congo (Kinshasa)	CD
+Lusanga	Congo (Kinshasa)	CD
+Mangai	Congo (Kinshasa)	CD
+Kasongo-Lunda	Congo (Kinshasa)	CD
+Mushie	Congo (Kinshasa)	CD
+Dibaya	Congo (Kinshasa)	CD
+Mweka	Congo (Kinshasa)	CD
+Luebo	Congo (Kinshasa)	CD
+Demba	Congo (Kinshasa)	CD
+Ilebo	Congo (Kinshasa)	CD
+Moanda	Congo (Kinshasa)	CD
+Kimpese	Congo (Kinshasa)	CD
+Kasangulu	Congo (Kinshasa)	CD
+Mbanza-Ngungu	Congo (Kinshasa)	CD
+Tshela	Congo (Kinshasa)	CD
+Mwenga	Congo (Kinshasa)	CD
+Kampene	Congo (Kinshasa)	CD
+Kalima	Congo (Kinshasa)	CD
+Lubutu	Congo (Kinshasa)	CD
+Kabinda	Congo (Kinshasa)	CD
+Lubao	Congo (Kinshasa)	CD
+Lusambo	Congo (Kinshasa)	CD
+Gandajika	Congo (Kinshasa)	CD
+Lodja	Congo (Kinshasa)	CD
+Dilolo	Congo (Kinshasa)	CD
+Nyunzu	Congo (Kinshasa)	CD
+Kasaji	Congo (Kinshasa)	CD
+Luanza	Congo (Kinshasa)	CD
+Moba	Congo (Kinshasa)	CD
+Bukama	Congo (Kinshasa)	CD
+Kaniama	Congo (Kinshasa)	CD
+Kipushi	Congo (Kinshasa)	CD
+Kambove	Congo (Kinshasa)	CD
+Kongolo	Congo (Kinshasa)	CD
+Kabalo	Congo (Kinshasa)	CD
+Beni	Congo (Kinshasa)	CD
+Lisala	Congo (Kinshasa)	CD
+Gemena	Congo (Kinshasa)	CD
+Buta	Congo (Kinshasa)	CD
+Watsa	Congo (Kinshasa)	CD
+Isiro	Congo (Kinshasa)	CD
+Bondo	Congo (Kinshasa)	CD
+Inongo	Congo (Kinshasa)	CD
+Tshikapa	Congo (Kinshasa)	CD
+Boma	Congo (Kinshasa)	CD
+Bukavu	Congo (Kinshasa)	CD
+Uvira	Congo (Kinshasa)	CD
+Kindu	Congo (Kinshasa)	CD
+Mwene-Ditu	Congo (Kinshasa)	CD
+Likasi	Congo (Kinshasa)	CD
+Manono	Congo (Kinshasa)	CD
+Kamina	Congo (Kinshasa)	CD
+Mbandaka	Congo (Kinshasa)	CD
+Kisangani	Congo (Kinshasa)	CD
+Bandundu	Congo (Kinshasa)	CD
+Kananga	Congo (Kinshasa)	CD
+Kasongo	Congo (Kinshasa)	CD
+Mbuji-Mayi	Congo (Kinshasa)	CD
+Kalemie	Congo (Kinshasa)	CD
+Butembo	Congo (Kinshasa)	CD
+Goma	Congo (Kinshasa)	CD
+Bumba	Congo (Kinshasa)	CD
+Kikwit	Congo (Kinshasa)	CD
+Matadi	Congo (Kinshasa)	CD
+Kolwezi	Congo (Kinshasa)	CD
+Lubumbashi	Congo (Kinshasa)	CD
+Kinshasa	Congo (Kinshasa)	CD
+Rarotonga	Cook Islands	CK
+Heredia	Costa Rica	CR
+Cartago	Costa Rica	CR
+Golfito	Costa Rica	CR
+Alajuela	Costa Rica	CR
+Canas	Costa Rica	CR
+Sixaola	Costa Rica	CR
+Puntarenas	Costa Rica	CR
+Ciudad Cortes	Costa Rica	CR
+Quesada	Costa Rica	CR
+Liberia	Costa Rica	CR
+La Cruz	Costa Rica	CR
+Puerto Limon	Costa Rica	CR
+San Jose	Costa Rica	CR
+Sibenik	Croatia	HR
+Karlovac	Croatia	HR
+Rijeka	Croatia	HR
+Slavonski Brod	Croatia	HR
+Dubrovnik	Croatia	HR
+Split	Croatia	HR
+Zadar	Croatia	HR
+Pula	Croatia	HR
+Osijek	Croatia	HR
+Zagreb	Croatia	HR
+Ciego de Avila	Cuba	CU
+Palma Soriano	Cuba	CU
+San Antonio de los Banos	Cuba	CU
+Guines	Cuba	CU
+Caibarien	Cuba	CU
+Placetas	Cuba	CU
+Cienfuegos	Cuba	CU
+Nueva Gerona	Cuba	CU
+Sancti Spiritus	Cuba	CU
+Moron	Cuba	CU
+Nuevitas	Cuba	CU
+Manzanillo	Cuba	CU
+Bayamo	Cuba	CU
+Banes	Cuba	CU
+Las Tunas	Cuba	CU
+Artemisa	Cuba	CU
+Matanzas	Cuba	CU
+Colon	Cuba	CU
+Sagua la Grande	Cuba	CU
+Pinar del Rio	Cuba	CU
+Camaguey	Cuba	CU
+Guantanamo	Cuba	CU
+Holguin	Cuba	CU
+Santa Clara	Cuba	CU
+Santiago de Cuba	Cuba	CU
+Havana	Cuba	CU
+Willemstad	Curacao	CW
+Larnaka	Cyprus	CY
+Paphos	Cyprus	CY
+Lemosos	Cyprus	CY
+Nicosia	Cyprus	CY
+Usti Nad Labem	Czech Republic	CZ
+Hradec Kralove	Czech Republic	CZ
+Ceske Budejovice	Czech Republic	CZ
+Liberec	Czech Republic	CZ
+Olomouc	Czech Republic	CZ
+Pizen	Czech Republic	CZ
+Jihlava	Czech Republic	CZ
+Zlin	Czech Republic	CZ
+Brno	Czech Republic	CZ
+Pardubice	Czech Republic	CZ
+Ostrava	Czech Republic	CZ
+Prague	Czech Republic	CZ
+Vejle	Denmark	DK
+Hillerod	Denmark	DK
+Soro	Denmark	DK
+Viborg	Denmark	DK
+Roskilde	Denmark	DK
+Svendborg	Denmark	DK
+Odense	Denmark	DK
+Esbjerg	Denmark	DK
+Frederikshavn	Denmark	DK
+Aalborg	Denmark	DK
+Ã…rhus	Denmark	DK
+KÃ¸benhavn	Denmark	DK
+Dikhil	Djibouti	DJ
+Tadjoura	Djibouti	DJ
+Ali Sabih	Djibouti	DJ
+Obock	Djibouti	DJ
+Djibouti	Djibouti	DJ
+Roseau	Dominica	DM
+Sabaneta	Dominican Republic	DO
+Mao	Dominican Republic	DO
+Cotui	Dominican Republic	DO
+Puerto Plata	Dominican Republic	DO
+Dajabon	Dominican Republic	DO
+Moca	Dominican Republic	DO
+Salcedo	Dominican Republic	DO
+Jimani	Dominican Republic	DO
+Comendador	Dominican Republic	DO
+Pedernales	Dominican Republic	DO
+Azua	Dominican Republic	DO
+Bonao	Dominican Republic	DO
+Bani	Dominican Republic	DO
+Hato Mayor	Dominican Republic	DO
+Monte Plata	Dominican Republic	DO
+Nagua	Dominican Republic	DO
+Samana	Dominican Republic	DO
+San Cristobal	Dominican Republic	DO
+El Seibo	Dominican Republic	DO
+Higuey	Dominican Republic	DO
+Neiba	Dominican Republic	DO
+La Vega	Dominican Republic	DO
+San Francisco de Macoris	Dominican Republic	DO
+San Pedro de Macoris	Dominican Republic	DO
+Monte Cristi	Dominican Republic	DO
+Barahona	Dominican Republic	DO
+Bavaro	Dominican Republic	DO
+La Romana	Dominican Republic	DO
+San Juan	Dominican Republic	DO
+Santiago	Dominican Republic	DO
+Santo Domingo	Dominican Republic	DO
+Dili	East Timor	TL
+Puyo	Ecuador	EC
+Tulcan	Ecuador	EC
+Pinas	Ecuador	EC
+Puerto Villamil	Ecuador	EC
+Puerto Baquerizo Moreno	Ecuador	EC
+Guaranda	Ecuador	EC
+Azogues	Ecuador	EC
+Salinas	Ecuador	EC
+Alausi	Ecuador	EC
+Sangolqui	Ecuador	EC
+Muisne	Ecuador	EC
+San Gabriel	Ecuador	EC
+Macara	Ecuador	EC
+Zamora	Ecuador	EC
+Latacunga	Ecuador	EC
+Milagro	Ecuador	EC
+Babahoyo	Ecuador	EC
+Chone	Ecuador	EC
+Jipijapa	Ecuador	EC
+Yaupi	Ecuador	EC
+Macas	Ecuador	EC
+Cayambe	Ecuador	EC
+Ambato	Ecuador	EC
+Tena	Ecuador	EC
+Valdez	Ecuador	EC
+San Lorenzo	Ecuador	EC
+Esmeraldas	Ecuador	EC
+Ibarra	Ecuador	EC
+Portoviejo	Ecuador	EC
+Machala	Ecuador	EC
+Loja	Ecuador	EC
+Manta	Ecuador	EC
+Riobamba	Ecuador	EC
+Cuenca	Ecuador	EC
+Santa Cruz	Ecuador	EC
+Quito	Ecuador	EC
+Guayaquil	Ecuador	EC
+Shibin el Kom	Egypt	EG
+Benha	Egypt	EG
+Zagazig	Egypt	EG
+Kafr el Sheikh	Egypt	EG
+Tanta	Egypt	EG
+Ismailia	Egypt	EG
+El Mansura	Egypt	EG
+Dumyat	Egypt	EG
+Matruh	Egypt	EG
+El Alamein	Egypt	EG
+El Daba	Egypt	EG
+Salum	Egypt	EG
+DamanhÃ»r	Egypt	EG
+Samalut	Egypt	EG
+Mallawi	Egypt	EG
+Beni Mazar	Egypt	EG
+Beni Suef	Egypt	EG
+Rashid	Egypt	EG
+Qasr Farafra	Egypt	EG
+El Qasr	Egypt	EG
+Isna	Egypt	EG
+Qena	Egypt	EG
+Girga	Egypt	EG
+Sohag	Egypt	EG
+Berenice	Egypt	EG
+Bur Safaga	Egypt	EG
+El Tur	Egypt	EG
+El Arish	Egypt	EG
+El Giza	Egypt	EG
+Siwa	Egypt	EG
+El Minya	Egypt	EG
+Kom Ombo	Egypt	EG
+El Kharga	Egypt	EG
+Hurghada	Egypt	EG
+Suez	Egypt	EG
+Bur Said	Egypt	EG
+El Faiyum	Egypt	EG
+Aswan	Egypt	EG
+Asyut	Egypt	EG
+Luxor	Egypt	EG
+Alexandria	Egypt	EG
+Cairo	Egypt	EG
+Ahuachapan	El Salvador	SV
+Cojutepeque	El Salvador	SV
+Nueva San Salvador	El Salvador	SV
+Zacatecoluca	El Salvador	SV
+La Union	El Salvador	SV
+San Francisco Gotera	El Salvador	SV
+San Vicente	El Salvador	SV
+Usulutan	El Salvador	SV
+Chalatenango	El Salvador	SV
+Sensuntepeque	El Salvador	SV
+Sonsonate	El Salvador	SV
+San Miguel	El Salvador	SV
+Santa Ana	El Salvador	SV
+San Salvador	El Salvador	SV
+Evinayong	Equatorial Guinea	GQ
+Luba	Equatorial Guinea	GQ
+Calatrava	Equatorial Guinea	GQ
+Mongomo	Equatorial Guinea	GQ
+Bata	Equatorial Guinea	GQ
+Malabo	Equatorial Guinea	GQ
+Tessenei	Eritrea	ER
+Agordat	Eritrea	ER
+Massawa	Eritrea	ER
+Keren	Eritrea	ER
+Mendefera	Eritrea	ER
+Assab	Eritrea	ER
+Asmara	Eritrea	ER
+Haapsalu	Estonia	EE
+Viljandi	Estonia	EE
+Kohtla-Jarve	Estonia	EE
+Narva	Estonia	EE
+Tartu	Estonia	EE
+Parnu	Estonia	EE
+Tallinn	Estonia	EE
+Awasa	Ethiopia	ET
+Gore	Ethiopia	ET
+Debre Birhan	Ethiopia	ET
+Bati	Ethiopia	ET
+Adigrat	Ethiopia	ET
+Aksum	Ethiopia	ET
+Yirga Alem	Ethiopia	ET
+Hosaina	Ethiopia	ET
+Dila	Ethiopia	ET
+Giyon	Ethiopia	ET
+Hagere Hiywet	Ethiopia	ET
+Nekemte	Ethiopia	ET
+Asela	Ethiopia	ET
+Shashemene	Ethiopia	ET
+Dembi Dolo	Ethiopia	ET
+Gimbi	Ethiopia	ET
+Asosa	Ethiopia	ET
+Jijiga	Ethiopia	ET
+Debre Markos	Ethiopia	ET
+Dese	Ethiopia	ET
+Sodo	Ethiopia	ET
+Arba Minch	Ethiopia	ET
+Harar	Ethiopia	ET
+Goba	Ethiopia	ET
+Jima	Ethiopia	ET
+Nazret	Ethiopia	ET
+Nagele	Ethiopia	ET
+Gode	Ethiopia	ET
+Dolo Bay	Ethiopia	ET
+Bahir Dar	Ethiopia	ET
+Mekele	Ethiopia	ET
+Dire Dawa	Ethiopia	ET
+Gonder	Ethiopia	ET
+Addis Ababa	Ethiopia	ET
+Fox Bay	Falkland Islands	FK
+Stanley	Falkland Islands	FK
+Klaksvik	Faroe Islands	FO
+TÃ³rshavn	Faroe Islands	FO
+Palikir	Federated States of Micronesia	FM
+Nandi	Fiji	FJ
+Lautoka	Fiji	FJ
+Labasa	Fiji	FJ
+Suva	Fiji	FJ
+Hameenlinna	Finland	FI
+Kouvola	Finland	FI
+Mikkeli	Finland	FI
+Savonlinna	Finland	FI
+Pori	Finland	FI
+SodankylÃ¤	Finland	FI
+JyvÃ¤skylÃ¤	Finland	FI
+Kuopio	Finland	FI
+Lappeenranta	Finland	FI
+Porvoo	Finland	FI
+Kemijarvi	Finland	FI
+Kokkola	Finland	FI
+Lahti	Finland	FI
+Joensuu	Finland	FI
+Turku	Finland	FI
+Kemi	Finland	FI
+Oulu	Finland	FI
+Rovaniemi	Finland	FI
+Vaasa	Finland	FI
+Tampere	Finland	FI
+Helsinki	Finland	FI
+Annecy	France	FR
+Roanne	France	FR
+Roura	France	GF
+Sinnamary	France	GF
+St.-Brieuc	France	FR
+Poitier	France	FR
+Angers	France	FR
+Biarritz	France	FR
+Aix-en-Provence	France	FR
+Perpignan	France	FR
+Tarbes	France	FR
+Clermont-Ferrand	France	FR
+Melun	France	FR
+Arras	France	FR
+Besancon	France	FR
+Saint-Georges	France	GF
+Saint-Etienne	France	FR
+Grenoble	France	FR
+Fort-de-France	France	MQ
+Saint-Laurent-du-Maroni	France	GF
+Iracoubo	France	GF
+Cherbourg	France	FR
+Caen	France	FR
+Lorient	France	FR
+Brest	France	FR
+Le Mans	France	FR
+Nantes	France	FR
+Agen	France	FR
+Ajaccio	France	FR
+Bastia	France	FR
+Toulon	France	FR
+Beziers	France	FR
+Montpellier	France	FR
+Nimes	France	FR
+Vichy	France	FR
+Nevers	France	FR
+Auxerre	France	FR
+Dijon	France	FR
+Bourges	France	FR
+Tours	France	FR
+Orleans	France	FR
+Dieppe	France	FR
+Rouen	France	FR
+Versailles	France	FR
+Brive	France	FR
+Troyes	France	FR
+Reims	France	FR
+Calais	France	FR
+Amiens	France	FR
+Mulhouse	France	FR
+Nancy	France	FR
+Metz	France	FR
+Pointe-a-Pitre	France	GP
+Basse-terre	France	GP
+St.-Benoit	France	RE
+Dzaoudzi	France	YT
+Rennes	France	FR
+Nice	France	FR
+Toulouse	France	FR
+Limoges	France	FR
+Lille	France	FR
+Strasbourg	France	FR
+Kourou	France	GF
+La Rochelle	France	FR
+Bordeaux	France	FR
+Marseille	France	FR
+Le Havre	France	FR
+St.-Denis	France	RE
+Lyon	France	FR
+Cayenne	France	GF
+Paris	France	FR
+Papeete	French Polynesia	PF
+Ebebiyin	Gabon	GA
+Tchibanga	Gabon	GA
+Mekambo	Gabon	GA
+Makokou	Gabon	GA
+Mitzik	Gabon	GA
+Bitam	Gabon	GA
+Lambarene	Gabon	GA
+Bifoum	Gabon	GA
+Ndende	Gabon	GA
+Mouila	Gabon	GA
+Omboue	Gabon	GA
+Moanda	Gabon	GA
+Okandja	Gabon	GA
+Koulamoutou	Gabon	GA
+Oyem	Gabon	GA
+Mayumba	Gabon	GA
+Gamba	Gabon	GA
+Franceville	Gabon	GA
+Libreville	Gabon	GA
+Port-Gentil	Gabon	GA
+Kutaisi	Georgia	GE
+Tskhinvali	Georgia	GE
+Poti	Georgia	GE
+Rustavi	Georgia	GE
+Batumi	Georgia	GE
+Sukhumi	Georgia	GE
+Tbilisi	Georgia	GE
+Mainz	Germany	DE
+Schwerin	Germany	DE
+Bielefeld	Germany	DE
+Dortmund	Germany	DE
+Duisburg	Germany	DE
+Wuppertal	Germany	DE
+Essen	Germany	DE
+Karlsruhe	Germany	DE
+Heidelberg	Germany	DE
+Kassel	Germany	DE
+Oldenburg	Germany	DE
+Emden	Germany	DE
+Braunschweig	Germany	DE
+Erfurt	Germany	DE
+Coburg	Germany	DE
+Augsburg	Germany	DE
+Furth	Germany	DE
+Chemnitz	Germany	DE
+Bonn	Germany	DE
+MÃ¼nster	Germany	DE
+DÃ¼sseldorf	Germany	DE
+Ulm	Germany	DE
+Mannheim	Germany	DE
+Freiburg	Germany	DE
+Giessen	Germany	DE
+Wiesbaden	Germany	DE
+Bremerhaven	Germany	DE
+OsnabrÃ¼ck	Germany	DE
+Hannover	Germany	DE
+Gottingen	Germany	DE
+Gera	Germany	DE
+Jena	Germany	DE
+Flensburg	Germany	DE
+Lubeck	Germany	DE
+Kiel	Germany	DE
+Koblenz	Germany	DE
+Saarbrucken	Germany	DE
+Regensburg	Germany	DE
+Rosenheim	Germany	DE
+Hof	Germany	DE
+Wurzburg	Germany	DE
+Ingolstadt	Germany	DE
+Cottbus	Germany	DE
+Potsdam	Germany	DE
+Magdeburg	Germany	DE
+Leipzig	Germany	DE
+Stralsund	Germany	DE
+Rostock	Germany	DE
+Stuttgart	Germany	DE
+Bremen	Germany	DE
+NÃ¼rnberg	Germany	DE
+Cologne	Germany	DE
+Dresden	Germany	DE
+Frankfurt	Germany	DE
+Hamburg	Germany	DE
+Munich	Germany	DE
+Berlin	Germany	DE
+Sunyani	Ghana	GH
+Tamale	Ghana	GH
+Yendi	Ghana	GH
+Bolgatanga	Ghana	GH
+Bawku	Ghana	GH
+Wa	Ghana	GH
+Obuasi	Ghana	GH
+Berekum	Ghana	GH
+Winneba	Ghana	GH
+Cape Coast	Ghana	GH
+Nkawkaw	Ghana	GH
+Koforidua	Ghana	GH
+Tema	Ghana	GH
+Ho	Ghana	GH
+Kumasi	Ghana	GH
+Sekondi	Ghana	GH
+Accra	Ghana	GH
+Gibraltar	Gibraltar	GI
+Lamia	Greece	GR
+Polygyros	Greece	GR
+Komatini	Greece	GR
+PiraiÃ©vs	Greece	GR
+Volos	Greece	GR
+Hania	Greece	GR
+Kavala	Greece	GR
+Alexandroupoli	Greece	GR
+Kerkira	Greece	GR
+Tripoli	Greece	GR
+Sparti	Greece	GR
+Agrinio	Greece	GR
+Pirgos	Greece	GR
+Larissa	Greece	GR
+Ioanina	Greece	GR
+Mitilini	Greece	GR
+Hios	Greece	GR
+Chalkida	Greece	GR
+Sitia	Greece	GR
+Katerini	Greece	GR
+Seres	Greece	GR
+Xanthi	Greece	GR
+Ermoupoli	Greece	GR
+Kos	Greece	GR
+Rodos	Greece	GR
+Patra	Greece	GR
+Kalamata	Greece	GR
+Iraklio	Greece	GR
+Thessaloniki	Greece	GR
+Athens	Greece	GR
+Qasigiannguit	Greenland	GL
+Kullorsuaq	Greenland	GL
+Tasiusaq	Greenland	GL
+Kulusuk	Greenland	GL
+Paamiut	Greenland	GL
+Ittoqqortoormiit	Greenland	GL
+Timmiarmiut	Greenland	GL
+Qaqortoq	Greenland	GL
+Kangerlussuaq	Greenland	GL
+Nord	Greenland	GL
+Qeqertasuaq	Greenland	GL
+Nuussuaq	Greenland	GL
+Ilulissat	Greenland	GL
+Tasiilaq	Greenland	GL
+Savissivik	Greenland	GL
+Kangersuatsiaq	Greenland	GL
+Uummannaq	Greenland	GL
+Narsarsuaq	Greenland	GL
+Sisimiut	Greenland	GL
+Upernavik	Greenland	GL
+Qaanaaq	Greenland	GL
+Nuuk	Greenland	GL
+Saint George's	Grenada	GD
+Agana	Guam	GU
+Salama	Guatemala	GT
+Retalhuleu	Guatemala	GT
+San Marcos	Guatemala	GT
+Chimaltenango	Guatemala	GT
+Antigua Guatemala	Guatemala	GT
+Solola	Guatemala	GT
+Totonicapan	Guatemala	GT
+El Progreso	Guatemala	GT
+Cuilapa	Guatemala	GT
+Chiquimula	Guatemala	GT
+Jalapa	Guatemala	GT
+Zacapa	Guatemala	GT
+Santa Cruz Del Quiche	Guatemala	GT
+San Luis	Guatemala	GT
+Coban	Guatemala	GT
+Livingston	Guatemala	GT
+Jutiapa	Guatemala	GT
+Huehuetenango	Guatemala	GT
+Flores	Guatemala	GT
+La Libertad	Guatemala	GT
+San Jose	Guatemala	GT
+Escuintla	Guatemala	GT
+Mazatenango	Guatemala	GT
+Puerto Barrios	Guatemala	GT
+Quetzaltenango	Guatemala	GT
+Guatemala	Guatemala	GT
+Mali	Guinea	GN
+Tongue	Guinea	GN
+Kouroussa	Guinea	GN
+Pita	Guinea	GN
+Dalaba	Guinea	GN
+Boffa	Guinea	GN
+Koundara	Guinea	GN
+Gaoual	Guinea	GN
+Telimele	Guinea	GN
+Forecariah	Guinea	GN
+Beyla	Guinea	GN
+Gueckedou	Guinea	GN
+Dinguiraye	Guinea	GN
+Dabola	Guinea	GN
+Kerouane	Guinea	GN
+Siguiri	Guinea	GN
+Mamou	Guinea	GN
+Kamsar	Guinea	GN
+Fria	Guinea	GN
+Macenta	Guinea	GN
+Yomou	Guinea	GN
+Faranah	Guinea	GN
+Kissidougou	Guinea	GN
+Labe	Guinea	GN
+Boke	Guinea	GN
+Kindia	Guinea	GN
+Kankan	Guinea	GN
+Nzerekore	Guinea	GN
+Conakry	Guinea	GN
+Cacheu	Guinea Bissau	GW
+Farim	Guinea Bissau	GW
+Fulacunda	Guinea Bissau	GW
+Gabu	Guinea Bissau	GW
+Catio	Guinea Bissau	GW
+Bolama	Guinea Bissau	GW
+Bafata	Guinea Bissau	GW
+Bissau	Guinea Bissau	GW
+Corriverton	Guyana	GY
+Ituni	Guyana	GY
+Lethem	Guyana	GY
+Kumaka	Guyana	GY
+Bartica	Guyana	GY
+Anna Regina	Guyana	GY
+Linden	Guyana	GY
+Mabaruma	Guyana	GY
+New Amsterdam	Guyana	GY
+Georgetown	Guyana	GY
+Jeremie	Haiti	HT
+Port-De-Paix	Haiti	HT
+Hinche	Haiti	HT
+Fort-Liberte	Haiti	HT
+Jacmel	Haiti	HT
+Les Cayes	Haiti	HT
+Gonaives	Haiti	HT
+Cap-Haitien	Haiti	HT
+Port-au-Prince	Haiti	HT
+Yoro	Honduras	HN
+La Esperanza	Honduras	HN
+La Paz	Honduras	HN
+Santa Barbara	Honduras	HN
+Gracias	Honduras	HN
+Nueva Ocotepeque	Honduras	HN
+Yuscaran	Honduras	HN
+Roatan	Honduras	HN
+Nacaome	Honduras	HN
+Santa Rosa de Copan	Honduras	HN
+Trujillo	Honduras	HN
+Brus Laguna	Honduras	HN
+Puerto Lempira	Honduras	HN
+Juticalpa	Honduras	HN
+Comayagua	Honduras	HN
+Choluteca	Honduras	HN
+La Ceiba	Honduras	HN
+San Pedro Sula	Honduras	HN
+Tegucigalpa	Honduras	HN
+Hong Kong	Hong Kong S.A.R.	HK
+Veszprem	Hungary	HU
+Zalaegerszeg	Hungary	HU
+Tatabanya	Hungary	HU
+Szekszard	Hungary	HU
+Salgotarjan	Hungary	HU
+Bekescsaba	Hungary	HU
+Eger	Hungary	HU
+Szombathely	Hungary	HU
+Kecskemet	Hungary	HU
+Szekesfehervar	Hungary	HU
+Nyiregyhaza	Hungary	HU
+Pecs	Hungary	HU
+Gyor	Hungary	HU
+Kaposvar	Hungary	HU
+Vac	Hungary	HU
+Miskolc	Hungary	HU
+Szeged	Hungary	HU
+Debrecen	Hungary	HU
+Szolnok	Hungary	HU
+Budapest	Hungary	HU
+Borgarnes	Iceland	IS
+EgilsstaÃ°ir	Iceland	IS
+SauÃ°Ã¡rkrÃ³kur	Iceland	IS
+Selfoss	Iceland	IS
+Hofn	Iceland	IS
+ÃsafjÃ¶rÃ°ur	Iceland	IS
+Akureyi	Iceland	IS
+KeflavÃ­k	Iceland	IS
+ReykjavÃ­k	Iceland	IS
+Panaji	India	IN
+Simla	India	IN
+Gurgaon	India	IN
+Sonipat	India	IN
+Rohtak	India	IN
+Hisar	India	IN
+Bhiwani	India	IN
+Ambala	India	IN
+Sopore	India	IN
+Silvassa	India	IN
+Kalyan	India	IN
+Bhusawal	India	IN
+Jorhat	India	IN
+Hoshiarpur	India	IN
+Ajmer	India	IN
+Hathras	India	IN
+Sitapur	India	IN
+Pilibhit	India	IN
+Budaun	India	IN
+Firozabad	India	IN
+Mathura	India	IN
+Bulandshahr	India	IN
+Hapur	India	IN
+Muzaffarnagar	India	IN
+Gangtok	India	IN
+Diu	India	IN
+Pathankot	India	IN
+Sirsa	India	IN
+Panipat	India	IN
+Karnal	India	IN
+Baramula	India	IN
+Proddatur	India	IN
+Nandyal	India	IN
+Hindupur	India	IN
+Tirupati	India	IN
+Ongole	India	IN
+Vizianagaram	India	IN
+Rajahmundry	India	IN
+Machilipatnam	India	IN
+Khammam	India	IN
+Chirala	India	IN
+Karimnagar	India	IN
+Nizamabad	India	IN
+Kollam	India	IN
+Alappuzha	India	IN
+Puri	India	IN
+Sambalpur	India	IN
+Raurkela	India	IN
+Kavaratti	India	IN
+Mandya	India	IN
+Kolar	India	IN
+Shimoga	India	IN
+Raichur	India	IN
+Hospet	India	IN
+Bidar	India	IN
+Sangli	India	IN
+Parbhani	India	IN
+Malegaon	India	IN
+Port Blair	India	IN
+Tezpur	India	IN
+Silchar	India	IN
+Kohima	India	IN
+Shillong	India	IN
+Abohar	India	IN
+Patiala	India	IN
+Bhilwara	India	IN
+Pali	India	IN
+Tonk	India	IN
+Sikar	India	IN
+Bikaner	India	IN
+Bharatpur	India	IN
+Alwar	India	IN
+Fatehpur	India	IN
+Faizabad	India	IN
+Bahraich	India	IN
+Mirzapur	India	IN
+Jhansi	India	IN
+Shahjahanpur	India	IN
+Rampur	India	IN
+Bareilly	India	IN
+Etawah	India	IN
+Dehra Dun	India	IN
+Haora	India	IN
+Alipur Duar	India	IN
+Haldia	India	IN
+Bhatpara	India	IN
+Medinipur	India	IN
+Siliguri	India	IN
+Purnia	India	IN
+Muzaffarpur	India	IN
+Aurangabad	India	IN
+Bilaspur	India	IN
+Burhanpur	India	IN
+Ujjain	India	IN
+Ratlam	India	IN
+Sagar	India	IN
+Vellore	India	IN
+Tiruvannamalai	India	IN
+Rajapalaiyam	India	IN
+Cuddalore	India	IN
+Karur	India	IN
+Kanchipuram	India	IN
+Tirunelveli	India	IN
+Nagercoil	India	IN
+Thanjavur	India	IN
+Kumbakonam	India	IN
+Valparai	India	IN
+Tiruppur	India	IN
+Daman	India	IN
+Navsari	India	IN
+Bhuj	India	IN
+Bhavnagar	India	IN
+Gandhinagar	India	IN
+Itanagar	India	IN
+Aizawl	India	IN
+Agartala	India	IN
+Kakinada	India	IN
+Warangal	India	IN
+Brahmapur	India	IN
+Bijapur	India	IN
+Bhiwandi	India	IN
+Latur	India	IN
+Ahmednagar	India	IN
+Chandrapur	India	IN
+Amravati	India	IN
+Dhule	India	IN
+Dibrugarh	India	IN
+Imphal	India	IN
+Udaipur	India	IN
+Gorakhpur	India	IN
+Barddhaman	India	IN
+Krishnanagar	India	IN
+Gaya	India	IN
+Porbandar	India	IN
+Nellore	India	IN
+Kurnool	India	IN
+Guntur	India	IN
+Tumkur	India	IN
+Davangere	India	IN
+Bellary	India	IN
+Belgaum	India	IN
+Tuticorin	India	IN
+Dindigul	India	IN
+Chandigarh	India	IN
+Jammu	India	IN
+Sholapur	India	IN
+Aurangabad	India	IN
+Nasik	India	IN
+Dispur	India	IN
+Jullundur	India	IN
+Allahabad	India	IN
+Moradabad	India	IN
+Ghaziabad	India	IN
+Agra	India	IN
+Aligarh	India	IN
+Meerut	India	IN
+Dhanbad	India	IN
+Gwalior	India	IN
+Vadodara	India	IN
+Rajkot	India	IN
+Faridabad	India	IN
+Srinagar	India	IN
+Vijayawada	India	IN
+Thiruvananthapuram	India	IN
+Kochi	India	IN
+Cuttack	India	IN
+Hubli	India	IN
+Mangalore	India	IN
+Mysore	India	IN
+Gulbarga	India	IN
+Kolhapur	India	IN
+Nanded	India	IN
+Akola	India	IN
+Guwahati	India	IN
+Ludhiana	India	IN
+Kota	India	IN
+Jodhpur	India	IN
+Lucknow	India	IN
+Saharanpur	India	IN
+Ranchi	India	IN
+Bhagalpur	India	IN
+Raipur	India	IN
+Jabalpur	India	IN
+Indore	India	IN
+Pondicherry	India	IN
+Salem	India	IN
+Tiruchirappalli	India	IN
+Kozhikode	India	IN
+Bhubaneshwar	India	IN
+Jamshedpur	India	IN
+Vishakhapatnam	India	IN
+Amritsar	India	IN
+Varanasi	India	IN
+Asansol	India	IN
+Bhilai	India	IN
+Bhopal	India	IN
+Madurai	India	IN
+Coimbatore	India	IN
+Delhi	India	IN
+Hyderabad	India	IN
+Pune	India	IN
+Nagpur	India	IN
+Jaipur	India	IN
+Kanpur	India	IN
+Patna	India	IN
+Chennai	India	IN
+Ahmedabad	India	IN
+Surat	India	IN
+New Delhi	India	IN
+Bangalore	India	IN
+Mumbai	India	IN
+Kolkata	India	IN
+Binjai	Indonesia	ID
+Padangsidempuan	Indonesia	ID
+Tarutung	Indonesia	ID
+Tebingtinggi	Indonesia	ID
+Tidore	Indonesia	ID
+Bukittinggi	Indonesia	ID
+Sawahlunto	Indonesia	ID
+Padangpanjang	Indonesia	ID
+Amahai	Indonesia	ID
+Mataram	Indonesia	ID
+Praya	Indonesia	ID
+Baubau	Indonesia	ID
+Luwuk	Indonesia	ID
+Poso	Indonesia	ID
+Biak	Indonesia	ID
+Timika	Indonesia	ID
+Langsa	Indonesia	ID
+Indramayu	Indonesia	ID
+Sukabumi	Indonesia	ID
+Cilacap	Indonesia	ID
+Pati	Indonesia	ID
+Pakalongan	Indonesia	ID
+Tegal	Indonesia	ID
+Salatiga	Indonesia	ID
+Magelang	Indonesia	ID
+Serang	Indonesia	ID
+Bekasi	Indonesia	ID
+Singkawang	Indonesia	ID
+Bandar Lampung	Indonesia	ID
+Perabumulih	Indonesia	ID
+Kuta	Indonesia	ID
+Singaraja	Indonesia	ID
+Sumenep	Indonesia	ID
+Banyuwangi	Indonesia	ID
+Tuban	Indonesia	ID
+Probolinggo	Indonesia	ID
+Pasuruan	Indonesia	ID
+Mojokerto	Indonesia	ID
+Madiun	Indonesia	ID
+Kediri	Indonesia	ID
+Blitar	Indonesia	ID
+Waingapu	Indonesia	ID
+Maumere	Indonesia	ID
+Ende	Indonesia	ID
+Makale	Indonesia	ID
+Palopo	Indonesia	ID
+Watampone	Indonesia	ID
+Pinrang	Indonesia	ID
+Majene	Indonesia	ID
+Tanjungpinang	Indonesia	ID
+Telukbutun	Indonesia	ID
+Sungaipenuh	Indonesia	ID
+Sampit	Indonesia	ID
+Kualakapuas	Indonesia	ID
+Palangkaraya	Indonesia	ID
+Bontang	Indonesia	ID
+Denpasar	Indonesia	ID
+Sorong	Indonesia	ID
+Sibolga	Indonesia	ID
+Pematangsiantar	Indonesia	ID
+Pekanbaru	Indonesia	ID
+Manado	Indonesia	ID
+Yogyakarta	Indonesia	ID
+Kendari	Indonesia	ID
+Palu	Indonesia	ID
+Nabire	Indonesia	ID
+Merauke	Indonesia	ID
+Lhokseumawe	Indonesia	ID
+Samarinda	Indonesia	ID
+Cirebon	Indonesia	ID
+Tasikmalaya	Indonesia	ID
+Bogor	Indonesia	ID
+Bengkulu	Indonesia	ID
+Pontianak	Indonesia	ID
+Kotabumi	Indonesia	ID
+Lahat	Indonesia	ID
+Pangkalpinang	Indonesia	ID
+Jember	Indonesia	ID
+Martapura	Indonesia	ID
+Ruteng	Indonesia	ID
+Jambi	Indonesia	ID
+Manokwari	Indonesia	ID
+Ternate	Indonesia	ID
+Ambon	Indonesia	ID
+Raba	Indonesia	ID
+Jayapura	Indonesia	ID
+Banda Aceh	Indonesia	ID
+Balikpapan	Indonesia	ID
+Surakarta	Indonesia	ID
+Bandar Lampung	Indonesia	ID
+Tanjungpandan	Indonesia	ID
+Malang	Indonesia	ID
+Kupang	Indonesia	ID
+Parepare	Indonesia	ID
+Gorontalo	Indonesia	ID
+Padang	Indonesia	ID
+Tarakan	Indonesia	ID
+Semarang	Indonesia	ID
+Palembang	Indonesia	ID
+Bandjarmasin	Indonesia	ID
+Ujungpandang	Indonesia	ID
+Medan	Indonesia	ID
+Bandung	Indonesia	ID
+Surabaya	Indonesia	ID
+Jakarta	Indonesia	ID
+Yasuj	Iran	IR
+Shar e Kord	Iran	IR
+Marv Dasht	Iran	IR
+Shahrud	Iran	IR
+Varamin	Iran	IR
+Masjed Soleyman	Iran	IR
+Borujerd	Iran	IR
+Malayer	Iran	IR
+Zanjan	Iran	IR
+Urmia	Iran	IR
+Ahar	Iran	IR
+Sanandaj	Iran	IR
+Neyshabur	Iran	IR
+Bojnurd	Iran	IR
+Sirjan	Iran	IR
+Qomsheh	Iran	IR
+Kashan	Iran	IR
+Khomeini Shahr	Iran	IR
+Fasa	Iran	IR
+Gonbad-e Kavus	Iran	IR
+Gorgan	Iran	IR
+Amol	Iran	IR
+Sari	Iran	IR
+Semnan	Iran	IR
+Karaj	Iran	IR
+Behbehan	Iran	IR
+Dezful	Iran	IR
+Khorramabad	Iran	IR
+Ilam	Iran	IR
+Saveh	Iran	IR
+Arak	Iran	IR
+Mahabad	Iran	IR
+Khvoy	Iran	IR
+Maragheh	Iran	IR
+Qasr-e Shirin	Iran	IR
+Bijar	Iran	IR
+Yazdan	Iran	IR
+Torbat-e Jam	Iran	IR
+Quchan	Iran	IR
+Chabahar	Iran	IR
+Kashmar	Iran	IR
+Bam	Iran	IR
+Kerman	Iran	IR
+Bandar-e Bushehr	Iran	IR
+Abadan	Iran	IR
+Ardabil	Iran	IR
+Qom	Iran	IR
+Qazvin	Iran	IR
+Kermanshah	Iran	IR
+Rasht	Iran	IR
+Birjand	Iran	IR
+Sabzewar	Iran	IR
+Zabol	Iran	IR
+Zahedan	Iran	IR
+Yazd	Iran	IR
+Ahvaz	Iran	IR
+Bandar-e-Abbas	Iran	IR
+Hamadan	Iran	IR
+Tabriz	Iran	IR
+Isfahan	Iran	IR
+Shiraz	Iran	IR
+Mashhad	Iran	IR
+Tehran	Iran	IR
+Dahuk	Iraq	IQ
+Samarra	Iraq	IQ
+Az Aubayr	Iraq	IQ
+Ad Diwaniyah	Iraq	IQ
+Ash Shatrah	Iraq	IQ
+Mandali	Iraq	IQ
+Ar Ramadi	Iraq	IQ
+Al Musayyib	Iraq	IQ
+Zakho	Iraq	IQ
+Tall Afar	Iraq	IQ
+Tikrit	Iraq	IQ
+Karbala	Iraq	IQ
+As Samawah	Iraq	IQ
+An Nasiriyah	Iraq	IQ
+Al Amarah	Iraq	IQ
+Al Kut	Iraq	IQ
+As Sulaymaniyah	Iraq	IQ
+Baqubah	Iraq	IQ
+Ar Rutbah	Iraq	IQ
+Al Fallujah	Iraq	IQ
+Al Hillah	Iraq	IQ
+Irbil	Iraq	IQ
+Kirkuk	Iraq	IQ
+Mosul	Iraq	IQ
+An Najaf	Iraq	IQ
+Basra	Iraq	IQ
+Baghdad	Iraq	IQ
+Ros Comain	Ireland	IE
+Muineachan	Ireland	IE
+Shannon	Ireland	IE
+Waterford	Ireland	IE
+Tralee	Ireland	IE
+Donegal	Ireland	IE
+Drogheda	Ireland	IE
+Dundalk	Ireland	IE
+Galway	Ireland	IE
+Kilkenny	Ireland	IE
+Killarney	Ireland	IE
+Sligo	Ireland	IE
+Cork	Ireland	IE
+Limerick	Ireland	IE
+Dublin	Ireland	IE
+Douglas	Isle of Man	IM
+Ramla	Israel	IL
+Beer Sheva	Israel	IL
+Haifa	Israel	IL
+Nazareth	Israel	IL
+Jerusalem	Israel	IL
+Tel Aviv-Yafo	Israel	IL
+Potenza	Italy	IT
+Campobasso	Italy	IT
+Aosta	Italy	IT
+Modena	Italy	IT
+Crotone	Italy	IT
+Vibo Valentia	Italy	IT
+Reggio di Calabria	Italy	IT
+Caserta	Italy	IT
+Barletta	Italy	IT
+Ragusa	Italy	IT
+Asti	Italy	IT
+Novara	Italy	IT
+Como	Italy	IT
+Udine	Italy	IT
+Treviso	Italy	IT
+Parma	Italy	IT
+Ravenna	Italy	IT
+Ferrara	Italy	IT
+Bologna	Italy	IT
+Olbia	Italy	IT
+Cagliari	Italy	IT
+Pisa	Italy	IT
+Livorno	Italy	IT
+Siena	Italy	IT
+Arezzo	Italy	IT
+Catanzaro	Italy	IT
+Salerno	Italy	IT
+Benevento	Italy	IT
+Bari	Italy	IT
+Foggia	Italy	IT
+Lecce	Italy	IT
+Brindisi	Italy	IT
+Taranto	Italy	IT
+Messina	Italy	IT
+Marsala	Italy	IT
+Siracusa	Italy	IT
+Pescara	Italy	IT
+L'Aquila	Italy	IT
+Civitavecchia	Italy	IT
+Ancona	Italy	IT
+Perugia	Italy	IT
+Bergamo	Italy	IT
+Trieste	Italy	IT
+Bolzano	Italy	IT
+Trento	Italy	IT
+Verona	Italy	IT
+Sassari	Italy	IT
+Turin	Italy	IT
+Genoa	Italy	IT
+Florence	Italy	IT
+Catania	Italy	IT
+Venice	Italy	IT
+Palermo	Italy	IT
+Naples	Italy	IT
+Milan	Italy	IT
+Rome	Italy	IT
+Touba	Ivory Coast	CI
+Bouafle	Ivory Coast	CI
+Divo	Ivory Coast	CI
+Toumodi	Ivory Coast	CI
+Aboisso	Ivory Coast	CI
+Ferkessedougou	Ivory Coast	CI
+Odienne	Ivory Coast	CI
+Man	Ivory Coast	CI
+Seguela	Ivory Coast	CI
+Gagnoa	Ivory Coast	CI
+Soubre	Ivory Coast	CI
+San-Pedro	Ivory Coast	CI
+Sassandra	Ivory Coast	CI
+Bondoukou	Ivory Coast	CI
+Agboville	Ivory Coast	CI
+Dimbokro	Ivory Coast	CI
+Grand Bassam	Ivory Coast	CI
+Dabou	Ivory Coast	CI
+Guiglo	Ivory Coast	CI
+Abengourou	Ivory Coast	CI
+Korhogo	Ivory Coast	CI
+Daloa	Ivory Coast	CI
+Bouake	Ivory Coast	CI
+Yamoussoukro	Ivory Coast	CI
+Abidjan	Ivory Coast	CI
+Lucea	Jamaica	JM
+Mandeville	Jamaica	JM
+Black River	Jamaica	JM
+Falmouth	Jamaica	JM
+Savanna-la-Mar	Jamaica	JM
+Port Antonio	Jamaica	JM
+St. Ann's Bay	Jamaica	JM
+Port Maria	Jamaica	JM
+Half Way Tree	Jamaica	JM
+Port Morant	Jamaica	JM
+May Pen	Jamaica	JM
+Spanish Town	Jamaica	JM
+Montego Bay	Jamaica	JM
+Kingston	Jamaica	JM
+Okayama	Japan	JP
+Shimonoseki	Japan	JP
+Kanoya	Japan	JP
+Takamatsu	Japan	JP
+Tokushima	Japan	JP
+Toyama	Japan	JP
+Takaoka	Japan	JP
+Otsu	Japan	JP
+Maebashi	Japan	JP
+Kawasaki	Japan	JP
+Kawagoe	Japan	JP
+Utsunomiya	Japan	JP
+Hachioji	Japan	JP
+Koriyama	Japan	JP
+Kure	Japan	JP
+Matsue	Japan	JP
+Tottori	Japan	JP
+Sasebo	Japan	JP
+Kitakyushu	Japan	JP
+Kumamoto	Japan	JP
+Oita	Japan	JP
+Gifu	Japan	JP
+Tsu	Japan	JP
+Matsumoto	Japan	JP
+Shizuoka	Japan	JP
+Hamamatsu	Japan	JP
+Obihiro	Japan	JP
+Tomakomai	Japan	JP
+Kitami	Japan	JP
+Otaru	Japan	JP
+Fukui	Japan	JP
+Maizuru	Japan	JP
+Wakayama	Japan	JP
+Mito	Japan	JP
+Kofu	Japan	JP
+Iwaki	Japan	JP
+Nagaoka	Japan	JP
+Yamagata	Japan	JP
+Tsuruoka	Japan	JP
+Kagoshima	Japan	JP
+Matsuyama	Japan	JP
+Kanazawa	Japan	JP
+Muroran	Japan	JP
+Asahikawa	Japan	JP
+Kobe	Japan	JP
+Yokohama	Japan	JP
+Akita	Japan	JP
+Aomori	Japan	JP
+Hirosaki	Japan	JP
+Hachinohe	Japan	JP
+Fukushima	Japan	JP
+Morioka	Japan	JP
+Niigata	Japan	JP
+Fukuoka	Japan	JP
+Miyazaki	Japan	JP
+Naha	Japan	JP
+Kochi	Japan	JP
+Nagoya	Japan	JP
+Nagano	Japan	JP
+Kushiro	Japan	JP
+Hakodate	Japan	JP
+Kyoto	Japan	JP
+Sendai	Japan	JP
+Sakata	Japan	JP
+Nagasaki	Japan	JP
+Hiroshima	Japan	JP
+Sapporo	Japan	JP
+Osaka	Japan	JP
+Tokyo	Japan	JP
+Al Mafraq	Jordan	JO
+At Tafilah	Jordan	JO
+Ma'an	Jordan	JO
+Irbid	Jordan	JO
+As Salt	Jordan	JO
+Az Zarqa	Jordan	JO
+Al Aqabah	Jordan	JO
+Al Karak	Jordan	JO
+Amman	Jordan	JO
+Turgay	Kazakhstan	KZ
+Mangyshlak	Kazakhstan	KZ
+Maqat	Kazakhstan	KZ
+Bestobe	Kazakhstan	KZ
+Osakarovka	Kazakhstan	KZ
+Aqadyr	Kazakhstan	KZ
+Sharbaqty	Kazakhstan	KZ
+Shemonaikha	Kazakhstan	KZ
+Serebryansk	Kazakhstan	KZ
+Boralday	Kazakhstan	KZ
+Zharkent	Kazakhstan	KZ
+Esik	Kazakhstan	KZ
+Lenger	Kazakhstan	KZ
+Kentau	Kazakhstan	KZ
+Zhosaly	Kazakhstan	KZ
+Oktyabrsk	Kazakhstan	KZ
+Algha	Kazakhstan	KZ
+Bayghanin	Kazakhstan	KZ
+Embi	Kazakhstan	KZ
+Zhetiqara	Kazakhstan	KZ
+Komsomolets	Kazakhstan	KZ
+Tobol	Kazakhstan	KZ
+Qusmuryn	Kazakhstan	KZ
+Shieli	Kazakhstan	KZ
+Makhambet	Kazakhstan	KZ
+Chapaev	Kazakhstan	KZ
+Zhanibek	Kazakhstan	KZ
+Aqsay	Kazakhstan	KZ
+Esil	Kazakhstan	KZ
+Derzhavinsk	Kazakhstan	KZ
+Zhaltyr	Kazakhstan	KZ
+Makinsk	Kazakhstan	KZ
+Aqsu	Kazakhstan	KZ
+Zholymbet	Kazakhstan	KZ
+Erymentau	Kazakhstan	KZ
+Saryshaghan	Kazakhstan	KZ
+Qarazhal	Kazakhstan	KZ
+Atasu	Kazakhstan	KZ
+Kishkenekol	Kazakhstan	KZ
+Tayynsha	Kazakhstan	KZ
+Bulaevo	Kazakhstan	KZ
+Ertis	Kazakhstan	KZ
+Kachiry	Kazakhstan	KZ
+Zaysan	Kazakhstan	KZ
+Zyryanovsk	Kazakhstan	KZ
+Ridder	Kazakhstan	KZ
+Shar	Kazakhstan	KZ
+Urzhar	Kazakhstan	KZ
+Sarqan	Kazakhstan	KZ
+Ushtobe	Kazakhstan	KZ
+Shonzhy	Kazakhstan	KZ
+Qapshaghay	Kazakhstan	KZ
+Otar	Kazakhstan	KZ
+Fort Shevchenko	Kazakhstan	KZ
+Zhangaozen	Kazakhstan	KZ
+Arys	Kazakhstan	KZ
+Burylbaytal	Kazakhstan	KZ
+Shu	Kazakhstan	KZ
+Qulan	Kazakhstan	KZ
+Oytal	Kazakhstan	KZ
+Qaratau	Kazakhstan	KZ
+Khromtau	Kazakhstan	KZ
+Arqalyq	Kazakhstan	KZ
+Oostanay	Kazakhstan	KZ
+Baykonur	Kazakhstan	KZ
+Balyqshy	Kazakhstan	KZ
+Atbasar	Kazakhstan	KZ
+Kokshetau	Kazakhstan	KZ
+Temirtau	Kazakhstan	KZ
+Zhezqazghan	Kazakhstan	KZ
+Qarqaraly	Kazakhstan	KZ
+Balqash	Kazakhstan	KZ
+Petropavlovsk	Kazakhstan	KZ
+Ayakoz	Kazakhstan	KZ
+Taldyqorghan	Kazakhstan	KZ
+Turkistan	Kazakhstan	KZ
+Shalqar	Kazakhstan	KZ
+Qazaly	Kazakhstan	KZ
+Aral	Kazakhstan	KZ
+Qulsary	Kazakhstan	KZ
+Oral	Kazakhstan	KZ
+Beyneu	Kazakhstan	KZ
+Aqtau	Kazakhstan	KZ
+Aqtobe	Kazakhstan	KZ
+Rudny	Kazakhstan	KZ
+Qyzylorda	Kazakhstan	KZ
+Atyrau	Kazakhstan	KZ
+Ekibastuz	Kazakhstan	KZ
+Pavlodar	Kazakhstan	KZ
+Semey	Kazakhstan	KZ
+Oskemen	Kazakhstan	KZ
+Shymkent	Kazakhstan	KZ
+Taraz	Kazakhstan	KZ
+Astana	Kazakhstan	KZ
+Qaraghandy	Kazakhstan	KZ
+Almaty	Kazakhstan	KZ
+Nyeri	Kenya	KE
+Mwingi	Kenya	KE
+Embu	Kenya	KE
+Machakos	Kenya	KE
+Nanyuki	Kenya	KE
+Maralal	Kenya	KE
+Konza	Kenya	KE
+Lodwar	Kenya	KE
+Eldama Ravine	Kenya	KE
+Sotik	Kenya	KE
+Namanga	Kenya	KE
+Naivasha	Kenya	KE
+Kericho	Kenya	KE
+Kitale	Kenya	KE
+Bungoma	Kenya	KE
+Kakamega	Kenya	KE
+Wajir	Kenya	KE
+Garissa	Kenya	KE
+Witu	Kenya	KE
+Tsavo	Kenya	KE
+Voi	Kenya	KE
+Kilifi	Kenya	KE
+Thika	Kenya	KE
+Kendu Bay	Kenya	KE
+Karungu	Kenya	KE
+Kisii	Kenya	KE
+Marsabit	Kenya	KE
+Moyale	Kenya	KE
+Nakuru	Kenya	KE
+Lamu	Kenya	KE
+Malindi	Kenya	KE
+Kisumu	Kenya	KE
+Meru	Kenya	KE
+Eldoret	Kenya	KE
+Mombasa	Kenya	KE
+Nairobi	Kenya	KE
+Tarawa	Kiribati	KI
+Prizren	Kosovo	
+Pec	Kosovo	-99
+Pristina	Kosovo	-99
+Hawalli	Kuwait	KW
+Al Ahmadi	Kuwait	KW
+Al Jahra	Kuwait	KW
+Kuwait	Kuwait	KW
+Tokmak	Kyrgyzstan	KG
+Kara Balta	Kyrgyzstan	KG
+Cholpon Ata	Kyrgyzstan	KG
+Naryn	Kyrgyzstan	KG
+Kok Yangak	Kyrgyzstan	KG
+Balykchy	Kyrgyzstan	KG
+At Bashy	Kyrgyzstan	KG
+Jalal Abad	Kyrgyzstan	KG
+Toktogul	Kyrgyzstan	KG
+Tash Komur	Kyrgyzstan	KG
+Talas	Kyrgyzstan	KG
+Osh	Kyrgyzstan	KG
+Karakol	Kyrgyzstan	KG
+Bishkek	Kyrgyzstan	KG
+Ban Houayxay	Laos	LA
+Louang Namtha	Laos	LA
+Champasak	Laos	LA
+Saravan	Laos	LA
+Xam Nua	Laos	LA
+Phongsali	Laos	LA
+Attapu	Laos	LA
+Xaignabouri	Laos	LA
+Pakxe	Laos	LA
+Xiangkhoang	Laos	LA
+Louangphrabang	Laos	LA
+Thakhek	Laos	LA
+Savannakhet	Laos	LA
+Vientiane	Laos	LA
+Rezekne	Latvia	LV
+Ventspils	Latvia	LV
+Jelgava	Latvia	LV
+Liepaga	Latvia	LV
+Daugavpils	Latvia	LV
+Riga	Latvia	LV
+B'abda	Lebanon	LB
+Nabatiye et Tahta	Lebanon	LB
+Saida	Lebanon	LB
+Zahle	Lebanon	LB
+Trablous	Lebanon	LB
+Beirut	Lebanon	LB
+Teyateyaneng	Lesotho	LS
+Mohales Hoek	Lesotho	LS
+Moyeni	Lesotho	LS
+Hlotse	Lesotho	LS
+Butha-Buthe	Lesotho	LS
+Mokhotlong	Lesotho	LS
+Mafetang	Lesotho	LS
+Maseru	Lesotho	LS
+Barclayville	Liberia	LR
+Voinjama	Liberia	LR
+Bensonville	Liberia	LR
+Kakata	Liberia	LR
+Sanniquellie	Liberia	LR
+Rivercess	Liberia	LR
+Harper	Liberia	LR
+Gbarnga	Liberia	LR
+Zwedru	Liberia	LR
+Greenville	Liberia	LR
+Buchanan	Liberia	LR
+Robertsport	Liberia	LR
+Monrovia	Liberia	LR
+Dirj	Libya	LY
+Nalut	Libya	LY
+Zillah	Libya	LY
+Al Khums	Libya	LY
+Tajarhi	Libya	LY
+Umm al Abid	Libya	LY
+Az Zawiyah	Libya	LY
+Gharyan	Libya	LY
+Mizdah	Libya	LY
+Bani Walid	Libya	LY
+Al Marj	Libya	LY
+Al Bayda	Libya	LY
+Shahhat	Libya	LY
+El Agheila	Libya	LY
+Maradah	Libya	LY
+Qaminis	Libya	LY
+As Sidr	Libya	LY
+Al Jaghbub	Libya	LY
+Ghadamis	Libya	LY
+Hun	Libya	LY
+Birak	Libya	LY
+Ghat	Libya	LY
+Marzuq	Libya	LY
+Ajdabiya	Libya	LY
+Awjilah	Libya	LY
+Surt	Libya	LY
+Darnah	Libya	LY
+Tubruq	Libya	LY
+Al Jawf	Libya	LY
+Tmassah	Libya	LY
+Misratah	Libya	LY
+Zuwarah	Libya	LY
+Sabha	Libya	LY
+Banghazi	Libya	LY
+Tripoli	Libya	LY
+Vaduz	Liechtenstein	LI
+PaneveÅ¾ys	Lithuania	LT
+Siauliai	Lithuania	LT
+Klaipeda	Lithuania	LT
+Kaunas	Lithuania	LT
+Vilnius	Lithuania	LT
+Diekirch	Luxembourg	LU
+Grevenmacher	Luxembourg	LU
+Luxembourg	Luxembourg	LU
+Macau	Macau S.A.R	MO
+Tetovo	Macedonia	MK
+Bitola	Macedonia	MK
+Skopje	Macedonia	MK
+Sambava	Madagascar	MG
+Ambanja	Madagascar	MG
+Ihosy	Madagascar	MG
+Mandritsara	Madagascar	MG
+Besalampy	Madagascar	MG
+Marovoay	Madagascar	MG
+Antsohihy	Madagascar	MG
+Ambatondrazaka	Madagascar	MG
+Bekiy	Madagascar	MG
+Manja	Madagascar	MG
+Miandrivazo	Madagascar	MG
+Antsirabe	Madagascar	MG
+Antalaha	Madagascar	MG
+Andoany	Madagascar	MG
+Farafangana	Madagascar	MG
+Mananjary	Madagascar	MG
+Maintirano	Madagascar	MG
+Toamasina	Madagascar	MG
+Maroantsetra	Madagascar	MG
+Tolanaro	Madagascar	MG
+Morombe	Madagascar	MG
+Androka	Madagascar	MG
+Morondava	Madagascar	MG
+Antsiranana	Madagascar	MG
+Fianarantsoa	Madagascar	MG
+Mahajanga	Madagascar	MG
+Toliara	Madagascar	MG
+Antananarivo	Madagascar	MG
+Mzimba	Malawi	MW
+Machinga	Malawi	MW
+Dedza	Malawi	MW
+Mchinji	Malawi	MW
+Ntcheu	Malawi	MW
+Chiradzulu	Malawi	MW
+Nsanje	Malawi	MW
+Mwanza	Malawi	MW
+Mulanje	Malawi	MW
+Karonga	Malawi	MW
+Chitipa	Malawi	MW
+Nkhata Bay	Malawi	MW
+Nkhotakota	Malawi	MW
+Mangochi	Malawi	MW
+Salima	Malawi	MW
+Chiromo	Malawi	MW
+Zomba	Malawi	MW
+Mzuzu	Malawi	MW
+Blantyre	Malawi	MW
+Lilongwe	Malawi	MW
+Kangar	Malaysia	MY
+Kuala Lipis	Malaysia	MY
+Shah Alam	Malaysia	MY
+Teluk Intan	Malaysia	MY
+Butterworth	Malaysia	MY
+Sungai Petani	Malaysia	MY
+Alor Setar	Malaysia	MY
+Muar	Malaysia	MY
+Batu Pahat	Malaysia	MY
+Keluang	Malaysia	MY
+Seremban	Malaysia	MY
+Raub	Malaysia	MY
+Chukai	Malaysia	MY
+Kuala Terengganu	Malaysia	MY
+Lahad Datu	Malaysia	MY
+Bintulu	Malaysia	MY
+Miri	Malaysia	MY
+Johor Bahru	Malaysia	MY
+Kelang	Malaysia	MY
+Taiping	Malaysia	MY
+Ipoh	Malaysia	MY
+Kota Baharu	Malaysia	MY
+Malacca	Malaysia	MY
+Kuantan	Malaysia	MY
+Tawau	Malaysia	MY
+Sandakan	Malaysia	MY
+Kota Kinabalu	Malaysia	MY
+Sibu	Malaysia	MY
+George Town	Malaysia	MY
+Kuching	Malaysia	MY
+Putrajaya	Malaysia	MY
+Kuala Lumpur	Malaysia	MY
+Male	Maldives	MV
+Goundam	Mali	ML
+Aguelhok	Mali	ML
+Bourem	Mali	ML
+Kati	Mali	ML
+Banamba	Mali	ML
+Kangaba	Mali	ML
+Nioro du Sahel	Mali	ML
+Bafoulabe	Mali	ML
+Satadougou	Mali	ML
+Yelimane	Mali	ML
+Kita	Mali	ML
+Koutiala	Mali	ML
+Sikasso	Mali	ML
+Bougouni	Mali	ML
+Markala	Mali	ML
+Sokolo	Mali	ML
+San	Mali	ML
+Taoudenni	Mali	ML
+Araouane	Mali	ML
+Tessalit	Mali	ML
+Menaka	Mali	ML
+Nara	Mali	ML
+Koulikoro	Mali	ML
+Mopti	Mali	ML
+Gao	Mali	ML
+Kayes	Mali	ML
+Segou	Mali	ML
+Timbuktu	Mali	ML
+Bamako	Mali	ML
+Djenne	Mali	ML
+Valletta	Malta	MT
+Majuro	Marshall Islands	MH
+Fderik	Mauritania	MR
+Aleg	Mauritania	MR
+Akjoujt	Mauritania	MR
+Zouirat	Mauritania	MR
+Chegga	Mauritania	MR
+Magta Lajar	Mauritania	MR
+Bogue	Mauritania	MR
+Boutilimit	Mauritania	MR
+Selibaby	Mauritania	MR
+Timbedra	Mauritania	MR
+Nema	Mauritania	MR
+Saint-Louis	Mauritania	MR
+Tidjikdja	Mauritania	MR
+Bir Mogrein	Mauritania	MR
+Rosso	Mauritania	MR
+Kiffa	Mauritania	MR
+Nouadhibou	Mauritania	MR
+Ayoun el Atrous	Mauritania	MR
+Nouakchott	Mauritania	MR
+Atar	Mauritania	MR
+Curepipe	Mauritius	MU
+Port Louis	Mauritius	MU
+Vicente Guerrero	Mexico	MX
+Loreto	Mexico	MX
+Ciudad Constitucion	Mexico	MX
+Allende	Mexico	MX
+Nueva Rosita	Mexico	MX
+Hidalgo del Parral	Mexico	MX
+Ascension	Mexico	MX
+Gomez Palacio	Mexico	MX
+Canatlan	Mexico	MX
+Villa Union	Mexico	MX
+Altata	Mexico	MX
+Esperanza	Mexico	MX
+Magdalena	Mexico	MX
+Nacozari Viejo	Mexico	MX
+Villanueva	Mexico	MX
+Montemorelos	Mexico	MX
+Sabinas Hidalgo	Mexico	MX
+Cardenas	Mexico	MX
+Ciudad Valles	Mexico	MX
+Rio Verde	Mexico	MX
+Ciudad Mante	Mexico	MX
+Reynosa	Mexico	MX
+Ciudad Madero	Mexico	MX
+Autlan	Mexico	MX
+Ciudad Hidalgo	Mexico	MX
+Apatzingan	Mexico	MX
+Santiago Ixcuintla	Mexico	MX
+Juchitan	Mexico	MX
+Miahuatlan	Mexico	MX
+Atlixco	Mexico	MX
+Acatlan	Mexico	MX
+Paraiso	Mexico	MX
+Balancan	Mexico	MX
+Tlaxcala	Mexico	MX
+Irapuato	Mexico	MX
+Celaya	Mexico	MX
+Chilpancingo	Mexico	MX
+Iguala	Mexico	MX
+Tecpan	Mexico	MX
+Atoyac	Mexico	MX
+Nezahualcoyotl	Mexico	MX
+San Juan del Rio	Mexico	MX
+Jaltipan	Mexico	MX
+Orizaba	Mexico	MX
+Xalapa	Mexico	MX
+Nautla	Mexico	MX
+San Cristobal de Las Casas	Mexico	MX
+Escuintla	Mexico	MX
+Motul	Mexico	MX
+Tekax	Mexico	MX
+Peto	Mexico	MX
+Halacho	Mexico	MX
+San Quintin	Mexico	MX
+Punta Prieta	Mexico	MX
+San Felipe	Mexico	MX
+Santa Rosalia	Mexico	MX
+Guerrero Negro	Mexico	MX
+Piedras Negras	Mexico	MX
+San Pedro de las Colonias	Mexico	MX
+Sierra Mojada	Mexico	MX
+Parras	Mexico	MX
+Cuauhtemoc	Mexico	MX
+Nuevo Casas Grandes	Mexico	MX
+Ojinaga	Mexico	MX
+Villa Ahumada	Mexico	MX
+Santa Barbara	Mexico	MX
+Ciudad Camargo	Mexico	MX
+Cuencame	Mexico	MX
+Papasquiaro	Mexico	MX
+Escuinapa	Mexico	MX
+Guamuchil	Mexico	MX
+Guasave	Mexico	MX
+El Fuerte	Mexico	MX
+Eldorado	Mexico	MX
+La Cruz	Mexico	MX
+Agua Prieta	Mexico	MX
+Ciudad Obregon	Mexico	MX
+Navajoa	Mexico	MX
+Caborca	Mexico	MX
+MazatlÃ¡n	Mexico	MX
+Cananea	Mexico	MX
+Huatabampo	Mexico	MX
+Zacatecas	Mexico	MX
+Juan Aldama	Mexico	MX
+Valparaiso	Mexico	MX
+Fresnillo	Mexico	MX
+Linares	Mexico	MX
+Matehuala	Mexico	MX
+Tamuin	Mexico	MX
+Tamazunchale	Mexico	MX
+Tula	Mexico	MX
+Aldama	Mexico	MX
+San Fernando	Mexico	MX
+Tecoman	Mexico	MX
+Puerto Vallarta	Mexico	MX
+La Barca	Mexico	MX
+Ciudad Guzman	Mexico	MX
+Lagos de Moreno	Mexico	MX
+Morelia	Mexico	MX
+Lazaro Cardenas	Mexico	MX
+Zamora	Mexico	MX
+Coalcoman	Mexico	MX
+Uruapan	Mexico	MX
+Tuxpan	Mexico	MX
+Tepic	Mexico	MX
+Compostela	Mexico	MX
+Tecuala	Mexico	MX
+Ciudad del Carmen	Mexico	MX
+Champoton	Mexico	MX
+Salina Cruz	Mexico	MX
+Puerto Escondido	Mexico	MX
+Pochutla	Mexico	MX
+Mitla	Mexico	MX
+Tlaxiaco	Mexico	MX
+Huajuapan de Leon	Mexico	MX
+Tehuacan	Mexico	MX
+Teziutlan	Mexico	MX
+Frontera	Mexico	MX
+Tenosique	Mexico	MX
+Salamanca	Mexico	MX
+Guanajuato	Mexico	MX
+Taxco	Mexico	MX
+Ayutla	Mexico	MX
+Ciudad Altamirano	Mexico	MX
+Petatlan	Mexico	MX
+Pachuca	Mexico	MX
+Toluca	Mexico	MX
+Zumpango	Mexico	MX
+Minatitlan	Mexico	MX
+Coatzacoalcos	Mexico	MX
+Poza Rica de Hidalgo	Mexico	MX
+Cordoba	Mexico	MX
+Santiago Tuxtla	Mexico	MX
+Tuxpam	Mexico	MX
+Panuco	Mexico	MX
+Pijijiapan	Mexico	MX
+Isla Mujeres	Mexico	MX
+Felipe Carrillo Puerto	Mexico	MX
+Tizimin	Mexico	MX
+Valladolid	Mexico	MX
+Izamal	Mexico	MX
+Ticul	Mexico	MX
+Ensenada	Mexico	MX
+Saltillo	Mexico	MX
+Ciudad JuÃ¡rez	Mexico	MX
+Delicias	Mexico	MX
+Durango	Mexico	MX
+Los Mochis	Mexico	MX
+Ciudad Victoria	Mexico	MX
+Aguascalientes	Mexico	MX
+Manzanillo	Mexico	MX
+Tehuantepec	Mexico	MX
+Villahermosa	Mexico	MX
+Cuernavaca	Mexico	MX
+Queretaro	Mexico	MX
+Tapachula	Mexico	MX
+Chetumal	Mexico	MX
+Progreso	Mexico	MX
+Cabo San Lucas	Mexico	MX
+Monclova	Mexico	MX
+Ometepec	Mexico	MX
+Cozumel	Mexico	MX
+Mexicali	Mexico	MX
+La Paz	Mexico	MX
+Torreon	Mexico	MX
+Culiacan	Mexico	MX
+Nogales	Mexico	MX
+Hermosillo	Mexico	MX
+Guaymas	Mexico	MX
+San Luis Potosi	Mexico	MX
+Matamoros	Mexico	MX
+Nuevo Laredo	Mexico	MX
+Colima	Mexico	MX
+Campeche	Mexico	MX
+Oaxaca	Mexico	MX
+Leon	Mexico	MX
+Tijuana	Mexico	MX
+Chihuahua	Mexico	MX
+Mazatlan	Mexico	MX
+Tampico	Mexico	MX
+Acapulco	Mexico	MX
+Veracruz	Mexico	MX
+Tuxtla Gutierrez	Mexico	MX
+Cancun	Mexico	MX
+Merida	Mexico	MX
+Guadalajara	Mexico	MX
+Puebla	Mexico	MX
+Monterrey	Mexico	MX
+Mexico City	Mexico	MX
+Dubasari	Moldova	MD
+Balti	Moldova	MD
+Cahul	Moldova	MD
+Tiraspol	Moldova	MD
+Chisinau	Moldova	MD
+Monaco	Monaco	MC
+Suchboatar	Mongolia	MN
+Dzuunmod	Mongolia	MN
+Tsetserleg	Mongolia	MN
+Olgiy	Mongolia	MN
+Ulaan-Uul	Mongolia	MN
+Hodrogo	Mongolia	MN
+Buyant-Uhaa	Mongolia	MN
+Ondorhaan	Mongolia	MN
+Bayankhongor	Mongolia	MN
+Uliastay	Mongolia	MN
+Altay	Mongolia	MN
+Moron	Mongolia	MN
+Ulaangom	Mongolia	MN
+Bulgan	Mongolia	MN
+Mandalgovi	Mongolia	MN
+Darhan	Mongolia	MN
+Dzuunharaa	Mongolia	MN
+Arvayheer	Mongolia	MN
+Baruun Urt	Mongolia	MN
+Dalandzadgad	Mongolia	MN
+Dund-Us	Mongolia	MN
+Choybalsan	Mongolia	MN
+Erdenet	Mongolia	MN
+Ulaanbaatar	Mongolia	MN
+Podgorica	Montenegro	ME
+Ksar El Kebir	Morocco	MA
+Larache	Morocco	MA
+Taza	Morocco	MA
+Ouezzane	Morocco	MA
+Kenitra	Morocco	MA
+Settat	Morocco	MA
+Er Rachidia	Morocco	MA
+Meknes	Morocco	MA
+Tiznit	Morocco	MA
+El Jadida	Morocco	MA
+Dawra	Morocco	MA
+Lemsid	Morocco	MA
+Tan Tan	Morocco	MA
+Bir Anzarane	Morocco	MA
+Tangier	Morocco	MA
+Agadir	Morocco	MA
+Goulimine	Morocco	MA
+Smara	Morocco	MA
+Ad Dakhla	Morocco	MA
+Oujda	Morocco	MA
+Safi	Morocco	MA
+Laayoune	Morocco	MA
+Fez	Morocco	MA
+Rabat	Morocco	MA
+Marrakesh	Morocco	MA
+Casablanca	Morocco	MA
+Moatize	Mozambique	MZ
+Luangwa	Mozambique	MZ
+Manica	Mozambique	MZ
+Espungabera	Mozambique	MZ
+Montepuez	Mozambique	MZ
+Mocimboa	Mozambique	MZ
+Marrupa	Mozambique	MZ
+Cuamba	Mozambique	MZ
+Ligonha	Mozambique	MZ
+Macia	Mozambique	MZ
+Massangena	Mozambique	MZ
+Mapai	Mozambique	MZ
+Dondo	Mozambique	MZ
+Chiramba	Mozambique	MZ
+Mocuba	Mozambique	MZ
+Nicuadala	Mozambique	MZ
+Maxixe	Mozambique	MZ
+Panda	Mozambique	MZ
+Quissico	Mozambique	MZ
+Vilanculos	Mozambique	MZ
+Matola	Mozambique	MZ
+Chimoio	Mozambique	MZ
+Lichinga	Mozambique	MZ
+Angoche	Mozambique	MZ
+Mocambique	Mozambique	MZ
+Inhambane	Mozambique	MZ
+Tete	Mozambique	MZ
+Pemba	Mozambique	MZ
+Nampula	Mozambique	MZ
+Xai-Xai	Mozambique	MZ
+Quelimane	Mozambique	MZ
+Nacala	Mozambique	MZ
+Beira	Mozambique	MZ
+Maputo	Mozambique	MZ
+Loikaw	Myanmar	MM
+Pa-an	Myanmar	MM
+Hakha	Myanmar	MM
+Taunggyi	Myanmar	MM
+Sagaing	Myanmar	MM
+Myingyan	Myanmar	MM
+Letpadan	Myanmar	MM
+Taungoo	Myanmar	MM
+Thongwa	Myanmar	MM
+Mudon	Myanmar	MM
+Ye	Myanmar	MM
+Mawlamyine	Myanmar	MM
+Kyaukphyu	Myanmar	MM
+Wakema	Myanmar	MM
+Labutta	Myanmar	MM
+Phyarpon	Myanmar	MM
+Yandoon	Myanmar	MM
+Hinthada	Myanmar	MM
+Pathein	Myanmar	MM
+Allanmyo	Myanmar	MM
+Yaynangyoung	Myanmar	MM
+Chauk	Myanmar	MM
+Pakokku	Myanmar	MM
+Namtu	Myanmar	MM
+Dawei	Myanmar	MM
+Shwebo	Myanmar	MM
+Bago	Myanmar	MM
+Pyu	Myanmar	MM
+Pyay	Myanmar	MM
+Magway	Myanmar	MM
+Myitkyina	Myanmar	MM
+Monywa	Myanmar	MM
+Myeik	Myanmar	MM
+Mandalay	Myanmar	MM
+Sittwe	Myanmar	MM
+Naypyidaw	Myanmar	MM
+Rangoon	Myanmar	MM
+Omaruru	Namibia	NA
+Karibib	Namibia	NA
+Otavi	Namibia	NA
+Gobabis	Namibia	NA
+Karasburg	Namibia	NA
+Bethanie	Namibia	NA
+Oranjemund	Namibia	NA
+Mariental	Namibia	NA
+Rehoboth	Namibia	NA
+Outjo	Namibia	NA
+Opuwo	Namibia	NA
+Usakos	Namibia	NA
+Okahandja	Namibia	NA
+Otjiwarongo	Namibia	NA
+Oshikango	Namibia	NA
+Cuangar	Namibia	NA
+Katima Mulilo	Namibia	NA
+Keetmanshoop	Namibia	NA
+MaltahÃ¶he	Namibia	NA
+Swakopmund	Namibia	NA
+Ongwediva	Namibia	NA
+Rundu	Namibia	NA
+Tsumeb	Namibia	NA
+LÃ¼deritz	Namibia	NA
+Walvis Bay	Namibia	NA
+Windhoek	Namibia	NA
+Grootfontein	Namibia	NA
+Salyan	Nepal	NP
+Baglung	Nepal	NP
+Jumla	Nepal	NP
+Bhairawa	Nepal	NP
+Dandeldhura	Nepal	NP
+Dhangarhi	Nepal	NP
+Ramechhap	Nepal	NP
+Bhimphedi	Nepal	NP
+Rajbiraj	Nepal	NP
+Ilam	Nepal	NP
+Lalitpur	Nepal	NP
+Hetauda	Nepal	NP
+Nepalganj	Nepal	NP
+Birganj	Nepal	NP
+Biratnagar	Nepal	NP
+Pokhara	Nepal	NP
+Kathmandu	Nepal	NP
+Assen	Netherlands	NL
+Arnhem	Netherlands	NL
+Maastricht	Netherlands	NL
+Zwolle	Netherlands	NL
+Middelburg	Netherlands	NL
+'s-Hertogenbosch	Netherlands	NL
+Eindhoven	Netherlands	NL
+Leeuwarden	Netherlands	NL
+Groningen	Netherlands	NL
+Utrecht	Netherlands	NL
+Haarlem	Netherlands	NL
+Rotterdam	Netherlands	NL
+The Hague	Netherlands	NL
+Amsterdam	Netherlands	NL
+Noumea	New Caledonia	NC
+Greymouth	New Zealand	NZ
+Upper Hutt	New Zealand	NZ
+Masterton	New Zealand	NZ
+Levin	New Zealand	NZ
+Waitakere	New Zealand	NZ
+Takapuna	New Zealand	NZ
+Whakatane	New Zealand	NZ
+Ashburton	New Zealand	NZ
+Kaiapoi	New Zealand	NZ
+New Plymouth	New Zealand	NZ
+Westport	New Zealand	NZ
+Hokitika	New Zealand	NZ
+Oamaru	New Zealand	NZ
+Palmerston North	New Zealand	NZ
+Wanganui	New Zealand	NZ
+Hastings	New Zealand	NZ
+Gisborne	New Zealand	NZ
+Rotorua	New Zealand	NZ
+Taupo	New Zealand	NZ
+Tauranga	New Zealand	NZ
+Timaru	New Zealand	NZ
+Nelson	New Zealand	NZ
+Whangarei	New Zealand	NZ
+Queenstown	New Zealand	NZ
+Invercargill	New Zealand	NZ
+Napier	New Zealand	NZ
+Manukau	New Zealand	NZ
+Hamilton	New Zealand	NZ
+Blenheim	New Zealand	NZ
+Dunedin	New Zealand	NZ
+Wellington	New Zealand	NZ
+Christchurch	New Zealand	NZ
+Auckland	New Zealand	NZ
+Somoto	Nicaragua	NI
+Ocotal	Nicaragua	NI
+San Carlos	Nicaragua	NI
+Jinotepe	Nicaragua	NI
+Jinotega	Nicaragua	NI
+Masaya	Nicaragua	NI
+San Juan del Sur	Nicaragua	NI
+Esteli	Nicaragua	NI
+Boaco	Nicaragua	NI
+Juigalpa	Nicaragua	NI
+Rivas	Nicaragua	NI
+San Juan de Nicaragua	Nicaragua	NI
+Granada	Nicaragua	NI
+Chinandega	Nicaragua	NI
+Matagalpa	Nicaragua	NI
+Puerto Cabezas	Nicaragua	NI
+Leon	Nicaragua	NI
+Bluefields	Nicaragua	NI
+Managua	Nicaragua	NI
+Goure	Niger	NE
+Gaya	Niger	NE
+Tillaberi	Niger	NE
+Ayorou	Niger	NE
+Birni Nkonni	Niger	NE
+Madaoua	Niger	NE
+Diffa	Niger	NE
+Nguigmi	Niger	NE
+Dosso	Niger	NE
+Arlit	Niger	NE
+Djado	Niger	NE
+Maradi	Niger	NE
+Tahoua	Niger	NE
+Zinder	Niger	NE
+Niamey	Niger	NE
+Agadez	Niger	NE
+Umuahia	Nigeria	NG
+Uyo	Nigeria	NG
+Owerri	Nigeria	NG
+Dutse	Nigeria	NG
+Damaturu	Nigeria	NG
+Iwo	Nigeria	NG
+Iseyin	Nigeria	NG
+Biu	Nigeria	NG
+Bama	Nigeria	NG
+Aba	Nigeria	NG
+Opobo	Nigeria	NG
+Orlu	Nigeria	NG
+Oturkpo	Nigeria	NG
+Calabar	Nigeria	NG
+Wukari	Nigeria	NG
+Jalingo	Nigeria	NG
+Kontagora	Nigeria	NG
+Bida	Nigeria	NG
+Abeokuta	Nigeria	NG
+Ijebu Ode	Nigeria	NG
+Akure	Nigeria	NG
+Ikare	Nigeria	NG
+Owo	Nigeria	NG
+Ondo	Nigeria	NG
+Ado Ekiti	Nigeria	NG
+Ife	Nigeria	NG
+Oshogbo	Nigeria	NG
+Oyo	Nigeria	NG
+Awka	Nigeria	NG
+Onitsha	Nigeria	NG
+Azare	Nigeria	NG
+Bauchi	Nigeria	NG
+Gombe	Nigeria	NG
+Kumo	Nigeria	NG
+Sapele	Nigeria	NG
+Nsukka	Nigeria	NG
+Lokoja	Nigeria	NG
+Idah	Nigeria	NG
+Lafia	Nigeria	NG
+Keffi	Nigeria	NG
+Funtua	Nigeria	NG
+Katsina	Nigeria	NG
+Gusau	Nigeria	NG
+Nguru	Nigeria	NG
+Gashua	Nigeria	NG
+Potiskum	Nigeria	NG
+Birnin Kebbi	Nigeria	NG
+Koko	Nigeria	NG
+Mubi	Nigeria	NG
+Numan	Nigeria	NG
+Ilorin	Nigeria	NG
+Minna	Nigeria	NG
+Zaria	Nigeria	NG
+Jos	Nigeria	NG
+Yola	Nigeria	NG
+Benin City	Nigeria	NG
+Maiduguri	Nigeria	NG
+Port Harcourt	Nigeria	NG
+Makurdi	Nigeria	NG
+Ibadan	Nigeria	NG
+Ogbomosho	Nigeria	NG
+Warri	Nigeria	NG
+Kaduna	Nigeria	NG
+Enugu	Nigeria	NG
+Sokoto	Nigeria	NG
+Abuja	Nigeria	NG
+Kano	Nigeria	NG
+Lagos	Nigeria	NG
+Sariwon	North Korea	KP
+Sin-Ni	North Korea	KP
+Changyon	North Korea	KP
+Anbyon	North Korea	KP
+Munchon	North Korea	KP
+Kaesong	North Korea	KP
+Chosan	North Korea	KP
+Manpo	North Korea	KP
+Sunchon	North Korea	KP
+Kimhyonggwon	North Korea	KP
+Pyongsan	North Korea	KP
+Ongjin	North Korea	KP
+Haeju	North Korea	KP
+Kilchu	North Korea	KP
+Musan	North Korea	KP
+Sonbong	North Korea	KP
+Kanggye	North Korea	KP
+Hungnam	North Korea	KP
+Taedong	North Korea	KP
+Chongju	North Korea	KP
+Hyeson	North Korea	KP
+Nampo	North Korea	KP
+Chongjin	North Korea	KP
+Kimchaek	North Korea	KP
+Hamhung	North Korea	KP
+Wonsan	North Korea	KP
+Sinuiju	North Korea	KP
+Pyongyang	North Korea	KP
+Kyrenia	Northern Cyprus	
+Ammochostos	Northern Cyprus	-99
+Capitol Hill	Northern Mariana Islands	MP
+Arendal	Norway	NO
+Vossavangen	Norway	NO
+Leikanger	Norway	NO
+BÃ¦rum	Norway	NO
+Hamar	Norway	NO
+TÃ¸nsberg	Norway	NO
+Finnsnes	Norway	NO
+GjÃ¸vik	Norway	NO
+RÃ¸rvik	Norway	NO
+Harstad	Norway	NO
+Ã…lesund	Norway	NO
+Sandnes	Norway	NO
+Drammen	Norway	NO
+Moss	Norway	NO
+Steinkjer	Norway	NO
+SvolvÃ¦r	Norway	NO
+Mo i Rana	Norway	NO
+Narvik	Norway	NO
+BodÃ¸	Norway	NO
+Haugesund	Norway	NO
+Stavanger	Norway	NO
+Skien	Norway	NO
+Namsos	Norway	NO
+Alta	Norway	NO
+VadsÃ¸	Norway	NO
+Molde	Norway	NO
+Lillehammer	Norway	NO
+Kirkenes	Norway	NO
+Kristiansand	Norway	NO
+Hammerfest	Norway	NO
+TromsÃ¸	Norway	NO
+Trondheim	Norway	NO
+Bergen	Norway	NO
+Oslo	Norway	NO
+Alayat Samail	Oman	OM
+Dawwah	Oman	OM
+Mirbat	Oman	OM
+Ibri	Oman	OM
+Salalah	Oman	OM
+Suhar	Oman	OM
+As Sib	Oman	OM
+Nizwa	Oman	OM
+Sur	Oman	OM
+Muscat	Oman	OM
+Parachinar	Pakistan	PK
+Sialkote	Pakistan	PK
+Sheikhu Pura	Pakistan	PK
+Gujrat	Pakistan	PK
+Sahiwal	Pakistan	PK
+Chiniot	Pakistan	PK
+Rahim Yar Khan	Pakistan	PK
+Mansehra	Pakistan	PK
+Kohat	Pakistan	PK
+Abbottabad	Pakistan	PK
+Mardan	Pakistan	PK
+Gwadar	Pakistan	PK
+Zhob	Pakistan	PK
+Gilgit	Pakistan	PK
+Kasur	Pakistan	PK
+Kundian	Pakistan	PK
+Okara	Pakistan	PK
+Jhang	Pakistan	PK
+Sargodha	Pakistan	PK
+Dera Ghazi Khan	Pakistan	PK
+Sadiqabad	Pakistan	PK
+Nawabshah	Pakistan	PK
+Bannu	Pakistan	PK
+Dera Ismail Khan	Pakistan	PK
+Chaman	Pakistan	PK
+Turbat	Pakistan	PK
+Faisalabad	Pakistan	PK
+Rawalpindi	Pakistan	PK
+Bahawalpur	Pakistan	PK
+Mirput Khas	Pakistan	PK
+Sukkur	Pakistan	PK
+Saidu	Pakistan	PK
+Gujranwala	Pakistan	PK
+Quetta	Pakistan	PK
+Larkana	Pakistan	PK
+Islamabad	Pakistan	PK
+Multan	Pakistan	PK
+Hyderabad	Pakistan	PK
+Peshawar	Pakistan	PK
+Lahore	Pakistan	PK
+Karachi	Pakistan	PK
+Koror	Palau	PW
+Melekeok	Palau	PW
+Ramallah	Palestine	PS
+Al Khalil	Palestine	PS
+Nablus	Palestine	PS
+Gaza	Palestine	PS
+El Porvenir	Panama	PA
+Penonome	Panama	PA
+Chitre	Panama	PA
+Jaque	Panama	PA
+Bocas del Toro	Panama	PA
+Almirante	Panama	PA
+Las Tablas	Panama	PA
+Santiago	Panama	PA
+La Palma	Panama	PA
+Colon	Panama	PA
+Balboa	Panama	PA
+Puerto Armuelles	Panama	PA
+David	Panama	PA
+Panama City	Panama	PA
+Wabag	Papua New Guinea	PG
+Vanimo	Papua New Guinea	PG
+Kundiawa	Papua New Guinea	PG
+Kerema	Papua New Guinea	PG
+Arawa	Papua New Guinea	PG
+Lorengau	Papua New Guinea	PG
+Kimbe	Papua New Guinea	PG
+Daru	Papua New Guinea	PG
+Sohano	Papua New Guinea	PG
+Kieta	Papua New Guinea	PG
+Mendi	Papua New Guinea	PG
+Abau	Papua New Guinea	PG
+Alotau	Papua New Guinea	PG
+Popondetta	Papua New Guinea	PG
+Hoskins	Papua New Guinea	PG
+Wewak	Papua New Guinea	PG
+Madang	Papua New Guinea	PG
+Kavieng	Papua New Guinea	PG
+Goroka	Papua New Guinea	PG
+Mt. Hagen	Papua New Guinea	PG
+Rabaul	Papua New Guinea	PG
+Lae	Papua New Guinea	PG
+Port Moresby	Papua New Guinea	PG
+Mariscal Estigarribia	Paraguay	PY
+Caacupe	Paraguay	PY
+General Eugenio Alejandrino Garay	Paraguay	PY
+Arroyos y Esteros	Paraguay	PY
+Villa Hayes	Paraguay	PY
+Fortin Falcon	Paraguay	PY
+Puerto Pinasco	Paraguay	PY
+Pozo Colorado	Paraguay	PY
+San Pedro	Paraguay	PY
+San Lorenzo	Paraguay	PY
+Ypacarai	Paraguay	PY
+San Juan Bautista	Paraguay	PY
+Paraguari	Paraguay	PY
+Nacunday	Paraguay	PY
+Coronel Oviedo	Paraguay	PY
+Caazapa	Paraguay	PY
+Ype Jhu	Paraguay	PY
+Encarnacion	Paraguay	PY
+Coronel Bogado	Paraguay	PY
+Fuerte Olimpo	Paraguay	PY
+Capitan Pablo Lagerenza	Paraguay	PY
+La Victoria	Paraguay	PY
+Horqueta	Paraguay	PY
+Belen	Paraguay	PY
+Rosario	Paraguay	PY
+Ita	Paraguay	PY
+Pilar	Paraguay	PY
+Pedro Juan Caballero	Paraguay	PY
+Bella Vista	Paraguay	PY
+Abai	Paraguay	PY
+Ygatimi	Paraguay	PY
+Hohenau	Paraguay	PY
+Concepcion	Paraguay	PY
+Villarrica	Paraguay	PY
+Filadelfia	Paraguay	PY
+Ciudad del Este	Paraguay	PY
+Asuncion	Paraguay	PY
+Ferrenafe	Peru	PE
+Motupe	Peru	PE
+Mollendo	Peru	PE
+Urubamba	Peru	PE
+Santo Tomas	Peru	PE
+Putina	Peru	PE
+Casma	Peru	PE
+Tournavista	Peru	PE
+Huamachuco	Peru	PE
+Otuzco	Peru	PE
+Lamas	Peru	PE
+Nauta	Peru	PE
+Puquio	Peru	PE
+Chosica	Peru	PE
+Satipo	Peru	PE
+Tarma	Peru	PE
+La Oroya	Peru	PE
+Huaura	Peru	PE
+Huacho	Peru	PE
+Pimentel	Peru	PE
+Olmos	Peru	PE
+Sechura	Peru	PE
+Chulucanas	Peru	PE
+Sullana	Peru	PE
+Abancay	Peru	PE
+Camana	Peru	PE
+Sicuani	Peru	PE
+Puno	Peru	PE
+Ayaviri	Peru	PE
+Ilave	Peru	PE
+Desaguadero	Peru	PE
+Huarmey	Peru	PE
+Cajabamba	Peru	PE
+Jaen	Peru	PE
+Chota	Peru	PE
+Tingo Maria	Peru	PE
+Moyobamba	Peru	PE
+Juanjui	Peru	PE
+Tocache	Peru	PE
+Sechura	Peru	PE
+Chachapoyas	Peru	PE
+Caballococha	Peru	PE
+Puca Urco	Peru	PE
+Andoas	Peru	PE
+Soldado Bartra	Peru	PE
+Nuevo Rocafuerte	Peru	PE
+Requena	Peru	PE
+Huanta	Peru	PE
+Coracora	Peru	PE
+Chincha Alta	Peru	PE
+Santiago	Peru	PE
+San Ramon	Peru	PE
+Junin	Peru	PE
+Jauja	Peru	PE
+Pativilca	Peru	PE
+Chancay	Peru	PE
+Chilca	Peru	PE
+Chiclayo	Peru	PE
+Juliaca	Peru	PE
+Cerro de Pasco	Peru	PE
+Tarapoto	Peru	PE
+Ayacucho	Peru	PE
+Callao	Peru	PE
+Paita	Peru	PE
+Talara	Peru	PE
+Tumbes	Peru	PE
+Puerto Maldonado	Peru	PE
+Ilo	Peru	PE
+Moquegua	Peru	PE
+Huaraz	Peru	PE
+Cajamarca	Peru	PE
+Huanuco	Peru	PE
+Pacasmayo	Peru	PE
+Salaverry	Peru	PE
+Gueppi	Peru	PE
+Contamana	Peru	PE
+Huancavelica	Peru	PE
+Pisco	Peru	PE
+Nasca	Peru	PE
+Piura	Peru	PE
+Arequipa	Peru	PE
+Chimbote	Peru	PE
+Pucallpa	Peru	PE
+Iquitos	Peru	PE
+Huancayo	Peru	PE
+Cusco	Peru	PE
+Tacna	Peru	PE
+Trujillo	Peru	PE
+Ica	Peru	PE
+Lima	Peru	PE
+San Carlos	Philippines	PH
+Cadiz	Philippines	PH
+Pagadian	Philippines	PH
+Ozamis	Philippines	PH
+Tarlac	Philippines	PH
+Cabanatuan	Philippines	PH
+Olongapo	Philippines	PH
+Dagupan	Philippines	PH
+San Pablo	Philippines	PH
+Quezon City	Philippines	PH
+Pasay City	Philippines	PH
+Iligan	Philippines	PH
+Ormac	Philippines	PH
+Tacloban	Philippines	PH
+Butuan	Philippines	PH
+Tagum	Philippines	PH
+Surigao	Philippines	PH
+Gingoog	Philippines	PH
+Legazpi	Philippines	PH
+Tuguegarao	Philippines	PH
+Vigan	Philippines	PH
+Bacolod	Philippines	PH
+Roxas	Philippines	PH
+Puerto Princesa	Philippines	PH
+Naga	Philippines	PH
+Angeles	Philippines	PH
+Batangas	Philippines	PH
+Cotabato	Philippines	PH
+Calbayog	Philippines	PH
+Cagayan de Oro	Philippines	PH
+Zamboanga	Philippines	PH
+Laoag	Philippines	PH
+Baguio City	Philippines	PH
+General Santos	Philippines	PH
+Cebu	Philippines	PH
+Iloilo	Philippines	PH
+Davao	Philippines	PH
+Manila	Philippines	PH
+Olsztyn	Poland	PL
+Elblag	Poland	PL
+Inowroclaw	Poland	PL
+Bytom	Poland	PL
+Opole	Poland	PL
+Koszalin	Poland	PL
+Elk	Poland	PL
+Gdynia	Poland	PL
+Wroclaw	Poland	PL
+Szczecin	Poland	PL
+Zielona Gora	Poland	PL
+Poznan	Poland	PL
+Grudziadz	Poland	PL
+Bydgoszcz	Poland	PL
+Katowice	Poland	PL
+Gliwice	Poland	PL
+Kielce	Poland	PL
+Bialystok	Poland	PL
+Lublin	Poland	PL
+Rzeszow	Poland	PL
+LÃ³dz	Poland	PL
+Gdansk	Poland	PL
+KrakÃ³w	Poland	PL
+Warsaw	Poland	PL
+Aveiro	Portugal	PT
+Leiria	Portugal	PT
+Viana Do Castelo	Portugal	PT
+Beja	Portugal	PT
+Evora	Portugal	PT
+Portalegre	Portugal	PT
+Santarem	Portugal	PT
+Braganca	Portugal	PT
+Castelo Branco	Portugal	PT
+Guarda	Portugal	PT
+Viseu	Portugal	PT
+Vila Real	Portugal	PT
+Braga	Portugal	PT
+Covilha	Portugal	PT
+Horta	Portugal	PT
+Angra do Heroismo	Portugal	PT
+Portimao	Portugal	PT
+Faro	Portugal	PT
+Coimbra	Portugal	PT
+Setubal	Portugal	PT
+Porto	Portugal	PT
+Funchal	Portugal	PT
+Ponta Delgada	Portugal	PT
+Lisbon	Portugal	PT
+Ponce	Puerto Rico	PR
+Mayaguez	Puerto Rico	PR
+Arecibo	Puerto Rico	PR
+San Juan	Puerto Rico	PR
+Doha	Qatar	QA
+Targu Jiu	Romania	RO
+Slatina	Romania	RO
+Alexandria	Romania	RO
+Targoviste	Romania	RO
+Giurgiu	Romania	RO
+Slobozia	Romania	RO
+Alba Lulia	Romania	RO
+Bistrita	Romania	RO
+Deva	Romania	RO
+Zalau	Romania	RO
+Satu Mare	Romania	RO
+Rimnicu Vilcea	Romania	RO
+Sfintu-Gheorghe	Romania	RO
+Miercurea Cuic	Romania	RO
+Piatra-Neamt	Romania	RO
+Braila	Romania	RO
+Vaslui	Romania	RO
+Drobeta-Turnu Severin	Romania	RO
+Tulcea	Romania	RO
+Arad	Romania	RO
+Oradea	Romania	RO
+Sibiu	Romania	RO
+Suceava	Romania	RO
+Buzau	Romania	RO
+Galati	Romania	RO
+Focsani	Romania	RO
+Craiova	Romania	RO
+Calarasi	Romania	RO
+Resita	Romania	RO
+Timisoara	Romania	RO
+Botosani	Romania	RO
+Baia Mare	Romania	RO
+Tirgu Mures	Romania	RO
+Pitesti	Romania	RO
+Brasov	Romania	RO
+Ploiesti	Romania	RO
+Bacau	Romania	RO
+Cluj-Napoca	Romania	RO
+Constanta	Romania	RO
+Iasi	Romania	RO
+Bucharest	Romania	RO
+Nazran	Russia	RU
+Ust' Ordynskiy	Russia	RU
+Maykop	Russia	RU
+Mozdok	Russia	RU
+Georgievsk	Russia	RU
+Pyatigorsk	Russia	RU
+Kislovodsk	Russia	RU
+Nevinnomyssk	Russia	RU
+Enurmino	Russia	RU
+Lavrentiya	Russia	RU
+Zvezdnyy	Russia	RU
+Mikhalkino	Russia	RU
+Chernyakhovsk	Russia	RU
+Severomorsk	Russia	RU
+Apatity	Russia	RU
+Polyarnyy	Russia	RU
+Slantsy	Russia	RU
+Kolpino	Russia	RU
+Novozybkov	Russia	RU
+Dyatkovo	Russia	RU
+Shuya	Russia	RU
+Kineshma	Russia	RU
+Balakhna	Russia	RU
+Arzamas	Russia	RU
+Rzhev	Russia	RU
+Vyshnniy Volochek	Russia	RU
+Uglich	Russia	RU
+Yelets	Russia	RU
+Orekhovo-Zuevo	Russia	RU
+Klin	Russia	RU
+Sergiyev Posad	Russia	RU
+Kolomna	Russia	RU
+Bataysk	Russia	RU
+Taganrog	Russia	RU
+Novocherkassk	Russia	RU
+Kamensk Shakhtinskiy	Russia	RU
+Novoshakhtinsk	Russia	RU
+Aleksin	Russia	RU
+Novomoskovsk	Russia	RU
+Shchekino	Russia	RU
+Nikolayevsk	Russia	RU
+Shebekino	Russia	RU
+Gubkin	Russia	RU
+Apsheronsk	Russia	RU
+Kropotkin	Russia	RU
+Ruzayevka	Russia	RU
+Kirsanov	Russia	RU
+Michurinsk	Russia	RU
+Borisoglebsk	Russia	RU
+Oktyabrskiy	Russia	RU
+Plast	Russia	RU
+Bakal	Russia	RU
+Verkhniy Ufaley	Russia	RU
+Severnyy	Russia	RU
+Kirovo-Chepetsk	Russia	RU
+Krasnoturinsk	Russia	RU
+Asbest	Russia	RU
+Alapayevsk	Russia	RU
+Krasnouralsk	Russia	RU
+Severouralsk	Russia	RU
+Novotroitsk	Russia	RU
+Buguruslan	Russia	RU
+Chapayevsk	Russia	RU
+Syzran	Russia	RU
+Novokuybishevsk	Russia	RU
+Naberezhnyye Chelny	Russia	RU
+Zelenodolsk	Russia	RU
+Leninogorsk	Russia	RU
+Bugulma	Russia	RU
+Nefteyugansk	Russia	RU
+Leninsk Kuznetsky	Russia	RU
+Anzhero Sudzhensk	Russia	RU
+Kiselevsk	Russia	RU
+Mundybash	Russia	RU
+Chernogorsk	Russia	RU
+Abaza	Russia	RU
+Iskitim	Russia	RU
+Toguchin	Russia	RU
+Kupina	Russia	RU
+Zaozernyy	Russia	RU
+Bogotol	Russia	RU
+Shilka	Russia	RU
+Sherlovaya Gora	Russia	RU
+Petrovsk Zabaykalskiy	Russia	RU
+Arsenyev	Russia	RU
+Partizansk	Russia	RU
+Dalnerechensk	Russia	RU
+Zemlya Bunge	Russia	RU
+Khorgo	Russia	RU
+Put Lenina	Russia	RU
+Obluchye	Russia	RU
+Vanino	Russia	RU
+Omchak	Russia	RU
+Uglegorsk	Russia	RU
+Kholmsk	Russia	RU
+Solikamsk	Russia	RU
+Kizel	Russia	RU
+Pakhachi	Russia	RU
+Oymyakon	Russia	RU
+Timiryazevskiy	Russia	RU
+Asino	Russia	RU
+Strezhevoy	Russia	RU
+Cherkessk	Russia	RU
+Vladikavkaz	Russia	RU
+Blagodarnyy	Russia	RU
+Zelenokumsk	Russia	RU
+Mukhomornoye	Russia	RU
+Beringovskiy	Russia	RU
+Bilibino	Russia	RU
+Mys Shmidta	Russia	RU
+Egvekinot	Russia	RU
+Sovetsk	Russia	RU
+Nikel	Russia	RU
+Monchegorsk	Russia	RU
+Kirovsk	Russia	RU
+Borovichi	Russia	RU
+Staraya Russa	Russia	RU
+Volkhov	Russia	RU
+Tikhvin	Russia	RU
+Svetogorsk	Russia	RU
+Gatchina	Russia	RU
+Luga	Russia	RU
+Klintsy	Russia	RU
+Roslavl	Russia	RU
+Safonovo	Russia	RU
+Vyazma	Russia	RU
+Segezha	Russia	RU
+Vichuga	Russia	RU
+Sharya	Russia	RU
+Buy	Russia	RU
+Dzerzhinsk	Russia	RU
+Vyska	Russia	RU
+Kimry	Russia	RU
+Bezhetsk	Russia	RU
+Nelidovo	Russia	RU
+Bologoye	Russia	RU
+Torzhok	Russia	RU
+Sokol	Russia	RU
+Cherepovets	Russia	RU
+Rybinsk	Russia	RU
+Rostov	Russia	RU
+Kaluga	Russia	RU
+Kirov	Russia	RU
+Obninsk	Russia	RU
+Lgov	Russia	RU
+Zheleznogorsk	Russia	RU
+Gryazi	Russia	RU
+Yegoryevsk	Russia	RU
+Podolsk	Russia	RU
+Solnechnogorsk	Russia	RU
+Noginsk	Russia	RU
+Serpukhov	Russia	RU
+Livny	Russia	RU
+Mtsensk	Russia	RU
+Salsk	Russia	RU
+Belaya Kalitva	Russia	RU
+Shakhty	Russia	RU
+Millerovo	Russia	RU
+Yefremov	Russia	RU
+Bogoroditsk	Russia	RU
+Kamyshin	Russia	RU
+Pallasovka	Russia	RU
+Frolovo	Russia	RU
+Volzhskiy	Russia	RU
+Mikhaylovka	Russia	RU
+Uryupinsk	Russia	RU
+Starsy Oskol	Russia	RU
+Alekseyevka	Russia	RU
+Valuyki	Russia	RU
+Tuapse	Russia	RU
+Gelendzhik	Russia	RU
+Labinsk	Russia	RU
+Armavir	Russia	RU
+Timashevsk	Russia	RU
+Tikhoretsk	Russia	RU
+Yeysk	Russia	RU
+Saransk	Russia	RU
+Kamenka	Russia	RU
+Kuznetsk	Russia	RU
+Serdobsk	Russia	RU
+Kasimov	Russia	RU
+Sasovo	Russia	RU
+Kotovsk	Russia	RU
+Morshansk	Russia	RU
+Kovrov	Russia	RU
+Murom	Russia	RU
+Rayevskiy	Russia	RU
+Sibay	Russia	RU
+Kumertau	Russia	RU
+Salavat	Russia	RU
+Belebey	Russia	RU
+Tuymazy	Russia	RU
+Neftekamsk	Russia	RU
+Troitsk	Russia	RU
+Yemanzhelinsk	Russia	RU
+Kartaly	Russia	RU
+Asha	Russia	RU
+Miass	Russia	RU
+Kyshtym	Russia	RU
+Kurtamysh	Russia	RU
+Shadrinsk	Russia	RU
+Varnek	Russia	RU
+Bugrino	Russia	RU
+Yamburg	Russia	RU
+Nakhodka	Russia	RU
+Sosnogorsk	Russia	RU
+Sovetsk	Russia	RU
+Slobodskoy	Russia	RU
+Kirs	Russia	RU
+Omutninsk	Russia	RU
+Kotelnich	Russia	RU
+Yoshkar Ola	Russia	RU
+Kamensk Uralskiy	Russia	RU
+Polevskoy	Russia	RU
+Tavda	Russia	RU
+Artemovskiy	Russia	RU
+Nevyansk	Russia	RU
+Verkhnyaya Salda	Russia	RU
+Nizhnyaya Tura	Russia	RU
+Karpinsk	Russia	RU
+Ivdel	Russia	RU
+Krasnoufimsk	Russia	RU
+Sarapul	Russia	RU
+Mozhga	Russia	RU
+Votkinsk	Russia	RU
+Glazov	Russia	RU
+Kanash	Russia	RU
+Shumerlya	Russia	RU
+Alatyr	Russia	RU
+Sol-lletsk	Russia	RU
+Dombarovskiy	Russia	RU
+Mednogorsk	Russia	RU
+Gay	Russia	RU
+Buzuluk	Russia	RU
+Otradnyy	Russia	RU
+Tolyatti	Russia	RU
+Engels	Russia	RU
+Pugachev	Russia	RU
+Volsk	Russia	RU
+Atkarsk	Russia	RU
+Balashov	Russia	RU
+Almetyevsk	Russia	RU
+Chistopol	Russia	RU
+Nizhnekamsk	Russia	RU
+Dimitrovgrad	Russia	RU
+Peregrebnoye	Russia	RU
+Saranpaul	Russia	RU
+Uray	Russia	RU
+Laryak	Russia	RU
+Kogalym	Russia	RU
+Megion	Russia	RU
+Cherlak	Russia	RU
+Kalachinsk	Russia	RU
+Nazyvayevsk	Russia	RU
+Isikul	Russia	RU
+Ishim	Russia	RU
+Golyshmanovo	Russia	RU
+Yalutorovsk	Russia	RU
+Biysk	Russia	RU
+Zmeinogorsk	Russia	RU
+Aleysk	Russia	RU
+Novoaltaysk	Russia	RU
+Kamenna Obi	Russia	RU
+Gornyak	Russia	RU
+Kulunda	Russia	RU
+Slavgorod	Russia	RU
+Tashtagol	Russia	RU
+Guryevsk	Russia	RU
+Yurga	Russia	RU
+Topki	Russia	RU
+Mariinsk	Russia	RU
+Shira	Russia	RU
+Cherepanovo	Russia	RU
+Kargat	Russia	RU
+Ob	Russia	RU
+Karasuk	Russia	RU
+Barabinsk	Russia	RU
+Tatarsk	Russia	RU
+Kaspiysk	Russia	RU
+Derbent	Russia	RU
+Buynaksk	Russia	RU
+Yessey	Russia	RU
+Ulkan	Russia	RU
+Kirensk	Russia	RU
+Zheleznogorsk Ilimskiy	Russia	RU
+Vikhorevka	Russia	RU
+Biryusinsk	Russia	RU
+Kodinskiy	Russia	RU
+Artemovsk	Russia	RU
+Uyar	Russia	RU
+Uzhur	Russia	RU
+Sayanogorsk	Russia	RU
+Podkamennaya	Russia	RU
+Igarka	Russia	RU
+Agapa	Russia	RU
+Boyarka	Russia	RU
+Nordvik	Russia	RU
+Chelyuskin	Russia	RU
+Taksimo	Russia	RU
+Gusinoozyorsk	Russia	RU
+Aginskoye	Russia	RU
+Progress	Russia	RU
+Belogorsk	Russia	RU
+Nyukzha	Russia	RU
+Nerchinsk	Russia	RU
+Kavalerovo	Russia	RU
+Spassk Dalniy	Russia	RU
+Shalaurova	Russia	RU
+Logashkino	Russia	RU
+Ust Kuyga	Russia	RU
+Pokrovsk	Russia	RU
+Verkhnevilyuysk	Russia	RU
+Vitim	Russia	RU
+Olyokminsk	Russia	RU
+Tunguskhaya	Russia	RU
+Natara	Russia	RU
+Zhilinda	Russia	RU
+Trofimovsk	Russia	RU
+Tukchi	Russia	RU
+Amursk	Russia	RU
+Bikin	Russia	RU
+Vyazemskiy	Russia	RU
+Chegdomyn	Russia	RU
+Siglan	Russia	RU
+Karamken	Russia	RU
+Strelka	Russia	RU
+Severo Kurilsk	Russia	RU
+Krasnogorsk	Russia	RU
+Poronaysk	Russia	RU
+Makarov	Russia	RU
+Dolinsk	Russia	RU
+Nevelsk	Russia	RU
+Kudymkar	Russia	RU
+Kungur	Russia	RU
+Krasnokamsk	Russia	RU
+Chusovoy	Russia	RU
+Gubakha	Russia	RU
+Utkholok	Russia	RU
+Bol'sheretsk	Russia	RU
+Il'pyrskiy	Russia	RU
+Korf	Russia	RU
+Kolpashevo	Russia	RU
+Omolon	Russia	RU
+Pevek	Russia	RU
+Umba	Russia	RU
+Kovda	Russia	RU
+Velikiy Novgorod	Russia	RU
+Velikiye Luki	Russia	RU
+Belomorsk	Russia	RU
+Kem	Russia	RU
+Krasino	Russia	RU
+Matochkin Shar	Russia	RU
+Severodvinsk	Russia	RU
+Kursk	Russia	RU
+Tula	Russia	RU
+Tambov	Russia	RU
+Sterlitamak	Russia	RU
+Kurgan	Russia	RU
+Indiga	Russia	RU
+Shoyna	Russia	RU
+Novy Port	Russia	RU
+Salekhard	Russia	RU
+Gyda	Russia	RU
+Tazovskiy	Russia	RU
+Novy Urengoy	Russia	RU
+Nadym	Russia	RU
+Noyabrsk	Russia	RU
+Syktyvkar	Russia	RU
+Ukhta	Russia	RU
+Serov	Russia	RU
+Cheboksary	Russia	RU
+Orsk	Russia	RU
+Balakovo	Russia	RU
+Igrim	Russia	RU
+Nyagan	Russia	RU
+Khanty Mansiysk	Russia	RU
+Nizhenvartovsk	Russia	RU
+Numto	Russia	RU
+Tara	Russia	RU
+Tobolsk	Russia	RU
+Rubtsovsk	Russia	RU
+Gorno Altaysk	Russia	RU
+Prokopyevsk	Russia	RU
+Makhachkala	Russia	RU
+Tura	Russia	RU
+Noginsk	Russia	RU
+Yerema	Russia	RU
+Tayshet	Russia	RU
+Usolye Sibirskoye	Russia	RU
+Slyudyanka	Russia	RU
+Cheremkhovo	Russia	RU
+Zima	Russia	RU
+Tulun	Russia	RU
+Nizhneudinsk	Russia	RU
+Ust Kut	Russia	RU
+Bodaybo	Russia	RU
+Komsa	Russia	RU
+Kansk	Russia	RU
+Achinsk	Russia	RU
+Yeniseysk	Russia	RU
+Lesosibirsk	Russia	RU
+Turukhansk	Russia	RU
+Vorontsovo	Russia	RU
+Starorybnoye	Russia	RU
+Mikhaylova	Russia	RU
+Dudinka	Russia	RU
+Teli	Russia	RU
+Novyy Uoyin	Russia	RU
+Bagdarin	Russia	RU
+Severobaykalsk	Russia	RU
+Kyakhta	Russia	RU
+Svobodnyy	Russia	RU
+Zeya	Russia	RU
+Magdagachi	Russia	RU
+Shimanovsk	Russia	RU
+Skovorodino	Russia	RU
+Tynda	Russia	RU
+Olovyannaya	Russia	RU
+Mogocha	Russia	RU
+Krasnokamensk	Russia	RU
+Borzya	Russia	RU
+Khilok	Russia	RU
+Nakhodka	Russia	RU
+Ussuriysk	Russia	RU
+Lesozavodsk	Russia	RU
+Kavache	Russia	RU
+Verkhoyansk	Russia	RU
+Cherskiy	Russia	RU
+Srednekolymsk	Russia	RU
+Zyryanka	Russia	RU
+Eldikan	Russia	RU
+Chagda	Russia	RU
+Khandyga	Russia	RU
+Ust Maya	Russia	RU
+Neryungri	Russia	RU
+Chernyshevskiy	Russia	RU
+Terbyas	Russia	RU
+Vilyuysk	Russia	RU
+Sangar	Russia	RU
+Menkere	Russia	RU
+Saskylakh	Russia	RU
+Govorovo	Russia	RU
+Sagastyr	Russia	RU
+Ust Olensk	Russia	RU
+Suntar	Russia	RU
+Olenek	Russia	RU
+Udachnyy	Russia	RU
+Birobidzhan	Russia	RU
+Khakhar	Russia	RU
+De Kastri	Russia	RU
+Chumikan	Russia	RU
+Komsomolsk na Amure	Russia	RU
+Ayan	Russia	RU
+Nikolayevsk na Amure	Russia	RU
+Savetskaya Gavan	Russia	RU
+Evensk	Russia	RU
+Palatka	Russia	RU
+Omsukchan	Russia	RU
+Susuman	Russia	RU
+Nogliki	Russia	RU
+Aleksandrovsk Sakhalinskiy	Russia	RU
+Korsakov	Russia	RU
+Manily	Russia	RU
+Oktyabrskiy	Russia	RU
+Klyuchi	Russia	RU
+Ust Kamchatsk	Russia	RU
+Provideniya	Russia	RU
+Uelen	Russia	RU
+Kandalaksha	Russia	RU
+Vyborg	Russia	RU
+Kondopoga	Russia	RU
+Rusanovo	Russia	RU
+Mezen	Russia	RU
+Velsk	Russia	RU
+Kotlas	Russia	RU
+Onega	Russia	RU
+Ivanovo	Russia	RU
+Kostroma	Russia	RU
+Velikiy Ustyug	Russia	RU
+Lipetsk	Russia	RU
+Orel	Russia	RU
+Volgodonsk	Russia	RU
+Belgorod	Russia	RU
+Novorossiysk	Russia	RU
+Vladimir	Russia	RU
+Birsk	Russia	RU
+Zlatoust	Russia	RU
+Amderma	Russia	RU
+Naryan Mar	Russia	RU
+Inta	Russia	RU
+Usinsk	Russia	RU
+Pechora	Russia	RU
+Pervouralsk	Russia	RU
+Izhevsk	Russia	RU
+Akhtubinsk	Russia	RU
+Elista	Russia	RU
+Krasnoarmeysk	Russia	RU
+Berezniki	Russia	RU
+Naltchik	Russia	RU
+Stavropol	Russia	RU
+Ugolnye Kopi	Russia	RU
+Kaliningrad	Russia	RU
+Pskov	Russia	RU
+Bryansk	Russia	RU
+Smolensk	Russia	RU
+Petrozavodsk	Russia	RU
+Tver	Russia	RU
+Vologda	Russia	RU
+Yaroslavl	Russia	RU
+Rostov	Russia	RU
+Sochi	Russia	RU
+Krasnodar	Russia	RU
+Penza	Russia	RU
+Ryazan	Russia	RU
+Voronezh	Russia	RU
+Magnitogorsk	Russia	RU
+Chelyabinsk	Russia	RU
+Vorkuta	Russia	RU
+Kirov	Russia	RU
+Nizhny Tagil	Russia	RU
+Astrakhan	Russia	RU
+Orenburg	Russia	RU
+Saratov	Russia	RU
+Ulyanovsk	Russia	RU
+Omsk	Russia	RU
+Tyumen	Russia	RU
+Novokuznetsk	Russia	RU
+Kemerovo	Russia	RU
+Groznyy	Russia	RU
+Ust-Ulimsk	Russia	RU
+Angarsk	Russia	RU
+Abakan	Russia	RU
+Norilsk	Russia	RU
+Khatanga	Russia	RU
+Kyzyl	Russia	RU
+Ulan Ude	Russia	RU
+Blagoveshchensk	Russia	RU
+Bukachacha	Russia	RU
+Dalnegorsk	Russia	RU
+Ambarchik	Russia	RU
+Batagay	Russia	RU
+Chokurdakh	Russia	RU
+Ust Nera	Russia	RU
+Lensk	Russia	RU
+Aldan	Russia	RU
+Mirnyy	Russia	RU
+Zhigansk	Russia	RU
+Okhotsk	Russia	RU
+Khabarovsk	Russia	RU
+Okha	Russia	RU
+Yuzhno Sakhalinsk	Russia	RU
+Tomsk	Russia	RU
+Anadyr	Russia	RU
+Murmansk	Russia	RU
+Archangel	Russia	RU
+Nizhny Novgorod	Russia	RU
+Volgograd	Russia	RU
+Ufa	Russia	RU
+Yekaterinburg	Russia	RU
+Samara	Russia	RU
+Kazan	Russia	RU
+Surgut	Russia	RU
+Barnaul	Russia	RU
+Novosibirsk	Russia	RU
+Bratsk	Russia	RU
+Irkutsk	Russia	RU
+Krasnoyarsk	Russia	RU
+Dickson	Russia	RU
+Chita	Russia	RU
+Vladivostok	Russia	RU
+Nizhneyansk	Russia	RU
+Yakutsk	Russia	RU
+Tiksi	Russia	RU
+Magadan	Russia	RU
+Perm	Russia	RU
+Palana	Russia	RU
+Petropavlovsk Kamchatskiy	Russia	RU
+St. Petersburg	Russia	RU
+Moscow	Russia	RU
+Gikongoro	Rwanda	RW
+Kibuye	Rwanda	RW
+Kibungo	Rwanda	RW
+Nyanza	Rwanda	RW
+Gitarama	Rwanda	RW
+Butare	Rwanda	RW
+Gisenyi	Rwanda	RW
+Cyangugu	Rwanda	RW
+Byumba	Rwanda	RW
+Ruhengeri	Rwanda	RW
+Kigali	Rwanda	RW
+Basseterre	Saint Kitts and Nevis	KN
+Castries	Saint Lucia	LC
+Kingstown	Saint Vincent and the Grenadines	VC
+Apia	Samoa	WS
+San Marino	San Marino	SM
+Santo Antonio	Sao Tome and Principe	ST
+Sao Tome	Sao Tome and Principe	ST
+An Nabk	Saudi Arabia	SA
+Sakakah	Saudi Arabia	SA
+Yanbu al Bahr	Saudi Arabia	SA
+Dawmat al Jandal	Saudi Arabia	SA
+Qal at Bishah	Saudi Arabia	SA
+At Taif	Saudi Arabia	SA
+Najran	Saudi Arabia	SA
+Al Quwayiyah	Saudi Arabia	SA
+Al Hillah	Saudi Arabia	SA
+Al Mubarraz	Saudi Arabia	SA
+Al-Qatif	Saudi Arabia	SA
+Az Zahran	Saudi Arabia	SA
+Buraydah	Saudi Arabia	SA
+Hail	Saudi Arabia	SA
+Arar	Saudi Arabia	SA
+Rafha	Saudi Arabia	SA
+Al Kharj	Saudi Arabia	SA
+Ad Damman	Saudi Arabia	SA
+Hafar al Batin	Saudi Arabia	SA
+Al Jubayl	Saudi Arabia	SA
+Al Qunfudhah	Saudi Arabia	SA
+Al Hufuf	Saudi Arabia	SA
+Al Wajh	Saudi Arabia	SA
+Abha	Saudi Arabia	SA
+Jizan	Saudi Arabia	SA
+As Sulayyil	Saudi Arabia	SA
+Medina	Saudi Arabia	SA
+Tabuk	Saudi Arabia	SA
+Jeddah	Saudi Arabia	SA
+Makkah	Saudi Arabia	SA
+Riyadh	Saudi Arabia	SA
+Fatick	Senegal	SN
+Diourbel	Senegal	SN
+Louga	Senegal	SN
+Thies	Senegal	SN
+Kolda	Senegal	SN
+Tambacounda	Senegal	SN
+Kedougou	Senegal	SN
+Ziguinchor	Senegal	SN
+Kaolack	Senegal	SN
+Kaedi	Senegal	SN
+Dakar	Senegal	SN
+Subotica	Serbia	RS
+Kragujevac	Serbia	RS
+Zrenjanin	Serbia	RS
+Pec	Serbia	RS
+Nis	Serbia	RS
+Novi Sad	Serbia	RS
+Belgrade	Serbia	RS
+Victoria	Seychelles	SC
+Makeni	Sierra Leone	SL
+Koidu	Sierra Leone	SL
+Kenema	Sierra Leone	SL
+Bo	Sierra Leone	SL
+Freetown	Sierra Leone	SL
+Singapore	Singapore	SG
+Banska Bystrica	Slovakia	SK
+Trnava	Slovakia	SK
+Zvolen	Slovakia	SK
+Zilina	Slovakia	SK
+Kosice	Slovakia	SK
+Presov	Slovakia	SK
+Bratislava	Slovakia	SK
+Maribor	Slovenia	SI
+Ljubljana	Slovenia	SI
+Gizo	Solomon Islands	SB
+Lata	Solomon Islands	SB
+Honiara	Solomon Islands	SB
+Hudur	Somalia	SO
+Garbahaarey	Somalia	SO
+Bu'aale	Somalia	SO
+Dhuusa Mareeb	Somalia	SO
+Buurhakaba	Somalia	SO
+Luuq	Somalia	SO
+Mandera	Somalia	SO
+Ferfer	Somalia	SO
+Jawhar	Somalia	SO
+Hurdiyo	Somalia	SO
+Qardho	Somalia	SO
+Caluula	Somalia	SO
+Buur Gaabo	Somalia	SO
+Baydhabo	Somalia	SO
+Marka	Somalia	SO
+Mereeg	Somalia	SO
+Beledweyne	Somalia	SO
+Boosaaso	Somalia	SO
+Bandarbeyla	Somalia	SO
+Gaalkacyo	Somalia	SO
+Eyl	Somalia	SO
+Garoowe	Somalia	SO
+Jamaame	Somalia	SO
+Kismaayo	Somalia	SO
+Mogadishu	Somalia	SO
+Laascaanood	Somaliland	
+Ceerigaabo	Somaliland	
+Boorama	Somaliland	-99
+Burco	Somaliland	-99
+Maydh	Somaliland	-99
+Berbera	Somaliland	-99
+Hargeysa	Somaliland	-99
+Qacha's Nek	South Africa	ZA
+Colesberg	South Africa	ZA
+Poffader	South Africa	ZA
+Carnarvon	South Africa	ZA
+Prieska	South Africa	ZA
+Kuruman	South Africa	ZA
+Knysna	South Africa	ZA
+Swellendam	South Africa	ZA
+Hermanus	South Africa	ZA
+Paarl	South Africa	ZA
+Bredasdorp	South Africa	ZA
+Beaufort West	South Africa	ZA
+Brits	South Africa	ZA
+Bloemhof	South Africa	ZA
+Potchefstroom	South Africa	ZA
+Brandfort	South Africa	ZA
+Bethlehem	South Africa	ZA
+Springs	South Africa	ZA
+Volksrust	South Africa	ZA
+Mbombela	South Africa	ZA
+Komatipoort	South Africa	ZA
+Middelburg	South Africa	ZA
+Bethal	South Africa	ZA
+Standerton	South Africa	ZA
+Lebowakgomo	South Africa	ZA
+Tzaneen	South Africa	ZA
+Ulundi	South Africa	ZA
+Ladysmith	South Africa	ZA
+Port Shepstone	South Africa	ZA
+Ubomba	South Africa	ZA
+Cradock	South Africa	ZA
+Uitenhage	South Africa	ZA
+Port Alfred	South Africa	ZA
+Grahamstown	South Africa	ZA
+Port St. Johns	South Africa	ZA
+Aliwal North	South Africa	ZA
+Queenstown	South Africa	ZA
+Benoni	South Africa	ZA
+Vereeniging	South Africa	ZA
+De Aar	South Africa	ZA
+Alexander Bay	South Africa	ZA
+Kimberley	South Africa	ZA
+Oudtshoorn	South Africa	ZA
+Vanhynsdorp	South Africa	ZA
+Saldanha	South Africa	ZA
+Mossel Bay	South Africa	ZA
+Vryburg	South Africa	ZA
+Rustenburg	South Africa	ZA
+Mmabatho	South Africa	ZA
+Klerksdorp	South Africa	ZA
+Kroonstad	South Africa	ZA
+Polokwane	South Africa	ZA
+Thohoyandou	South Africa	ZA
+Musina	South Africa	ZA
+Vryheid	South Africa	ZA
+Pietermaritzburg	South Africa	ZA
+Umtata	South Africa	ZA
+Graaff Reinet	South Africa	ZA
+Bhisho	South Africa	ZA
+Springbok	South Africa	ZA
+Upington	South Africa	ZA
+Worcester	South Africa	ZA
+George	South Africa	ZA
+Welkom	South Africa	ZA
+East London	South Africa	ZA
+Middelburg	South Africa	ZA
+Bloemfontein	South Africa	ZA
+Pretoria	South Africa	ZA
+Port Elizabeth	South Africa	ZA
+Durban	South Africa	ZA
+Johannesburg	South Africa	ZA
+Cape Town	South Africa	ZA
+Grytviken	South Georgia and the Islands	GS
+Eumseong	South Korea	KR
+Cheongju	South Korea	KR
+Wonju	South Korea	KR
+Chuncheon	South Korea	KR
+Ansan	South Korea	KR
+Iksan	South Korea	KR
+Gyeongju	South Korea	KR
+Changwon	South Korea	KR
+Yeosu	South Korea	KR
+Andong	South Korea	KR
+Jeju	South Korea	KR
+Gangneung	South Korea	KR
+Sokcho	South Korea	KR
+Jeonju	South Korea	KR
+Gunsan	South Korea	KR
+Mokpo	South Korea	KR
+Puch'on	South Korea	KR
+Songnam	South Korea	KR
+Goyang	South Korea	KR
+Suwon	South Korea	KR
+Pohang	South Korea	KR
+Ulsan	South Korea	KR
+Daegu	South Korea	KR
+Incheon	South Korea	KR
+Daejeon	South Korea	KR
+Gwangju	South Korea	KR
+Busan	South Korea	KR
+Seoul	South Korea	KR
+Bentiu	South Sudan	SS
+Maridi	South Sudan	SS
+Yei	South Sudan	SS
+Melut	South Sudan	SS
+Nasir	South Sudan	SS
+Gogrial	South Sudan	SS
+Kapoeta	South Sudan	SS
+Aweil	South Sudan	SS
+Rumbek	South Sudan	SS
+Yambio	South Sudan	SS
+Bor	South Sudan	SS
+Nimule	South Sudan	SS
+Juba	South Sudan	SS
+Malakal	South Sudan	SS
+Wau	South Sudan	SS
+Merida	Spain	ES
+Marbella	Spain	ES
+Linares	Spain	ES
+Algeciras	Spain	ES
+Leon	Spain	ES
+Mataro	Spain	ES
+Gijon	Spain	ES
+Vitoria	Spain	ES
+Almeria	Spain	ES
+Malaga	Spain	ES
+JaÃ©n	Spain	ES
+Huelva	Spain	ES
+Albacete	Spain	ES
+Toledo	Spain	ES
+Guadalajara	Spain	ES
+Santander	Spain	ES
+Salamanca	Spain	ES
+Burgos	Spain	ES
+Tarragona	Spain	ES
+Lorca	Spain	ES
+Cartagena	Spain	ES
+Oviedo	Spain	ES
+Santiago de Compostela	Spain	ES
+Badajoz	Spain	ES
+Logrono	Spain	ES
+San SebastiÃ¡n	Spain	ES
+Alicante	Spain	ES
+Castello	Spain	ES
+Arrecife	Spain	ES
+Cadiz	Spain	ES
+Granada	Spain	ES
+Murcia	Spain	ES
+Ceuta	Spain	ES
+La CoruÃ±a	Spain	ES
+Ourense	Spain	ES
+Pamplona	Spain	ES
+Valladolid	Spain	ES
+Melilla	Spain	ES
+Palma	Spain	ES
+Zaragoza	Spain	ES
+Santa Cruz de Tenerife	Spain	ES
+Cordoba	Spain	ES
+Vigo	Spain	ES
+Bilbao	Spain	ES
+Las Palmas	Spain	ES
+Seville	Spain	ES
+Valencia	Spain	ES
+Barcelona	Spain	ES
+Madrid	Spain	ES
+Trincomalee	Sri Lanka	LK
+Puttalan	Sri Lanka	LK
+Ratnapura	Sri Lanka	LK
+Batticaloa	Sri Lanka	LK
+Kilinochchi	Sri Lanka	LK
+Matara	Sri Lanka	LK
+Badulla	Sri Lanka	LK
+Moratuwa	Sri Lanka	LK
+Galle	Sri Lanka	LK
+Anuradhapura	Sri Lanka	LK
+Jaffna	Sri Lanka	LK
+Kandy	Sri Lanka	LK
+Sri Jawewardenepura Kotte	Sri Lanka	LK
+Colombo	Sri Lanka	LK
+Ad Damazin	Sudan	SD
+Haiya	Sudan	SD
+El Manaqil	Sudan	SD
+Shendi	Sudan	SD
+Berber	Sudan	SD
+Kerma	Sudan	SD
+Ed Dueim	Sudan	SD
+Umm Ruwaba	Sudan	SD
+En Nuhud	Sudan	SD
+Muglad	Sudan	SD
+Tokar	Sudan	SD
+Medani	Sudan	SD
+Gedaref	Sudan	SD
+EdDamer	Sudan	SD
+Atbara	Sudan	SD
+Wadi Halfa	Sudan	SD
+Merowe	Sudan	SD
+Kosti	Sudan	SD
+Sennar	Sudan	SD
+El Fasher	Sudan	SD
+Kadugli	Sudan	SD
+Babanusa	Sudan	SD
+Geneina	Sudan	SD
+Omdurman	Sudan	SD
+El Obeid	Sudan	SD
+Port Sudan	Sudan	SD
+Niyala	Sudan	SD
+Dongola	Sudan	SD
+Kassala	Sudan	SD
+Khartoum	Sudan	SD
+Onverwacht	Suriname	SR
+Groningen	Suriname	SR
+Brownsweg	Suriname	SR
+Moengo	Suriname	SR
+Nieuw Amsterdam	Suriname	SR
+Nieuw Nickerie	Suriname	SR
+Brokopondo	Suriname	SR
+Totness	Suriname	SR
+Cottica	Suriname	SR
+Paramaribo	Suriname	SR
+Longyearbyen	Svalbard and Jan Mayen Islands	SJ
+Piggs Peak	Swaziland	SZ
+Siteki	Swaziland	SZ
+Manzini	Swaziland	SZ
+Hlatikulu	Swaziland	SZ
+Golela	Swaziland	SZ
+Lobamba	Swaziland	SZ
+Mbabane	Swaziland	SZ
+Falun	Sweden	SE
+Nykoping	Sweden	SE
+Harnosand	Sweden	SE
+Karlskrona	Sweden	SE
+Mariestad	Sweden	SE
+Vannersborg	Sweden	SE
+BorlÃ¤nge	Sweden	SE
+VÃ¤sterÃ¥s	Sweden	SE
+BollnÃ¤s	Sweden	SE
+GÃ¤vle	Sweden	SE
+Kalmar	Sweden	SE
+VÃ¤xjÃ¶	Sweden	SE
+Ã–rebro	Sweden	SE
+NorrkÃ¶ping	Sweden	SE
+Halmstad	Sweden	SE
+Karlstad	Sweden	SE
+SkellefteÃ¥	Sweden	SE
+Visby	Sweden	SE
+TrollhÃ¤ttan	Sweden	SE
+BorÃ¥s	Sweden	SE
+Kristianstad	Sweden	SE
+Helsingborg	Sweden	SE
+JÃ¶nkÃ¶ping	Sweden	SE
+Ã–rnskÃ¶ldsvik	Sweden	SE
+LinkÃ¶ping	Sweden	SE
+Ã–stersund	Sweden	SE
+Kiruna	Sweden	SE
+UmeÃ¥	Sweden	SE
+Uppsala	Sweden	SE
+GÃ¶teborg	Sweden	SE
+LuleÃ¥	Sweden	SE
+Sundsvall	Sweden	SE
+MalmÃ¶	Sweden	SE
+Stockholm	Sweden	SE
+Delemont	Switzerland	CH
+Neuchatel	Switzerland	CH
+Aarau	Switzerland	CH
+Stans	Switzerland	CH
+Sion	Switzerland	CH
+Herisau	Switzerland	CH
+Saint Gallen	Switzerland	CH
+Bellinzona	Switzerland	CH
+Glarus	Switzerland	CH
+Schaffhausen	Switzerland	CH
+Schwyz	Switzerland	CH
+Frauenfeld	Switzerland	CH
+Altdorf	Switzerland	CH
+Zug	Switzerland	CH
+Fribourg	Switzerland	CH
+Liestal	Switzerland	CH
+Solothurn	Switzerland	CH
+Sarnen	Switzerland	CH
+Appenzell	Switzerland	CH
+Chur	Switzerland	CH
+Biel	Switzerland	CH
+Luzern	Switzerland	CH
+Lugano	Switzerland	CH
+Lausanne	Switzerland	CH
+Basel	Switzerland	CH
+Bern	Switzerland	CH
+ZÃ¼rich	Switzerland	CH
+Geneva	Switzerland	CH
+Dar'a	Syria	SY
+Al Ladhiqiyah	Syria	SY
+Madinat ath Thawrah	Syria	SY
+Izaz	Syria	SY
+Manbij	Syria	SY
+Idlib	Syria	SY
+Al Qamishli	Syria	SY
+Al Hasakah	Syria	SY
+Douma	Syria	SY
+Tartus	Syria	SY
+Ar Raqqah	Syria	SY
+Hamah	Syria	SY
+Tadmur	Syria	SY
+Abu Kamal	Syria	SY
+Dayr az Zawr	Syria	SY
+As Suwayda	Syria	SY
+Ad Nabk	Syria	SY
+Al Qunaytirah	Syria	SY
+Hims	Syria	SY
+Aleppo	Syria	SY
+Damascus	Syria	SY
+Bade	Taiwan	TW
+Pingzhen	Taiwan	TW
+Taibao	Taiwan	TW
+Taoyuan	Taiwan	TW
+Yangmei	Taiwan	TW
+Yilan	Taiwan	TW
+Zhubei	Taiwan	TW
+Douliou	Taiwan	TW
+Zhongli	Taiwan	TW
+Keelung	Taiwan	TW
+Nantou	Taiwan	TW
+Puzi	Taiwan	TW
+Changhua	Taiwan	TW
+Chiayi	Taiwan	TW
+Hsinchu	Taiwan	TW
+Miaoli	Taiwan	TW
+Pingtung	Taiwan	TW
+Hualien	Taiwan	TW
+New Taipei	Taiwan	TW
+Tainan	Taiwan	TW
+Taitung	Taiwan	TW
+Magong	Taiwan	TW
+Taichung	Taiwan	TW
+Kaohsiung	Taiwan	TW
+Taipei	Taiwan	TW
+Leninobod	Tajikistan	TJ
+Qurghonteppa	Tajikistan	TJ
+Konibodom	Tajikistan	TJ
+Kuybyshevskiy	Tajikistan	TJ
+Kulob	Tajikistan	TJ
+Uroteppa	Tajikistan	TJ
+Khorugh	Tajikistan	TJ
+Khujand	Tajikistan	TJ
+Dushanbe	Tajikistan	TJ
+Wete	Tanzania	TZ
+Kibaha	Tanzania	TZ
+Mkokotoni	Tanzania	TZ
+Tunduma	Tanzania	TZ
+Tukuyu	Tanzania	TZ
+Sumbawanga	Tanzania	TZ
+Mpanda	Tanzania	TZ
+Kipili	Tanzania	TZ
+Karema	Tanzania	TZ
+Geita	Tanzania	TZ
+Nyahanga	Tanzania	TZ
+Kahama	Tanzania	TZ
+Shinyanga	Tanzania	TZ
+Nzega	Tanzania	TZ
+Sikonge	Tanzania	TZ
+Biharamulo	Tanzania	TZ
+Bukoba	Tanzania	TZ
+Ngara	Tanzania	TZ
+Kakonko	Tanzania	TZ
+Kasulu	Tanzania	TZ
+Kanyato	Tanzania	TZ
+Uvinza	Tanzania	TZ
+Kigoma	Tanzania	TZ
+Mikumi	Tanzania	TZ
+Ifakara	Tanzania	TZ
+Kilosa	Tanzania	TZ
+Chake Chake	Tanzania	TZ
+Kibiti	Tanzania	TZ
+Bagamoyo	Tanzania	TZ
+Kilindoni	Tanzania	TZ
+Mpwapwa	Tanzania	TZ
+Njombe	Tanzania	TZ
+Iringa	Tanzania	TZ
+Masasi	Tanzania	TZ
+Mtwara	Tanzania	TZ
+Tunduru	Tanzania	TZ
+Mbamba Bay	Tanzania	TZ
+Manyoni	Tanzania	TZ
+Itigi	Tanzania	TZ
+Singida	Tanzania	TZ
+Ngorongoro	Tanzania	TZ
+Oldeani	Tanzania	TZ
+Mbulu	Tanzania	TZ
+Babati	Tanzania	TZ
+Same	Tanzania	TZ
+Moshi	Tanzania	TZ
+Musoma	Tanzania	TZ
+Korogwe	Tanzania	TZ
+Tabora	Tanzania	TZ
+Lindi	Tanzania	TZ
+Songea	Tanzania	TZ
+Tanga	Tanzania	TZ
+Mwanza	Tanzania	TZ
+Morogoro	Tanzania	TZ
+Dodoma	Tanzania	TZ
+Arusha	Tanzania	TZ
+Mbeya	Tanzania	TZ
+Zanzibar	Tanzania	TZ
+Dar es Salaam	Tanzania	TZ
+Mae Hong Son	Thailand	TH
+Phangnga	Thailand	TH
+Ranong	Thailand	TH
+Krabi	Thailand	TH
+Phatthalung	Thailand	TH
+Satun	Thailand	TH
+Lamphun	Thailand	TH
+Kamphaeng Phet	Thailand	TH
+Phichit	Thailand	TH
+Phetchabun	Thailand	TH
+Supham Buri	Thailand	TH
+Ang Thong	Thailand	TH
+Chainat	Thailand	TH
+Nakhon Nayok	Thailand	TH
+Sing Buri	Thailand	TH
+Nakhon Pathom	Thailand	TH
+Prachuap Khiri Khan	Thailand	TH
+Samut Sakhon	Thailand	TH
+Samut Songkhram	Thailand	TH
+Yasothon	Thailand	TH
+Chachoengsao	Thailand	TH
+Trat	Thailand	TH
+Kalasin	Thailand	TH
+Maha Sarakham	Thailand	TH
+Roi Et	Thailand	TH
+Pattani	Thailand	TH
+Chumphon	Thailand	TH
+Thung Song	Thailand	TH
+Trang	Thailand	TH
+Yala	Thailand	TH
+Chiang Rai	Thailand	TH
+Lampang	Thailand	TH
+Nan	Thailand	TH
+Phayao	Thailand	TH
+Phrae	Thailand	TH
+Phitsanulok	Thailand	TH
+Sukhothai	Thailand	TH
+Uttaradit	Thailand	TH
+Kanchanaburi	Thailand	TH
+Mae Sot	Thailand	TH
+Tak	Thailand	TH
+Uthai Thani	Thailand	TH
+Lop Buri	Thailand	TH
+Prachin Buri	Thailand	TH
+Ayutthaya	Thailand	TH
+Pathum Thani	Thailand	TH
+Saraburi	Thailand	TH
+Nonthaburi	Thailand	TH
+Phetchaburi	Thailand	TH
+Hua Hin	Thailand	TH
+Ratchaburi	Thailand	TH
+Samut Prakan	Thailand	TH
+Sisaket	Thailand	TH
+Si Racha	Thailand	TH
+Chon Buri	Thailand	TH
+Chanthaburi	Thailand	TH
+Aranyaprathet	Thailand	TH
+Rayong	Thailand	TH
+Buriram	Thailand	TH
+Chaiyaphum	Thailand	TH
+Bua Yai	Thailand	TH
+Surin	Thailand	TH
+Loei	Thailand	TH
+Nong Khai	Thailand	TH
+Sakhon Nakhon	Thailand	TH
+Udon Thani	Thailand	TH
+Nakhon Phanom	Thailand	TH
+Narathiwat	Thailand	TH
+Khon Kaen	Thailand	TH
+Phuket	Thailand	TH
+Nakhon Si Thammarat	Thailand	TH
+Songkhla	Thailand	TH
+Hat Yai	Thailand	TH
+Nakhon Sawan	Thailand	TH
+Ubon Ratchathani	Thailand	TH
+Surat Thani	Thailand	TH
+Chiang Mai	Thailand	TH
+Nakhon Ratchasima	Thailand	TH
+Bangkok	Thailand	TH
+Freeport	The Bahamas	BS
+Nassau	The Bahamas	BS
+Georgetown	The Gambia	GM
+Basse Santa Su	The Gambia	GM
+Kerewan	The Gambia	GM
+Mansa Konko	The Gambia	GM
+Bansang	The Gambia	GM
+Brikama	The Gambia	GM
+Banjul	The Gambia	GM
+Bassar	Togo	TG
+Sotouboua	Togo	TG
+Kpalime	Togo	TG
+Sokode	Togo	TG
+Mango	Togo	TG
+Atakpame	Togo	TG
+Lome	Togo	TG
+Neiafu	Tonga	TO
+Nukualofa	Tonga	TO
+San Fernando	Trinidad and Tobago	TT
+Port-of-Spain	Trinidad and Tobago	TT
+Medenine	Tunisia	TN
+Kebili	Tunisia	TN
+Tataouine	Tunisia	TN
+L'Ariana	Tunisia	TN
+Jendouba	Tunisia	TN
+Kasserine	Tunisia	TN
+Sdid Bouzid	Tunisia	TN
+Siliana	Tunisia	TN
+Mahdia	Tunisia	TN
+Monastir	Tunisia	TN
+Zaghouan	Tunisia	TN
+Ben Gardane	Tunisia	TN
+Zarzis	Tunisia	TN
+Dehibat	Tunisia	TN
+Tozeur	Tunisia	TN
+Beja	Tunisia	TN
+Bizerte	Tunisia	TN
+Nabeul	Tunisia	TN
+El Kef	Tunisia	TN
+Qasserine	Tunisia	TN
+Gabes	Tunisia	TN
+Gafsa	Tunisia	TN
+Qairouan	Tunisia	TN
+Sfax	Tunisia	TN
+Sousse	Tunisia	TN
+Tunis	Tunisia	TN
+Kirklareli	Turkey	TR
+Bilecik	Turkey	TR
+Sakarya	Turkey	TR
+Kastamonu	Turkey	TR
+Burdur	Turkey	TR
+Kirsehir	Turkey	TR
+Nevsehir	Turkey	TR
+Antioch	Turkey	TR
+Giresun	Turkey	TR
+Sinop	Turkey	TR
+Tokat	Turkey	TR
+Artvin	Turkey	TR
+Bingol	Turkey	TR
+Bitlis	Turkey	TR
+Cankiri	Turkey	TR
+Nigde	Turkey	TR
+Yozgat	Turkey	TR
+Gumushane	Turkey	TR
+Siirt	Turkey	TR
+Tunceli	Turkey	TR
+Aydin	Turkey	TR
+Luleburgaz	Turkey	TR
+Isparta	Turkey	TR
+Kutahya	Turkey	TR
+Mugla	Turkey	TR
+Elazig	Turkey	TR
+Kahramanmaras	Turkey	TR
+Icel	Turkey	TR
+Corum	Turkey	TR
+Rize	Turkey	TR
+Tatvan	Turkey	TR
+Polatli	Turkey	TR
+Karabuk	Turkey	TR
+Nusaybin	Turkey	TR
+Hakkari	Turkey	TR
+Soke	Turkey	TR
+Balikesir	Turkey	TR
+Canakkale	Turkey	TR
+Edirne	Turkey	TR
+Tekirdag	Turkey	TR
+Izmit	Turkey	TR
+Bolu	Turkey	TR
+Afyon	Turkey	TR
+Denizli	Turkey	TR
+Manisa	Turkey	TR
+Adiyaman	Turkey	TR
+Malatya	Turkey	TR
+Tarsus	Turkey	TR
+Samandagi	Turkey	TR
+Hatay	Turkey	TR
+Iskenderun	Turkey	TR
+Amasya	Turkey	TR
+Ordu	Turkey	TR
+Sivas	Turkey	TR
+Bafra	Turkey	TR
+Erzurum	Turkey	TR
+Erzincan	Turkey	TR
+Agri	Turkey	TR
+Diyarbakir	Turkey	TR
+Mus	Turkey	TR
+Zonguldak	Turkey	TR
+Eregli	Turkey	TR
+Karaman	Turkey	TR
+Usak	Turkey	TR
+Kilis	Turkey	TR
+Kirikkale	Turkey	TR
+Kars	Turkey	TR
+Mardin	Turkey	TR
+Batman	Turkey	TR
+Van	Turkey	TR
+Adapazari	Turkey	TR
+Trabzon	Turkey	TR
+Sanliurfa	Turkey	TR
+Eskisehir	Turkey	TR
+Antalya	Turkey	TR
+Kayseri	Turkey	TR
+Gaziantep	Turkey	TR
+Izmir	Turkey	TR
+Bursa	Turkey	TR
+Samsun	Turkey	TR
+Konya	Turkey	TR
+Adana	Turkey	TR
+Ankara	Turkey	TR
+Istanbul	Turkey	TR
+Gyzlarbat	Turkmenistan	TM
+Celeken	Turkmenistan	TM
+Tejen	Turkmenistan	TM
+Buzmeyin	Turkmenistan	TM
+Koneurgench	Turkmenistan	TM
+Balkanabat	Turkmenistan	TM
+Kaka	Turkmenistan	TM
+Atamyrat	Turkmenistan	TM
+Dasoguz	Turkmenistan	TM
+Turkmenbasy	Turkmenistan	TM
+Turkmenabat	Turkmenistan	TM
+Mary	Turkmenistan	TM
+Ashgabat	Turkmenistan	TM
+Grand Turk	Turks and Caicos Islands	TC
+Funafuti	Tuvalu	TV
+Kalangala	Uganda	UG
+Kumi	Uganda	UG
+Kaberamaido	Uganda	UG
+Kayunga	Uganda	UG
+Iganga	Uganda	UG
+Kamuli	Uganda	UG
+Pallisa	Uganda	UG
+Mpigi	Uganda	UG
+Adjumani	Uganda	UG
+Nebbi	Uganda	UG
+Kiboga	Uganda	UG
+Nakasongola	Uganda	UG
+Bombo	Uganda	UG
+Masindi	Uganda	UG
+Fort Portal	Uganda	UG
+Kibale	Uganda	UG
+Sironko	Uganda	UG
+Busia	Uganda	UG
+Katakwi	Uganda	UG
+Ntungamo	Uganda	UG
+Kisoro	Uganda	UG
+Jinja	Uganda	UG
+Soroti	Uganda	UG
+Arua	Uganda	UG
+Pakwach	Uganda	UG
+Moyo	Uganda	UG
+Entebbe	Uganda	UG
+Mubende	Uganda	UG
+Mityana	Uganda	UG
+Kitgum	Uganda	UG
+Lira	Uganda	UG
+Masindi-Port	Uganda	UG
+Mbale	Uganda	UG
+Tororo	Uganda	UG
+Kaabong	Uganda	UG
+Moroto	Uganda	UG
+Masaka	Uganda	UG
+Katwe	Uganda	UG
+Mbarara	Uganda	UG
+Kabale	Uganda	UG
+Kasese	Uganda	UG
+Gulu	Uganda	UG
+Kampala	Uganda	UG
+Mykolayiv	Ukraine	UA
+Chernihiv	Ukraine	UA
+Khmelnytskyy	Ukraine	UA
+Kamyanets-Podilskyy	Ukraine	UA
+Drohobych	Ukraine	UA
+Uzhgorod	Ukraine	UA
+Uman	Ukraine	UA
+Brovary	Ukraine	UA
+Bila Tserkva	Ukraine	UA
+Illichivsk	Ukraine	UA
+Konotop	Ukraine	UA
+Kryvyy Rih	Ukraine	UA
+Makiyivka	Ukraine	UA
+Horlivka	Ukraine	UA
+Kramatorsk	Ukraine	UA
+Berdyansk	Ukraine	UA
+Dzhankoy	Ukraine	UA
+Yevpatoriya	Ukraine	UA
+Kerch	Ukraine	UA
+Simferopol	Ukraine	UA
+Kherson	Ukraine	UA
+Voznesensk	Ukraine	UA
+Nizhyn	Ukraine	UA
+Rivne	Ukraine	UA
+Chernivtsi	Ukraine	UA
+Ivano-Frankivsk	Ukraine	UA
+Ternopil	Ukraine	UA
+Lutsk	Ukraine	UA
+Kovel	Ukraine	UA
+Cherkasy	Ukraine	UA
+Kirovohrad	Ukraine	UA
+Izmayil	Ukraine	UA
+Vinnytsya	Ukraine	UA
+Korosten	Ukraine	UA
+Shostka	Ukraine	UA
+Nikopol	Ukraine	UA
+Kupyansk	Ukraine	UA
+Lysychansk	Ukraine	UA
+Luhansk	Ukraine	UA
+Poltava	Ukraine	UA
+Kremenchuk	Ukraine	UA
+Melitopol	Ukraine	UA
+Zaporizhzhya	Ukraine	UA
+Yalta	Ukraine	UA
+Chernobyl	Ukraine	UA
+Sumy	Ukraine	UA
+Mariupol	Ukraine	UA
+Lvov	Ukraine	UA
+Odessa	Ukraine	UA
+Zhytomyr	Ukraine	UA
+Dnipropetrovsk	Ukraine	UA
+Donetsk	Ukraine	UA
+Kharkiv	Ukraine	UA
+Sevastapol	Ukraine	UA
+Kiev	Ukraine	UA
+Umm al Qaywayn	United Arab Emirates	AE
+Sharjah	United Arab Emirates	AE
+Jabal Ali	United Arab Emirates	AE
+Ras al Khaymah	United Arab Emirates	AE
+Al Fujayrah	United Arab Emirates	AE
+Al Ayn	United Arab Emirates	AE
+Abu Dhabi	United Arab Emirates	AE
+Dubai	United Arab Emirates	AE
+Greenock	United Kingdom	GB
+Sunderland	United Kingdom	GB
+Southampton	United Kingdom	GB
+Bristol	United Kingdom	GB
+Bournemouth	United Kingdom	GB
+Omagh	United Kingdom	GB
+Chester	United Kingdom	GB
+Swansea	United Kingdom	GB
+Carlisle	United Kingdom	GB
+Southend-on-Sea	United Kingdom	GB
+Reading	United Kingdom	GB
+Leicester	United Kingdom	GB
+Bradford	United Kingdom	GB
+Sheffield	United Kingdom	GB
+Fort William	United Kingdom	GB
+Ayr	United Kingdom	GB
+Aberdeen	United Kingdom	GB
+Perth	United Kingdom	GB
+Dundee	United Kingdom	GB
+Middlesbrough	United Kingdom	GB
+Coventry	United Kingdom	GB
+Bath	United Kingdom	GB
+Exeter	United Kingdom	GB
+Cambridge	United Kingdom	GB
+Kingston upon Hull	United Kingdom	GB
+Londonderry	United Kingdom	GB
+Lisburn	United Kingdom	GB
+Penzance	United Kingdom	GB
+York	United Kingdom	GB
+Blackpool	United Kingdom	GB
+Dumfries	United Kingdom	GB
+Scarborough	United Kingdom	GB
+Plymouth	United Kingdom	GB
+Ipswich	United Kingdom	GB
+Norwich	United Kingdom	GB
+Brighton	United Kingdom	GB
+Kirkwall	United Kingdom	GB
+Inverness	United Kingdom	GB
+Oxford	United Kingdom	GB
+Luton	United Kingdom	GB
+Portsmouth	United Kingdom	GB
+Peterborough	United Kingdom	GB
+Nottingham	United Kingdom	GB
+Stoke	United Kingdom	GB
+Dover	United Kingdom	GB
+Edinburgh	United Kingdom	GB
+Newcastle	United Kingdom	GB
+Liverpool	United Kingdom	GB
+Cardiff	United Kingdom	GB
+Wick	United Kingdom	GB
+Leeds	United Kingdom	GB
+Lerwick	United Kingdom	GB
+Manchester	United Kingdom	GB
+Birmingham	United Kingdom	GB
+Belfast	United Kingdom	GB
+Glasgow	United Kingdom	GB
+London	United Kingdom	GB
+Faribault	United States of America	US
+Mankato	United States of America	US
+Albert Lea	United States of America	US
+Willmar	United States of America	US
+Brainerd	United States of America	US
+Crookston	United States of America	US
+Hardin	United States of America	US
+Glendive	United States of America	US
+Dillon	United States of America	US
+Polson	United States of America	US
+Devils Lake	United States of America	US
+Burley	United States of America	US
+Wallace	United States of America	US
+Kennewick	United States of America	US
+Centralia	United States of America	US
+Glendale	United States of America	US
+Safford	United States of America	US
+Casa Grande	United States of America	US
+Mesa	United States of America	US
+Lake Havasu City	United States of America	US
+Berkeley	United States of America	US
+National City	United States of America	US
+Mendocino	United States of America	US
+Paso Robles	United States of America	US
+Riverside	United States of America	US
+Delano	United States of America	US
+San Mateo	United States of America	US
+Vallejo	United States of America	US
+Glenwood Springs	United States of America	US
+Aurora	United States of America	US
+Greeley	United States of America	US
+Tonopah	United States of America	US
+Deming	United States of America	US
+Truth or Consequences	United States of America	US
+Las Vegas	United States of America	US
+Farmington	United States of America	US
+Springfield	United States of America	US
+Tillamook	United States of America	US
+Ontario	United States of America	US
+La Grande	United States of America	US
+Richfield	United States of America	US
+Nephi	United States of America	US
+Lander	United States of America	US
+Powell	United States of America	US
+Paragould	United States of America	US
+Iowa City	United States of America	US
+Ottumwa	United States of America	US
+Spencer	United States of America	US
+Ft. Dodge	United States of America	US
+Hutchinson	United States of America	US
+Kansas City	United States of America	US
+Lawrence	United States of America	US
+Garden City	United States of America	US
+Manhattan	United States of America	US
+Hays	United States of America	US
+Goodland	United States of America	US
+Independence	United States of America	US
+Kirksville	United States of America	US
+Kearney	United States of America	US
+Grand Island	United States of America	US
+Alliance	United States of America	US
+Bartlesville	United States of America	US
+Enid	United States of America	US
+Ardmore	United States of America	US
+McAlester	United States of America	US
+Stillwater	United States of America	US
+Lead	United States of America	US
+Slidell	United States of America	US
+Lake Charles	United States of America	US
+Metairie	United States of America	US
+New Iberia	United States of America	US
+Bryan	United States of America	US
+San Marcos	United States of America	US
+Longview	United States of America	US
+McAllen	United States of America	US
+Harlingen	United States of America	US
+Alice	United States of America	US
+New Braunfels	United States of America	US
+Cleburne	United States of America	US
+Brownwood	United States of America	US
+Alpine	United States of America	US
+Van Horn	United States of America	US
+Big Spring	United States of America	US
+Vernon	United States of America	US
+Childress	United States of America	US
+Hereford	United States of America	US
+Dalhart	United States of America	US
+Texas City	United States of America	US
+Pasadena	United States of America	US
+Baytown	United States of America	US
+Arlington	United States of America	US
+New London	United States of America	US
+Stamford	United States of America	US
+Waterbury	United States of America	US
+New Bedford	United States of America	US
+Springfield	United States of America	US
+Salem	United States of America	US
+Pittsfield	United States of America	US
+Montpelier	United States of America	US
+Auburn	United States of America	US
+Florence	United States of America	US
+Winter Haven	United States of America	US
+Melbourne	United States of America	US
+Homestead	United States of America	US
+Sanford	United States of America	US
+Miami Beach	United States of America	US
+Coral Springs	United States of America	US
+Port Charlotte	United States of America	US
+Spring Hill	United States of America	US
+Palm Coast	United States of America	US
+Palatka	United States of America	US
+Leesburg	United States of America	US
+Lake City	United States of America	US
+Crestview	United States of America	US
+Panama City	United States of America	US
+Dalton	United States of America	US
+Marietta	United States of America	US
+Waycross	United States of America	US
+La Grange	United States of America	US
+Southaven	United States of America	US
+Meridian	United States of America	US
+Laurel	United States of America	US
+Spartanburg	United States of America	US
+Orangeburg	United States of America	US
+Galesburg	United States of America	US
+Joliet	United States of America	US
+Cape Girardeau	United States of America	US
+Rockford	United States of America	US
+Evanston	United States of America	US
+Rock Island	United States of America	US
+Elgin	United States of America	US
+Richmond	United States of America	US
+Terre Haute	United States of America	US
+Lafayette	United States of America	US
+Marion	United States of America	US
+South Bend	United States of America	US
+New Albany	United States of America	US
+Elkhart	United States of America	US
+Hopkinsville	United States of America	US
+London	United States of America	US
+Madisonville	United States of America	US
+Rocky Mount	United States of America	US
+Salisbury	United States of America	US
+Durham	United States of America	US
+Lumberton	United States of America	US
+Zanesville	United States of America	US
+Mansfield	United States of America	US
+Bowling Green	United States of America	US
+Springfield	United States of America	US
+Lancaster	United States of America	US
+Johnson City	United States of America	US
+Kingsport	United States of America	US
+Columbia	United States of America	US
+Barlett	United States of America	US
+Blacksburg	United States of America	US
+Harrisonburg	United States of America	US
+Petersburg	United States of America	US
+Hampton	United States of America	US
+Sheboygan	United States of America	US
+Waukesha	United States of America	US
+La Crosse	United States of America	US
+Eau Claire	United States of America	US
+Tomah	United States of America	US
+Janesville	United States of America	US
+Appleton	United States of America	US
+Parkersburg	United States of America	US
+White Sulphur Springs	United States of America	US
+Clarksburg	United States of America	US
+Dover	United States of America	US
+St. Charles	United States of America	US
+Annapolis	United States of America	US
+Hagerstown	United States of America	US
+Paterson	United States of America	US
+Saratoga Springs	United States of America	US
+Poughkeepsie	United States of America	US
+Plattsburg	United States of America	US
+Beaver Falls	United States of America	US
+Altoona	United States of America	US
+Williamsport	United States of America	US
+Lancaster	United States of America	US
+Allentown	United States of America	US
+Waterville	United States of America	US
+Calais	United States of America	US
+Houlton	United States of America	US
+Benton Harbor	United States of America	US
+Battle Creek	United States of America	US
+Bay City	United States of America	US
+Alpena	United States of America	US
+Iron Mountain	United States of America	US
+Ironwood	United States of America	US
+Sand Point	United States of America	US
+Hydaburg	United States of America	US
+Mekoryuk	United States of America	US
+Atqasuk	United States of America	US
+Port Heiden	United States of America	US
+Perryville	United States of America	US
+Dillingham	United States of America	US
+Goodnews Bay	United States of America	US
+Nyac	United States of America	US
+Tununak	United States of America	US
+Mountain Village	United States of America	US
+Emmonak	United States of America	US
+Kaltag	United States of America	US
+Teller	United States of America	US
+Koyukuk	United States of America	US
+Kobuk	United States of America	US
+Selawik	United States of America	US
+Talkeetna	United States of America	US
+Whittier	United States of America	US
+Montana	United States of America	US
+Lake Minchumina	United States of America	US
+Cantwell	United States of America	US
+Gulkana	United States of America	US
+Eagle	United States of America	US
+Nenana	United States of America	US
+Big Delta	United States of America	US
+Allakaket	United States of America	US
+Tanana	United States of America	US
+Virginia	United States of America	US
+Winona	United States of America	US
+Rochester	United States of America	US
+Lakeville	United States of America	US
+Ely	United States of America	US
+Moorhead	United States of America	US
+St. Cloud	United States of America	US
+Miles City	United States of America	US
+Bozeman	United States of America	US
+Glasgow	United States of America	US
+Dickinson	United States of America	US
+Jamestown	United States of America	US
+Williston	United States of America	US
+Lihue	United States of America	US
+Wahiawa	United States of America	US
+Wailuku	United States of America	US
+Montpelier	United States of America	US
+Twin Falls	United States of America	US
+Caldwell	United States of America	US
+Salmon	United States of America	US
+Coeur d'Alene	United States of America	US
+Richland	United States of America	US
+Bellingham	United States of America	US
+Longview	United States of America	US
+Walla Walla	United States of America	US
+Aberdeen	United States of America	US
+Bremerton	United States of America	US
+Everett	United States of America	US
+Bullhead City	United States of America	US
+Winslow	United States of America	US
+Gila Bend	United States of America	US
+Tombstone	United States of America	US
+Willcox	United States of America	US
+Scottsdale	United States of America	US
+Kingman	United States of America	US
+Grand Canyon	United States of America	US
+Arcata	United States of America	US
+Stockton	United States of America	US
+Barstow	United States of America	US
+Victorville	United States of America	US
+Pasadena	United States of America	US
+Visalia	United States of America	US
+El Centro	United States of America	US
+San Luis Obispo	United States of America	US
+Merced	United States of America	US
+Yuba City	United States of America	US
+Redding	United States of America	US
+Santa Rosa	United States of America	US
+Oceanside	United States of America	US
+Modesto	United States of America	US
+Irvine	United States of America	US
+Ukiah	United States of America	US
+Needles	United States of America	US
+Bishop	United States of America	US
+Palm Springs	United States of America	US
+Santa Maria	United States of America	US
+Tulare	United States of America	US
+Mt. Shasta	United States of America	US
+Crescent City	United States of America	US
+Fort Collins	United States of America	US
+Pueblo	United States of America	US
+Lamar	United States of America	US
+Trinidad	United States of America	US
+Gunnison	United States of America	US
+Durango	United States of America	US
+Montrose	United States of America	US
+Craig	United States of America	US
+Boulder	United States of America	US
+Boulder City	United States of America	US
+Winnemucca	United States of America	US
+Roswell	United States of America	US
+Clovis	United States of America	US
+Las Cruces	United States of America	US
+Hobbs	United States of America	US
+Socorro	United States of America	US
+Gallup	United States of America	US
+Raton	United States of America	US
+Tucumcari	United States of America	US
+Roseburg	United States of America	US
+Pendleton	United States of America	US
+John Day	United States of America	US
+Grants Pass	United States of America	US
+Corvallis	United States of America	US
+Albany	United States of America	US
+Astoria	United States of America	US
+Logan	United States of America	US
+Parowan	United States of America	US
+Kanab	United States of America	US
+Monticello	United States of America	US
+Moab	United States of America	US
+Price	United States of America	US
+Cedar City	United States of America	US
+Vernal	United States of America	US
+Ogden	United States of America	US
+Green River	United States of America	US
+Rawlins	United States of America	US
+Douglas	United States of America	US
+Riverton	United States of America	US
+Thermopolis	United States of America	US
+Gillette	United States of America	US
+Jonesboro	United States of America	US
+Texarkana	United States of America	US
+Pine Bluff	United States of America	US
+Hot Springs	United States of America	US
+Fort Smith	United States of America	US
+Fayetteville	United States of America	US
+Conway	United States of America	US
+El Dorado	United States of America	US
+Davenport	United States of America	US
+Burlington	United States of America	US
+Dubuque	United States of America	US
+Waterloo	United States of America	US
+Sioux City	United States of America	US
+Council Bluffs	United States of America	US
+Ames	United States of America	US
+Mason City	United States of America	US
+Emporia	United States of America	US
+Salina	United States of America	US
+Dodge City	United States of America	US
+Coffeyville	United States of America	US
+St. Charles	United States of America	US
+Poplar Bluff	United States of America	US
+Joplin	United States of America	US
+Columbia	United States of America	US
+St. Joseph	United States of America	US
+McCook	United States of America	US
+Norfolk	United States of America	US
+North Platte	United States of America	US
+Sidney	United States of America	US
+Scottsbluff	United States of America	US
+Chadron	United States of America	US
+Lawton	United States of America	US
+Norman	United States of America	US
+Muskogee	United States of America	US
+Ponca City	United States of America	US
+Shawnee	United States of America	US
+Woodward	United States of America	US
+Guymon	United States of America	US
+Yankton	United States of America	US
+Brookings	United States of America	US
+Mitchell	United States of America	US
+Aberdeen	United States of America	US
+Mobridge	United States of America	US
+Houma	United States of America	US
+Monroe	United States of America	US
+Conroe	United States of America	US
+Nacogdoches	United States of America	US
+Eagle Pass	United States of America	US
+Edinburg	United States of America	US
+Kingsville	United States of America	US
+Port Arthur	United States of America	US
+Huntsville	United States of America	US
+Killeen	United States of America	US
+Lufkin	United States of America	US
+Del Rio	United States of America	US
+San Angelo	United States of America	US
+Sherman	United States of America	US
+Beaumont	United States of America	US
+Bay City	United States of America	US
+Port Lavaca	United States of America	US
+Falfurrias	United States of America	US
+Beeville	United States of America	US
+Fort Stockton	United States of America	US
+Pecos	United States of America	US
+Dumas	United States of America	US
+Denton	United States of America	US
+Midland	United States of America	US
+Temple	United States of America	US
+New Haven	United States of America	US
+Lowell	United States of America	US
+Worcester	United States of America	US
+Manchester	United States of America	US
+Newport	United States of America	US
+Dothan	United States of America	US
+Tuscaloosa	United States of America	US
+Gadsden	United States of America	US
+Enterprise	United States of America	US
+Selma	United States of America	US
+Coral Gables	United States of America	US
+Cape Coral	United States of America	US
+Naples	United States of America	US
+Fort Pierce	United States of America	US
+Kissimmee	United States of America	US
+Titusville	United States of America	US
+St. Augustine	United States of America	US
+Ocala	United States of America	US
+Fort Lauderdale	United States of America	US
+Apalachicola	United States of America	US
+Vero Beach	United States of America	US
+Valdosta	United States of America	US
+Albany	United States of America	US
+Athens	United States of America	US
+Macon	United States of America	US
+Columbus	United States of America	US
+Douglas	United States of America	US
+Dublin	United States of America	US
+Gulfport	United States of America	US
+Hattiesburg	United States of America	US
+Tupelo	United States of America	US
+Greenville	United States of America	US
+Natchez	United States of America	US
+Florence	United States of America	US
+Greenville	United States of America	US
+Sumter	United States of America	US
+Anderson	United States of America	US
+Aiken	United States of America	US
+Beaufort	United States of America	US
+Rock Hill	United States of America	US
+Decatur	United States of America	US
+Alton	United States of America	US
+Quincy	United States of America	US
+Urbana	United States of America	US
+Bloomington	United States of America	US
+Kankakee	United States of America	US
+Waukegan	United States of America	US
+Aurora	United States of America	US
+Carbondale	United States of America	US
+Belleville	United States of America	US
+Bloomington	United States of America	US
+Muncie	United States of America	US
+Kokomo	United States of America	US
+Gary	United States of America	US
+Fort Wayne	United States of America	US
+Covington	United States of America	US
+Bowling Green	United States of America	US
+Paducah	United States of America	US
+Owensboro	United States of America	US
+Jacksonville	United States of America	US
+Goldsboro	United States of America	US
+Greenville	United States of America	US
+Fayetteville	United States of America	US
+Hickory	United States of America	US
+Asheville	United States of America	US
+Winston-Salem	United States of America	US
+Kitty Hawk	United States of America	US
+Akron	United States of America	US
+Lima	United States of America	US
+Oak Ridge	United States of America	US
+Murfreesboro	United States of America	US
+Clarksville	United States of America	US
+Jackson	United States of America	US
+Alexandria	United States of America	US
+Fredericksburg	United States of America	US
+Roanoke	United States of America	US
+Danville	United States of America	US
+Winchester	United States of America	US
+Bristol	United States of America	US
+Superior	United States of America	US
+West Bend	United States of America	US
+Fond du Lac	United States of America	US
+Oshkosh	United States of America	US
+Rhinelander	United States of America	US
+Racine	United States of America	US
+Marinette	United States of America	US
+Wheeling	United States of America	US
+Morgantown	United States of America	US
+Huntington	United States of America	US
+Beckley	United States of America	US
+Wilmington	United States of America	US
+Cumberland	United States of America	US
+Atlantic City	United States of America	US
+Newark	United States of America	US
+Schenectady	United States of America	US
+Binghamton	United States of America	US
+Utica	United States of America	US
+Watertown	United States of America	US
+Niagara Falls	United States of America	US
+Jamestown	United States of America	US
+Elmira	United States of America	US
+York	United States of America	US
+Johnstown	United States of America	US
+Scranton	United States of America	US
+State College	United States of America	US
+Erie	United States of America	US
+Wilkes Barre	United States of America	US
+Bar Harbor	United States of America	US
+Lewiston	United States of America	US
+Presque Isle	United States of America	US
+Ann Arbor	United States of America	US
+Kalamazoo	United States of America	US
+Muskegon	United States of America	US
+Flint	United States of America	US
+Grand Rapids	United States of America	US
+Pontiac	United States of America	US
+Cadillac	United States of America	US
+Traverse City	United States of America	US
+Petoskey	United States of America	US
+Escanaba	United States of America	US
+Marquette	United States of America	US
+Hancock	United States of America	US
+Wrangell	United States of America	US
+Shishmaref	United States of America	US
+Hoonah	United States of America	US
+Atka	United States of America	US
+Nikolski	United States of America	US
+Karluk	United States of America	US
+False Pass	United States of America	US
+Kivalina	United States of America	US
+Newhalen	United States of America	US
+Pilot Point	United States of America	US
+Chignik	United States of America	US
+King Salmon	United States of America	US
+Quinhagak	United States of America	US
+Aniak	United States of America	US
+Kotlit	United States of America	US
+Unalakleet	United States of America	US
+Koyuk	United States of America	US
+McGrath	United States of America	US
+Hughes	United States of America	US
+Ambler	United States of America	US
+Wales	United States of America	US
+Kotzebue	United States of America	US
+Wasilla	United States of America	US
+Circle	United States of America	US
+Denali Park	United States of America	US
+Yakutat	United States of America	US
+Homer	United States of America	US
+Tanacross	United States of America	US
+Wiseman	United States of America	US
+Kailua-Kona	United States of America	US
+Butte	United States of America	US
+Grand Forks	United States of America	US
+Pocatello	United States of America	US
+Tacoma	United States of America	US
+Yuma	United States of America	US
+Prescott	United States of America	US
+Long Beach	United States of America	US
+Grand Junction	United States of America	US
+Ely	United States of America	US
+Carson City	United States of America	US
+Carlsbad	United States of America	US
+Alamogordo	United States of America	US
+Medford	United States of America	US
+Klamath Falls	United States of America	US
+St. George	United States of America	US
+Provo	United States of America	US
+Laramie	United States of America	US
+Little Rock	United States of America	US
+Wichita	United States of America	US
+Jefferson City	United States of America	US
+Rapid City	United States of America	US
+Lafayette	United States of America	US
+Galveston	United States of America	US
+Freeport	United States of America	US
+Victoria	United States of America	US
+Odessa	United States of America	US
+Wichita Falls	United States of America	US
+Waco	United States of America	US
+Lubbock	United States of America	US
+Hartford	United States of America	US
+Providence	United States of America	US
+Birmingham	United States of America	US
+Mobile	United States of America	US
+Pensacola	United States of America	US
+St. Petersburg	United States of America	US
+Biloxi	United States of America	US
+Springfield	United States of America	US
+Frankfort	United States of America	US
+Greensboro	United States of America	US
+Dayton	United States of America	US
+Virginia Beach	United States of America	US
+Madison	United States of America	US
+Green Bay	United States of America	US
+Trenton	United States of America	US
+Lansing	United States of America	US
+Gambell	United States of America	US
+Palmer	United States of America	US
+Seward	United States of America	US
+Duluth	United States of America	US
+Bemidji	United States of America	US
+Havre	United States of America	US
+Kalispell	United States of America	US
+Idaho Falls	United States of America	US
+Lewiston	United States of America	US
+Yakima	United States of America	US
+Wenatchee	United States of America	US
+Douglas	United States of America	US
+Bakersfield	United States of America	US
+Oakland	United States of America	US
+Lancaster	United States of America	US
+Chico	United States of America	US
+Monterey	United States of America	US
+Salinas	United States of America	US
+Los Alamos	United States of America	US
+Eugene	United States of America	US
+Coos Bay	United States of America	US
+Bend	United States of America	US
+Cody	United States of America	US
+Cedar Rapids	United States of America	US
+Springfield	United States of America	US
+Lincoln	United States of America	US
+Alexandria	United States of America	US
+Abilene	United States of America	US
+Brownsville	United States of America	US
+Tyler	United States of America	US
+Concord	United States of America	US
+Huntsville	United States of America	US
+Key West	United States of America	US
+West Palm Beach	United States of America	US
+Sarasota	United States of America	US
+Daytona Beach	United States of America	US
+Gainesville	United States of America	US
+Ft. Myers	United States of America	US
+Brunswick	United States of America	US
+Augusta	United States of America	US
+Vicksburg	United States of America	US
+Myrtle Beach	United States of America	US
+Charleston	United States of America	US
+Peoria	United States of America	US
+Evansville	United States of America	US
+Louisville	United States of America	US
+Lexington	United States of America	US
+Charlotte	United States of America	US
+Youngstown	United States of America	US
+Canton	United States of America	US
+Toledo	United States of America	US
+Columbus	United States of America	US
+Chattanooga	United States of America	US
+Charlottesville	United States of America	US
+Lynchburg	United States of America	US
+Wausau	United States of America	US
+Albany	United States of America	US
+Ithaca	United States of America	US
+Harrisburg	United States of America	US
+Bangor	United States of America	US
+Portland	United States of America	US
+Saginaw	United States of America	US
+Ketchikan	United States of America	US
+Unalaska	United States of America	US
+Togiak	United States of America	US
+Red Devil	United States of America	US
+Hooper Bay	United States of America	US
+Wainwright	United States of America	US
+Galena	United States of America	US
+Kaktovik	United States of America	US
+Skagway	United States of America	US
+Cordova	United States of America	US
+Kenai	United States of America	US
+Fort Yukon	United States of America	US
+Santa Cruz	United States of America	US
+San Bernardino	United States of America	US
+Bridgeport	United States of America	US
+Rochester	United States of America	US
+International Falls	United States of America	US
+St. Paul	United States of America	US
+Billings	United States of America	US
+Great Falls	United States of America	US
+Missoula	United States of America	US
+Minot	United States of America	US
+Fargo	United States of America	US
+Hilo	United States of America	US
+Olympia	United States of America	US
+Spokane	United States of America	US
+Vancouver	United States of America	US
+Flagstaff	United States of America	US
+Tucson	United States of America	US
+Santa Barbara	United States of America	US
+Fresno	United States of America	US
+Eureka	United States of America	US
+Colorado Springs	United States of America	US
+Reno	United States of America	US
+Elko	United States of America	US
+Albuquerque	United States of America	US
+Salem	United States of America	US
+Casper	United States of America	US
+Topeka	United States of America	US
+Kansas City	United States of America	US
+Tulsa	United States of America	US
+Sioux Falls	United States of America	US
+Shreveport	United States of America	US
+Baton Rouge	United States of America	US
+Ft. Worth	United States of America	US
+Corpus Christi	United States of America	US
+Austin	United States of America	US
+Amarillo	United States of America	US
+El Paso	United States of America	US
+Laredo	United States of America	US
+Burlington	United States of America	US
+Montgomery	United States of America	US
+Tallahassee	United States of America	US
+Orlando	United States of America	US
+Jacksonville	United States of America	US
+Savannah	United States of America	US
+Columbia	United States of America	US
+Indianapolis	United States of America	US
+Wilmington	United States of America	US
+Knoxville	United States of America	US
+Richmond	United States of America	US
+Charleston	United States of America	US
+Baltimore	United States of America	US
+Syracuse	United States of America	US
+Augusta	United States of America	US
+Sault Ste. Marie	United States of America	US
+Sitka	United States of America	US
+Helena	United States of America	US
+Bismarck	United States of America	US
+Boise	United States of America	US
+San Jose	United States of America	US
+Sacramento	United States of America	US
+Las Vegas	United States of America	US
+Santa Fe	United States of America	US
+Portland	United States of America	US
+Salt Lake City	United States of America	US
+Cheyenne	United States of America	US
+Des Moines	United States of America	US
+Omaha	United States of America	US
+Oklahoma City	United States of America	US
+Pierre	United States of America	US
+San Antonio	United States of America	US
+Jackson	United States of America	US
+Raleigh	United States of America	US
+Cleveland	United States of America	US
+Cincinnati	United States of America	US
+Nashville	United States of America	US
+Memphis	United States of America	US
+Norfolk	United States of America	US
+Milwaukee	United States of America	US
+Buffalo	United States of America	US
+Pittsburgh	United States of America	US
+Kodiak	United States of America	US
+Cold Bay	United States of America	US
+Bethel	United States of America	US
+Point Hope	United States of America	US
+Barrow	United States of America	US
+Nome	United States of America	US
+Valdez	United States of America	US
+Juneau	United States of America	US
+Fairbanks	United States of America	US
+Prudhoe Bay	United States of America	US
+Minneapolis	United States of America	US
+Honolulu	United States of America	US
+Seattle	United States of America	US
+Phoenix	United States of America	US
+San Diego	United States of America	US
+St. Louis	United States of America	US
+New Orleans	United States of America	US
+Dallas	United States of America	US
+Boston	United States of America	US
+Tampa	United States of America	US
+Philadelphia	United States of America	US
+Detroit	United States of America	US
+Anchorage	United States of America	US
+San Francisco	United States of America	US
+Denver	United States of America	US
+Houston	United States of America	US
+Miami	United States of America	US
+Atlanta	United States of America	US
+Chicago	United States of America	US
+Los Angeles	United States of America	US
+"Washington	-77.00941858	2445216.5
+New York	United States of America	US
+Christiansted	United States Virgin Islands	VI
+Colonia del Sacramento	Uruguay	UY
+Trinidad	Uruguay	UY
+Fray Bentos	Uruguay	UY
+Canelones	Uruguay	UY
+Florida	Uruguay	UY
+Artigas	Uruguay	UY
+Baltasar Brum	Uruguay	UY
+Tranqueras	Uruguay	UY
+Tacuarembo	Uruguay	UY
+Paso de los Toros	Uruguay	UY
+Vergara	Uruguay	UY
+Treinta y Tres	Uruguay	UY
+Santa Lucia	Uruguay	UY
+Jose Batlle y Ordonez	Uruguay	UY
+Minas	Uruguay	UY
+Maldonado	Uruguay	UY
+Punta del Este	Uruguay	UY
+Aigua	Uruguay	UY
+La Paloma	Uruguay	UY
+Carmelo	Uruguay	UY
+Bella Union	Uruguay	UY
+Mercedes	Uruguay	UY
+Melo	Uruguay	UY
+Rivera	Uruguay	UY
+Lascano	Uruguay	UY
+Castillos	Uruguay	UY
+San Jose de Mayo	Uruguay	UY
+Rocha	Uruguay	UY
+Paysandu	Uruguay	UY
+Salto	Uruguay	UY
+Durazno	Uruguay	UY
+Montevideo	Uruguay	UY
+Khujayli	Uzbekistan	UZ
+Urgut	Uzbekistan	UZ
+Kattaqorgon	Uzbekistan	UZ
+Denow	Uzbekistan	UZ
+Guliston	Uzbekistan	UZ
+Iskandar	Uzbekistan	UZ
+Chirchiq	Uzbekistan	UZ
+Kogon	Uzbekistan	UZ
+Khiwa	Uzbekistan	UZ
+Chimboy	Uzbekistan	UZ
+Qunghirot	Uzbekistan	UZ
+Zarafshon	Uzbekistan	UZ
+Navoi	Uzbekistan	UZ
+Shahrisabz	Uzbekistan	UZ
+Qarshi	Uzbekistan	UZ
+Qoqon	Uzbekistan	UZ
+Jizzax	Uzbekistan	UZ
+Angren	Uzbekistan	UZ
+Olmaliq	Uzbekistan	UZ
+Muynoq	Uzbekistan	UZ
+Termiz	Uzbekistan	UZ
+Fargona	Uzbekistan	UZ
+Namangan	Uzbekistan	UZ
+Urgentch	Uzbekistan	UZ
+Bukhara	Uzbekistan	UZ
+Nukus	Uzbekistan	UZ
+Andijon	Uzbekistan	UZ
+Samarqand	Uzbekistan	UZ
+Tashkent	Uzbekistan	UZ
+Luganville	Vanuatu	VU
+Port Vila	Vanuatu	VU
+Vatican City	Vatican (Holy Sea)	VA
+San Carlos	Venezuela	VE
+San Felipe	Venezuela	VE
+San Juan De Los Morros	Venezuela	VE
+La Asuncion	Venezuela	VE
+Guasdualito	Venezuela	VE
+Barinas	Venezuela	VE
+Valera	Venezuela	VE
+Cabimas	Venezuela	VE
+Carora	Venezuela	VE
+Guanare	Venezuela	VE
+Puerto la Cruz	Venezuela	VE
+Anaco	Venezuela	VE
+Los Teques	Venezuela	VE
+Valle de la Pascua	Venezuela	VE
+Ocumare del Tuy	Venezuela	VE
+Carupano	Venezuela	VE
+Trujillo	Venezuela	VE
+Santa Rita	Venezuela	VE
+Machiques	Venezuela	VE
+San Carlos del Zulia	Venezuela	VE
+Puerto Cabello	Venezuela	VE
+Acarigua	Venezuela	VE
+Upata	Venezuela	VE
+El Manteco	Venezuela	VE
+Chaguaramas	Venezuela	VE
+Barcelona	Venezuela	VE
+El Tigre	Venezuela	VE
+Maiquetia	Venezuela	VE
+Calabozo	Venezuela	VE
+Zaraza	Venezuela	VE
+Altagracia de Orituco	Venezuela	VE
+Tucupita	Venezuela	VE
+Porlamar	Venezuela	VE
+San Fernando de Apure	Venezuela	VE
+Barquisimeto	Venezuela	VE
+Maturin	Venezuela	VE
+Cumana	Venezuela	VE
+Coro	Venezuela	VE
+Punto Fijo	Venezuela	VE
+La Esmeralda	Venezuela	VE
+Ciudad Bolivar	Venezuela	VE
+El Dorado	Venezuela	VE
+Maracay	Venezuela	VE
+Merida	Venezuela	VE
+Puerto Ayacucho	Venezuela	VE
+San Cristobal	Venezuela	VE
+Valencia	Venezuela	VE
+Ciudad Guayana	Venezuela	VE
+Maracaibo	Venezuela	VE
+Caracas	Venezuela	VE
+Tay Ninh	Vietnam	VN
+Luan Chau	Vietnam	VN
+Bac Kan	Vietnam	VN
+Lang Son	Vietnam	VN
+Son La	Vietnam	VN
+Tuyen Quang	Vietnam	VN
+Yen Bai	Vietnam	VN
+Hai Duong	Vietnam	VN
+Thai Binh	Vietnam	VN
+Tuy Hoa	Vietnam	VN
+Thu Dau Mot	Vietnam	VN
+Dong Ha	Vietnam	VN
+Cao Lanh	Vietnam	VN
+Truc Giang	Vietnam	VN
+Tra Vinh	Vietnam	VN
+Vinh Long	Vietnam	VN
+Cao Bang	Vietnam	VN
+Hong Gai	Vietnam	VN
+Cam Pha	Vietnam	VN
+Lao Chi	Vietnam	VN
+Hoa Binh	Vietnam	VN
+Son Tay	Vietnam	VN
+Ninh Binh	Vietnam	VN
+Viet Tri	Vietnam	VN
+Bac Giang	Vietnam	VN
+Ha Tinh	Vietnam	VN
+Buon Me Thuot	Vietnam	VN
+Da Lat	Vietnam	VN
+Phan Rang	Vietnam	VN
+Hon Quan	Vietnam	VN
+Kon Tum	Vietnam	VN
+Quang Ngai	Vietnam	VN
+Quang Tri	Vietnam	VN
+Vung Tau	Vietnam	VN
+Phan Thiet	Vietnam	VN
+Long Xuyen	Vietnam	VN
+Chau Doc	Vietnam	VN
+Rach Gia	Vietnam	VN
+Tan An	Vietnam	VN
+My Tho	Vietnam	VN
+Bac Lieu	Vietnam	VN
+Ca Mau	Vietnam	VN
+Soc Trang	Vietnam	VN
+Ha Giang	Vietnam	VN
+Thai Nguyen	Vietnam	VN
+Thanh Hoa	Vietnam	VN
+Nam Dinh	Vietnam	VN
+Vinh	Vietnam	VN
+Dong Hoi	Vietnam	VN
+Play Ku	Vietnam	VN
+Nha Trang	Vietnam	VN
+Cam Ranh	Vietnam	VN
+Qui Nhon	Vietnam	VN
+Hue	Vietnam	VN
+Bien Hoa	Vietnam	VN
+Can Tho	Vietnam	VN
+Haiphong	Vietnam	VN
+Da Nang	Vietnam	VN
+Hanoi	Vietnam	VN
+Ho Chi Minh City	Vietnam	VN
+Bir Lehlou	Western Sahara	EH
+Al Bayda	Yemen	YE
+'Ataq	Yemen	YE
+Marib	Yemen	YE
+Dhamar	Yemen	YE
+Ibb	Yemen	YE
+Ash Shihr	Yemen	YE
+Zabid	Yemen	YE
+Hajjah	Yemen	YE
+Lahij	Yemen	YE
+Al Ghaydah	Yemen	YE
+Rida	Yemen	YE
+Hadiboh	Yemen	YE
+Saywun	Yemen	YE
+Sadah	Yemen	YE
+Al Hudaydah	Yemen	YE
+Sayhut	Yemen	YE
+Al Mukalla	Yemen	YE
+Taizz	Yemen	YE
+Aden	Yemen	YE
+Sanaa	Yemen	YE
+Kawambwa	Zambia	ZM
+Nchelenge	Zambia	ZM
+Chinsali	Zambia	ZM
+Kasama	Zambia	ZM
+Kapiri Mposhi	Zambia	ZM
+Mumbwa	Zambia	ZM
+Chingola	Zambia	ZM
+Chililabombwe	Zambia	ZM
+Nyimba	Zambia	ZM
+Lundazi	Zambia	ZM
+Chipata	Zambia	ZM
+Mwinilunga	Zambia	ZM
+Kasempa	Zambia	ZM
+Solwezi	Zambia	ZM
+Choma	Zambia	ZM
+Mongu	Zambia	ZM
+Kaoma	Zambia	ZM
+Sesheke	Zambia	ZM
+Lukulu	Zambia	ZM
+Kalabo	Zambia	ZM
+Senanga	Zambia	ZM
+Mansa	Zambia	ZM
+Mpika	Zambia	ZM
+Mbala	Zambia	ZM
+Luanshya	Zambia	ZM
+Ndola	Zambia	ZM
+Zambezi	Zambia	ZM
+Kafue	Zambia	ZM
+Mazabuka	Zambia	ZM
+Kabwe	Zambia	ZM
+Mufulira	Zambia	ZM
+Kitwe	Zambia	ZM
+Livingstone	Zambia	ZM
+Lusaka	Zambia	ZM
+Mazowe	Zimbabwe	ZW
+Shamva	Zimbabwe	ZW
+Victoria Falls	Zimbabwe	ZW
+Zvishavane	Zimbabwe	ZW
+Kwekwe	Zimbabwe	ZW
+Plumtree	Zimbabwe	ZW
+Beitbridge	Zimbabwe	ZW
+Gwanda	Zimbabwe	ZW
+Chiredzi	Zimbabwe	ZW
+Masvingo	Zimbabwe	ZW
+Karoi	Zimbabwe	ZW
+Chinhoyi	Zimbabwe	ZW
+Kariba	Zimbabwe	ZW
+Hwange	Zimbabwe	ZW
+Gweru	Zimbabwe	ZW
+Mutare	Zimbabwe	ZW
+Kadoma	Zimbabwe	ZW
+Chitungwiza	Zimbabwe	ZW
+Harare	Zimbabwe	ZW
+Bulawayo	Zimbabwe	ZW

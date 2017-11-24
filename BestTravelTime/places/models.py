@@ -8,10 +8,16 @@ class Country(models.Model):
     def __str__(self):
         return self.country_name
 
+# class Region(models.Model):
+#     name = models.CharField(max_length=1000, default='none')
+#     region_country = models.ForeignKey(Country, on_delete=models.CASCADE)
+#     def __str__(self):
+#         return self.name
+
 class City(models.Model):
     city_country = models.ForeignKey(Country, on_delete=models.CASCADE)
     city_name = models.CharField(max_length=1000)
-    
+    #region_name = models.ForeignKey(Region, on_delete=models.CASCADE)
     def __str__(self):
         return self.city_name
 
