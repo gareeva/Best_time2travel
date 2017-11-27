@@ -7,12 +7,13 @@ from django.urls import reverse
 from django.views import generic
 import requests
 
-from .models import City, Indicators
+from .models import City, Indicators, Country
+
+
 
 # Create your views here.
 def index(request):
     return render(request, 'places/index.html')
-    #return HttpResponse("api test!")
 
 def placeenterform(request):
     return HttpResponse("enter here the city to visit!")

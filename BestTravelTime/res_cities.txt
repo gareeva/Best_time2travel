@@ -1,4 +1,3 @@
-city	country	iso2
 Qal eh-ye Now	Afghanistan	AF
 Chaghcharan	Afghanistan	AF
 Lashkar Gah	Afghanistan	AF
