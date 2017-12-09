@@ -6,6 +6,7 @@ from django.http import HttpResponseRedirect
 from django.urls import reverse
 from django.views import generic
 import requests
+import json
 
 from .models import City, Indicators, Country
 
@@ -90,6 +91,19 @@ def test_get_info_from_weatheronline(cityname):
     #request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q=Moscow&format=json'
     request_url = request_url + cityname
     request_url = request_url + '&format=json'
+
     response = requests.get(request_url)
-    print (request_url)
-    return response
+    response_json = response.json()
+
+    #decoded = json.loads(response_json)
+
+    monthAverages = response_json['data']['ClimateAverages'][0]['month']
+    string = ""
+    for month in monthAverages:
+        #print(month)
+        string = string + str(month)
+
+    #print(response_json)
+
+    #print (request_url)
+    return string
