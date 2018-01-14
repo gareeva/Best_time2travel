@@ -7,6 +7,7 @@ from django.urls import reverse
 from django.views import generic
 import requests
 import json
+import time, datetime
 
 from .models import City, Indicators, Country
 
@@ -86,24 +87,82 @@ def get_city_list(places_top):
             new_city_list.append(city)
     return new_city_list
 
-def test_get_info_from_weatheronline(cityname):
-    request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q='
-    #request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q=Moscow&format=json'
-    request_url = request_url + cityname
-    request_url = request_url + '&format=json'
+# def test_get_info_from_weatheronline(cityname):
+#     request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q='
+#     #request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q=Moscow&format=json'
+#     request_url = request_url + cityname
+#     request_url = request_url + '&format=json'
 
+#     response = requests.get(request_url)
+#     response_json = response.json()
+
+#     #decoded = json.loads(response_json)
+
+#     monthAverages = response_json['data']['ClimateAverages'][0]['month']
+#     string = ""
+#     for month in monthAverages:
+#         #print(month)
+#         string = string + str(month)
+
+#     #print(response_json)
+
+#     #print (request_url)
+#     return string
+
+
+def get_city_coordinates(cityname):
+    request_url =  "https://maps.googleapis.com/maps/api/geocode/json?address="
+    request_url = request_url + cityname + "&key=AIzaSyD_QIJehROPYOkn6ww4d7SPtr3jhYETXDo"
     response = requests.get(request_url)
     response_json = response.json()
 
-    #decoded = json.loads(response_json)
+    city_coordinates = {
+        'latitude': response_json['results'][0]['geometry']['location']['lat'],
+        'longitude': response_json['results'][0]['geometry']['location']['lng']
+    }
 
-    monthAverages = response_json['data']['ClimateAverages'][0]['month']
+    print(city_coordinates)
+    return city_coordinates
+
+def test_get_info_from_weatheronline(cityname):
+    
+    startday = 1
+    # startmonth = 1
+    # startyear = 2018
+
+    endday = 30
+    # endmonth = 1
+    # endyera = ?
+
+    month = 1
+    year = 2018
     string = ""
-    for month in monthAverages:
-        #print(month)
-        string = string + str(month)
+    city_coordinates = get_city_coordinates(cityname)
 
-    #print(response_json)
+    city_latitude = city_coordinates['latitude']
+    city_longitude = city_coordinates['longitude']
 
-    #print (request_url)
+    for day in range(startday, maxday):
+        mydate = datetime.date(year, month, day)
+        print(mydate)
+        print("===")
+        unix_date = int(time.mktime(mydate.timetuple()))
+        print("new date" + str(unix_date))
+        print("___________________")
+
+        request_url = 'https://api.darksky.net/forecast/1161e8117bb9cf0a749d62427a6130ef/37.8267,-122.4233,'
+        request_url = request_url + str(unix_date)
+
+        request_url = request_url + '?exclude=currently,flags, minutely, hourly'
+        response = requests.get(request_url)
+
+        response_json = response.json()
+
+        monthbydays = response_json['daily']['data'][0]
+        string = string + str(monthbydays)
+    print("data of month:")
+    # print(string)
+    # request_url = request_url + cityname
+    # request_url = request_url + '&format=json'
+
     return string

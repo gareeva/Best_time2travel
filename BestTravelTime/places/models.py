@@ -24,7 +24,7 @@ class City(models.Model):
 class Indicators(models.Model):
     city = models.ForeignKey(City, on_delete=models.CASCADE)
     month = models.DateTimeField('tracked month')
-    temperature = models.IntegerField(default=0)
+    temperature = models.FloatField(default=0)
     precipitation = models.IntegerField(default=0)
 
     def __str__(self):
