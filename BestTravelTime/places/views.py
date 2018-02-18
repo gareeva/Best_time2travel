@@ -9,7 +9,7 @@ import requests
 import json
 import time, datetime
 
-from .models import City, Indicators, Country
+from .models import City, Indicators_byMonth, Country
 
 
 
@@ -30,7 +30,7 @@ def placedetails(request):
     required_city = City.objects.get(city_name = entered_city)
 
     place_info = []
-    place_indicators = Indicators.objects.all()
+    place_indicators = Indicators_byMonth.objects.all()
     for indicator in place_indicators:
         print(indicator)
         #if (3 == 3):
@@ -69,7 +69,7 @@ def placestop(request):
 
 def get_indicator_by_month():
     places_top = []
-    all_indicators = Indicators.objects.all()
+    all_indicators = Indicators_byMonth.objects.all()
 
     for indicator in all_indicators:
         print(indicator)
