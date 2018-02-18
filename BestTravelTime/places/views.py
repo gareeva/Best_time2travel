@@ -121,7 +121,7 @@ def get_city_coordinates(cityname):
         'longitude': response_json['results'][0]['geometry']['location']['lng']
     }
 
-    print(city_coordinates)
+    # print(city_coordinates)
     return city_coordinates
 
 def test_get_info_from_weatheronline(cityname):
@@ -150,8 +150,8 @@ def test_get_info_from_weatheronline(cityname):
         print("new date" + str(unix_date))
         print("___________________")
 
-        request_url = 'https://api.darksky.net/forecast/1161e8117bb9cf0a749d62427a6130ef/37.8267,-122.4233,'
-        request_url = request_url + str(unix_date)
+        request_url = 'https://api.darksky.net/forecast/1161e8117bb9cf0a749d62427a6130ef/'
+        request_url = request_url + city_latitude + ',' + city_longitude + ',' + str(unix_date)
 
         request_url = request_url + '?exclude=currently,flags, minutely, hourly'
         response = requests.get(request_url)
