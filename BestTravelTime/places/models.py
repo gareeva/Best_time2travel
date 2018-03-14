@@ -1,5 +1,6 @@
 from django.db import models
 from django.db.models.functions import Concat
+from datetime import date
 
 # Create your models here.
 class Country(models.Model):
@@ -47,6 +48,7 @@ class Indicators_byDay(models.Model):
     city = models.ForeignKey(City, on_delete=models.CASCADE)
     day = models.IntegerField(default=-1)
     month = models.IntegerField(default=-1)
+    date = models.DateField(default = date.today)
 
     apparent_temp_high = models.FloatField(default=0) #Degrees Celsius.
     apparent_temp_low = models.FloatField(default=0) #Degrees Celsius.
