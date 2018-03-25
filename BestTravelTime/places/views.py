@@ -9,7 +9,7 @@ import requests
 import json
 import time, datetime
 
-from .models import City, Indicators_byMonth, Country
+from .models import City, Indicators_byMonth, Country, Indicators_byDay
 
 
 
@@ -26,7 +26,7 @@ def timeenterform(request):
 #def placedetails(request, city_id):
 def placedetails(request):
     entered_city= request.POST.get('placename', False);
-    #print(entered_city)
+
     required_city = City.objects.get(city_name = entered_city)
 
     place_info = []
@@ -43,7 +43,10 @@ def placedetails(request):
         'error_message' : "No such a city! Please enter another one!",
     }
 
-    return HttpResponse(test_get_info_from_weatheronline(entered_city))
+    #for testing the month logic. automate then
+    return HttpResponse(calculate_fields_byMonth(3, entered_city))
+    # return HttpResponse(get_info_from_weatheronline(entered_city))
+
     #change the variables when cleaned
     #return render(request, 'places/city_details.html', context)
 
@@ -87,28 +90,6 @@ def get_city_list(places_top):
             new_city_list.append(city)
     return new_city_list
 
-# def test_get_info_from_weatheronline(cityname):
-#     request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q='
-#     #request_url = 'http://api.worldweatheronline.com/premium/v1/weather.ashx?key=94105f4779354c0fa5372815171510&q=Moscow&format=json'
-#     request_url = request_url + cityname
-#     request_url = request_url + '&format=json'
-
-#     response = requests.get(request_url)
-#     response_json = response.json()
-
-#     #decoded = json.loads(response_json)
-
-#     monthAverages = response_json['data']['ClimateAverages'][0]['month']
-#     string = ""
-#     for month in monthAverages:
-#         #print(month)
-#         string = string + str(month)
-
-#     #print(response_json)
-
-#     #print (request_url)
-#     return string
-
 
 def get_city_coordinates(cityname):
     request_url =  "https://maps.googleapis.com/maps/api/geocode/json?address="
@@ -120,12 +101,70 @@ def get_city_coordinates(cityname):
         'latitude': response_json['results'][0]['geometry']['location']['lat'],
         'longitude': response_json['results'][0]['geometry']['location']['lng']
     }
-
-    # print(city_coordinates)
     return city_coordinates
 
-def test_get_info_from_weatheronline(cityname):
+def response_parsing(response, city, mydate, day, month):
+    response_json = response.json()
+    daily_data = response_json['daily']['data'][0]
+
+    cityname = City.objects.get(city_name = city)
+    create_Indicators_byDay(daily_data, cityname, mydate, day, month)
+    print("outside not")
+    return daily_data
+
+
+def create_Indicators_byDay(file_row, cityname, mydate, day, month):
+    daily_record = Indicators_byDay(
+        city= cityname, 
+        day = day, 
+        month = month, 
+        date = mydate)
+
+
+    if 'icon' in file_row:
+        daily_record.icon = file_row['icon']
+    if 'apparentTemperatureHigh' in file_row:
+        daily_record.apparent_temp_high = file_row['apparentTemperatureHigh']
+    if 'apparentTemperatureLow' in file_row:
+        daily_record.apparent_temp_low = file_row['apparentTemperatureLow']
+    if 'apparentTemperatureMin' in file_row:
+        daily_record.apparent_temp_min = file_row['apparentTemperatureMin']
+    if 'apparentTemperatureMax' in file_row:
+        daily_record.apparent_temp_max = file_row['apparentTemperatureMax']
+    if 'temperatureMin' in file_row:
+        daily_record.temp_min = file_row['temperatureMin']
+    if 'temperatureMax' in file_row:
+        daily_record.temp_max = file_row['temperatureMax']
+
+
+    if 'humidity' in file_row:
+        daily_record.humidity = file_row['humidity']
+    if 'moonPhase' in file_row:
+        daily_record.moonphase = file_row['moonPhase']
     
+    if 'precipIntensityMax' in file_row:
+        daily_record.precip_intencity_max = file_row['precipIntensityMax']
+    elif 'precipIntensity' in file_row:
+        print("IntencityMax is from precipIntensity")
+        daily_record.precip_intencity_max = file_row['precipIntensity']
+    
+    if 'precipAccumulation' in file_row:
+        daily_record.precip_accumulation_max = file_row['precipAccumulation']
+    
+    if 'precipType' in file_row:
+        daily_record.precip_type = file_row['precipType']
+    if 'windSpeed' in file_row:
+        daily_record.wind_speed = file_row['windSpeed']
+    if 'visibility' in file_row:
+        file_row['visibility']
+    if 'pressure' in file_row:
+        daily_record.pressure = file_row['pressure']
+        
+    daily_record.save(force_insert=True)
+
+
+def get_info_from_weatheronline(cityname):
+    output_to_me = ""
     startday = 1
     # startmonth = 1
     # startyear = 2018
@@ -134,15 +173,14 @@ def test_get_info_from_weatheronline(cityname):
     # endmonth = 1
     # endyera = ?
 
-    month = 1
+    month = 3
     year = 2018
-    string = ""
+    
     city_coordinates = get_city_coordinates(cityname)
+    city_latitude = str(city_coordinates['latitude'])
+    city_longitude = str(city_coordinates['longitude'])
 
-    city_latitude = city_coordinates['latitude']
-    city_longitude = city_coordinates['longitude']
-
-    for day in range(startday, maxday):
+    for day in range(startday, endday):
         mydate = datetime.date(year, month, day)
         print(mydate)
         print("===")
@@ -150,19 +188,176 @@ def test_get_info_from_weatheronline(cityname):
         print("new date" + str(unix_date))
         print("___________________")
 
-        request_url = 'https://api.darksky.net/forecast/1161e8117bb9cf0a749d62427a6130ef/'
-        request_url = request_url + city_latitude + ',' + city_longitude + ',' + str(unix_date)
+        if (check_data_existence(cityname, day, month)):
+            print("inside not")
+            # change it later to make correct output
+            output_to_me += str(Indicators_byDay.objects.get(city = required_city, day = day, month = month))
+        else:
+            request_url = 'https://api.darksky.net/forecast/1161e8117bb9cf0a749d62427a6130ef/'
+            request_url = request_url + city_latitude + ',' + city_longitude + ',' + str(unix_date)
 
-        request_url = request_url + '?exclude=currently,flags, minutely, hourly'
-        response = requests.get(request_url)
+            request_url = request_url + '?exclude=currently,flags,minutely,hourly&units=si'
+            response = requests.get(request_url)
+            output_to_me += str(response_parsing(response, cityname, mydate, day, month))
 
-        response_json = response.json()
+    return output_to_me
 
-        monthbydays = response_json['daily']['data'][0]
-        string = string + str(monthbydays)
-    print("data of month:")
-    # print(string)
-    # request_url = request_url + cityname
-    # request_url = request_url + '&format=json'
+def calculate_fields_byMonth(formonth, cityname):
+    city_id = City.objects.get(city_name = cityname)
+    monthly_record = Indicators_byMonth(
+        city= city_id, 
+        month = formonth)
+    days_data = Indicators_byDay.objects.filter(city = city_id, month = formonth)
+    # print(days_data)
+    count_temp = count_humidity = count_precip_intencity = count_precip_accum = count_wind = count_visibility = count_pressure = 0
+    
+    # !выяснить, какое значение подставляется, если сразу плюсовать в переменную
 
-    return string
+    average_apparent_temp = average_humidity = wet_days_count = average_precipitation_intencity = average_precipitation_accumulation = average_wind_speed = average_visibility = pressure = count_of_rain_days = count_of_snow_days = count_of_sleet_days =  count_of_cloudy_days = count_of_clear_days = count_of_wind_days = count_of_fog_days = 0
+    
+    for day in days_data:
+        print(day)
+        if hasattr(day, 'precip_intencity_max'):
+            if (day.precip_intencity_max > 0.1 and day.precip_intencity_max < 7.6):
+                wet_days_count += 1
+                # print(wet_days_count + "-wet")
+        if (hasattr(day, 'apparent_temp_high') or hasattr(day, 'apparent_temp_low')):
+            average_apparent_temp += (day.apparent_temp_high + day.apparent_temp_low) / 2
+            count_temp += 1
+        #     print(count_temp)
+        if (hasattr(day, 'humidity')):
+            average_humidity += day.humidity 
+            count_humidity += 1
+            # print(count_humidity)
+        if (hasattr(day, 'precip_intencity_max')):
+            average_precipitation_intencity += day.precip_intencity_max 
+            count_precip_intencity += 1
+            # print(count_precip_intencity + "count_precip_intencity")
+        if (hasattr(day, 'precip_accumulation_max')):
+            average_precipitation_accumulation += day.precip_accumulation_max 
+            count_precip_accum += 1
+        if(hasattr(day, 'wind_speed')):
+            average_wind_speed += day.wind_speed
+            count_wind += 1
+        if (hasattr(day, 'visibility')):
+            average_visibility += day.visibility
+            count_visibility += 1
+        if (hasattr(day, 'pressure')):
+            pressure += day.pressure
+            count_pressure += 1
+
+        # TBD!
+        if (hasattr(day, 'icon')):
+            if day.icon == 'rain':
+                count_of_rain_days += 1
+            if day.icon == 'snow':
+                count_of_snow_days += 1
+            if day.icon == 'sleet':
+                count_of_sleet_days += 1
+            if day.icon in ['cloudy', 'partly-cloudy-night', 'partly-cloudy-day']:
+                count_of_cloudy_days += 1
+            if (day.icon == 'clear-day' or day.icon == 'clear-night'):
+                count_of_clear_days += 1
+            if day.icon == 'wind':
+                count_of_wind_days += 1
+            if day.icon == 'fog':
+                count_of_fog_days += 1
+
+# # setting into object fields 
+    if(count_temp != 0): monthly_record.average_apparent_temp = average_apparent_temp/count_temp
+    # else: monthly_record.average_apparent_temp = average_apparent_temp
+    
+    if(count_humidity != 0): monthly_record.average_humidity = average_humidity/count_humidity
+    # else: monthly_record.average_humidity = average_humidity
+    
+    if(count_visibility != 0): monthly_record.average_visibility = average_visibility/count_visibility
+    # else: monthly_record.average_visibility = average_visibility
+
+    if(count_wind != 0): monthly_record.wind_speed = average_wind_speed/count_wind
+    # else: monthly_record.wind_speed = average_wind_speed
+
+    if(count_precip_intencity != 0): monthly_record.average_precipitation_intencity = average_precipitation_intencity/count_precip_intencity
+    # else: monthly_record.average_precipitation_intencity = average_precipitation_intencity
+
+    if(count_precip_accum != 0): monthly_record.average_precipitation_accumulation = average_precipitation_accumulation/count_precip_accum
+    # else: 
+
+    if(count_pressure != 0): monthly_record.pressure = pressure/count_pressure
+    # else: 
+
+    monthly_record.wet_days_count = wet_days_count
+
+    monthly_record.count_of_rain_days = count_of_rain_days
+    monthly_record.count_of_snow_days = count_of_snow_days
+    monthly_record.count_of_sleet_days = count_of_sleet_days
+    monthly_record.count_of_cloudy_days = count_of_cloudy_days
+    monthly_record.count_of_clear_days = count_of_clear_days
+    monthly_record.count_of_wind_days = count_of_wind_days
+    monthly_record.count_of_fog_days = count_of_fog_days
+
+    calculate_month_score(monthly_record)
+
+    monthly_record.save(force_insert=True)
+    return monthly_record
+
+def calculate_month_score(month):
+    total_score = 0
+    total_score += calculate_precipitation_score(month)
+    total_score += calculate_visibility_score(month)
+    total_score += calculate_temperature_score(month)
+
+    month.month_score = total_score
+
+def calculate_precipitation_score(month):
+    precipitation = month.average_precipitation_intencity
+    if (precipitation > 0 and precipitation <= 2.5):
+        return 1
+    elif (precipitation > 2.5 and precipitation <= 7.6):
+        return 6
+    elif(precipitation > 7.6):
+        return 12
+
+def calculate_visibility_score(month):
+    visibility = month.average_visibility
+    if (visibility >= 1):
+        return 1
+    elif (visibility > 0.5 and visibility < 1):
+        return 6
+    elif (visibility < 0.5 and visibility != 0):
+        print("false alarm")
+        return 12
+    else:
+        return 0
+
+def calculate_temperature_score(month):
+    temperature = month.average_apparent_temp
+    if (temperature < -32):
+        return 12
+    elif (temperature > -32 and temperature <= -24):
+        return 11
+    elif (temperature > -24 and temperature <= -10):
+        return 9
+    elif (temperature > -10 and temperature <= 0):
+        return 8
+    elif (temperature > 0 and temperature <= 7):
+        return 7
+    elif (temperature > 7 and temperature <= 11):
+        return 6
+    elif (temperature > 11 and temperature <= 15):
+        return 5
+    elif (temperature > 15 and temperature <= 20):
+        return 4
+    elif (temperature > 20 and temperature <= 24):
+        return 2
+    elif (temperature > 24 and temperature <= 28):
+        return 1
+    elif (temperature > 28 and temperature <= 33):
+        return 3
+    elif (temperature > 33):
+        return 10
+
+def check_data_existence(city, day, month):
+    required_city = City.objects.get(city_name = city)
+    if (Indicators_byDay.objects.filter(city=required_city, day = day, month = month).exists()):
+        return True
+    return False

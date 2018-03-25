@@ -27,15 +27,24 @@ class Indicators_byMonth(models.Model):
     month = models.IntegerField(default=0)
     month_score = models.IntegerField(default=0)
 
-    wet_days_count = models.IntegerField(default=0)
+    # icon  = models.CharField(max_length=200, default = None)
+
     average_apparent_temp = models.FloatField(default=0) #Degrees Celsius.
     average_humidity = models.FloatField(default=0)
     # moonphase_cycles =
     average_precipitation_intencity = models.FloatField(default=0)
     average_precipitation_accumulation = models.FloatField(default=0)
+
+    wet_days_count = models.IntegerField(default=0)
     count_of_rain_days = models.IntegerField(default=0)
     count_of_snow_days = models.IntegerField(default=0)
     count_of_sleet_days = models.IntegerField(default=0)
+    count_of_cloudy_days = models.IntegerField(default=0)
+    count_of_clear_days = models.IntegerField(default=0)
+    count_of_wind_days = models.IntegerField(default=0)
+    count_of_fog_days = models.IntegerField(default=0)
+
+    pressure = models.FloatField(default=0)
     average_wind_speed = models.FloatField(default=0)
     average_visibility = models.FloatField(default=0)
 
@@ -49,7 +58,7 @@ class Indicators_byDay(models.Model):
     day = models.IntegerField(default=-1)
     month = models.IntegerField(default=-1)
     date = models.DateField(default = date.today)
-
+    icon  = models.CharField(max_length=200, default = None)
     apparent_temp_high = models.FloatField(default=0) #Degrees Celsius.
     apparent_temp_low = models.FloatField(default=0) #Degrees Celsius.
     apparent_temp_max = models.FloatField(default=0) #Degrees Celsius.
@@ -64,7 +73,7 @@ class Indicators_byDay(models.Model):
     precip_type = models.CharField(max_length=100) #values: "rain", "snow", or "sleet" if precip_intencity exists
     wind_speed = models.FloatField(default=0) #Meters per second.
     visibility = models.FloatField(default=0) #Kilometers
-
+    pressure = models.FloatField(default=0) #millibars
 
     def __str__(self):
         longname = str(self.city)
