@@ -4,16 +4,18 @@
     <p><strong>{{ error_message }}</strong></p>
 {% endif %}
 
-<form action = "{% url 'places:placedetails' %}" method="post" id = "form1" >
+<form action = "{% url 'places:date_top' %}" method="post" id = "form1" >
 {% csrf_token %}
-    <label for = "placenameid"> Type here the city name to search </label> 
-    <input type="text" id="placenameid" name="placename" placeholder = "enter name here" />
+    <label for = "citynameid"> Type here the city name to search </label> 
+    <input type="text" id="citynameid" name="cityname" placeholder = "enter name here" />
     <input type="submit" value="search" />
 </form>
 
-<form action = "{% url 'places:placestop' %}" method="post" id = "form2">
+<form action = "{% url 'places:city_top' %}" method="post" id = "form2">
 {% csrf_token %}
-    <label for = "placenameid"> Or enter the month of holiday </label> 
-    <input type="text" id="placenameid" name="placename" placeholder = "enter date here" />
+    <label for = "startdateid"> Or enter the start date of holiday </label> 
+    <input type="text" id="startdateid" name="startdate" placeholder = "enter start date here" />
+    <label for = "enddateid"> And the end date of holiday </label> 
+    <input type="text" id="enddateid" name="enddate" placeholder = "enter end date here" />
     <input type="submit" value="search" />
 </form>

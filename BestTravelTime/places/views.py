@@ -24,8 +24,8 @@ def timeenterform(request):
     return HttpResponse("enter here the holiday time!")
 
 #def placedetails(request, city_id):
-def placedetails(request):
-    entered_city= request.POST.get('placename', False);
+def get_date_top(request):
+    entered_city= request.POST.get('cityname', False);
     
     if (entered_city != "test"):
         city = City.objects.get(city_name = entered_city)
@@ -62,21 +62,31 @@ def placedetails(request):
 
 
 #require the number of the month for a datetime!
-def placestop(request):
-    # datetime entered??
-    places_top = []
-    places_top = get_indicator_by_month()
+def get_city_top(request):
+    entered_start_datetime = request.POST.get('startdate', False)
+    entered_end_datetime = request.POST.get('enddate', False)
+
+    city_list = City.objects.all()
+
+    for city in city_list:
+        check_month_date_existence(city, entered_start_datetime, entered_end_datetime)
+
+    calculate_month_score()
+    make_city_rating()
 
     #change when you fix datetime in db!!!
-    #places_top = Indicators.objects.filter(datetime = '2017-10-16 18:24:04.000000')
+    places_top = Indicators_byMonth.objects.filter(datetime = '2018-10-16 18:24:04.000000')
 
     new_city_list = []
     new_city_list = get_city_list(places_top)
     context = {
         'places_top' : new_city_list,
     }
+
+    return HttpResponse(data)
+
     #return render(request, 'places/index.html', context)
-    return render(request, 'places/places_top.html', context)
+    # return render(request, 'places/places_top.html', context)
 
 def get_indicator_by_month():
     places_top = []
