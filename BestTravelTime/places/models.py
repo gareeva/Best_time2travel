@@ -9,12 +9,6 @@ class Country(models.Model):
     def __str__(self):
         return self.country_name
 
-# class Region(models.Model):
-#     name = models.CharField(max_length=1000, default='none')
-#     region_country = models.ForeignKey(Country, on_delete=models.CASCADE)
-#     def __str__(self):
-#         return self.name
-
 class City(models.Model):
     city_country = models.ForeignKey(Country, on_delete=models.CASCADE)
     city_name = models.CharField(max_length=1000)
@@ -24,58 +18,57 @@ class City(models.Model):
 
 class Indicators_byMonth(models.Model):
     city = models.ForeignKey(City, on_delete=models.CASCADE)
-    month = models.IntegerField(default=0)
-    month_score = models.IntegerField(default=0)
+    month = models.IntegerField()
+    month_score = models.IntegerField()
 
     # icon  = models.CharField(max_length=200, default = None)
 
-    average_apparent_temp = models.FloatField(default=0) #Degrees Celsius.
-    average_humidity = models.FloatField(default=0)
+    average_apparent_temp = models.FloatField(null=True) #Degrees Celsius.
+    average_humidity = models.FloatField(null=True)
     # moonphase_cycles =
-    average_precipitation_intencity = models.FloatField(default=0)
-    average_precipitation_accumulation = models.FloatField(default=0)
+    average_precipitation_intencity = models.FloatField(null=True)
+    average_precipitation_accumulation = models.FloatField(null=True)
 
-    wet_days_count = models.IntegerField(default=0)
-    count_of_rain_days = models.IntegerField(default=0)
-    count_of_snow_days = models.IntegerField(default=0)
-    count_of_sleet_days = models.IntegerField(default=0)
-    count_of_cloudy_days = models.IntegerField(default=0)
-    count_of_clear_days = models.IntegerField(default=0)
-    count_of_wind_days = models.IntegerField(default=0)
-    count_of_fog_days = models.IntegerField(default=0)
+    wet_days_count = models.IntegerField()
+    count_of_rain_days = models.IntegerField()
+    count_of_snow_days = models.IntegerField()
+    count_of_sleet_days = models.IntegerField()
+    count_of_cloudy_days = models.IntegerField()
+    count_of_clear_days = models.IntegerField()
+    count_of_wind_days = models.IntegerField()
+    count_of_fog_days = models.IntegerField()
 
-    pressure = models.FloatField(default=0)
-    average_wind_speed = models.FloatField(default=0)
-    average_visibility = models.FloatField(default=0)
+    pressure = models.FloatField(null=True)
+    average_wind_speed = models.FloatField(null=True)
+    average_visibility = models.FloatField(null=True)
 
     def __str__(self):
-        longname = str(self.city)
-        longname = longname + str(self.month)
+        longname = str(self.city)+ "_" + str(self.month) + "_" + str(self.month_score)
+        longname = longname + ":" + str(self.average_apparent_temp) + ";" + str(self.average_humidity) + ";" + str(self.average_precipitation_intencity) + ";" + str(self.average_precipitation_accumulation) + ";" + str(self.average_wind_speed) + ";" + str(self.average_visibility)
         return longname
 
 class Indicators_byDay(models.Model):
     city = models.ForeignKey(City, on_delete=models.CASCADE)
-    day = models.IntegerField(default=-1)
-    month = models.IntegerField(default=-1)
+    # day = models.IntegerField(default=-1)
+    # month = models.IntegerField(default=-1)
     date = models.DateField(default = date.today)
     icon  = models.CharField(max_length=200, default = None)
-    apparent_temp_high = models.FloatField(default=0) #Degrees Celsius.
-    apparent_temp_low = models.FloatField(default=0) #Degrees Celsius.
-    apparent_temp_max = models.FloatField(default=0) #Degrees Celsius.
-    apparent_temp_min = models.FloatField(default=0) #Degrees Celsius.
-    humidity = models.FloatField(default=0) #The relative humidity, between 0 and 1, inclusive.
-    moonphase = models.FloatField(default=-1) #a value of 0 corresponds to a new moon, 0.25 to a first quarter moon, 0.5 to a full moon, and 0.75 to a last quarter moon
-    temp_max = models.FloatField(default=0) #Degrees Celsius.
-    temp_min = models.FloatField(default=0) #Degrees Celsius.
+    apparent_temp_high = models.FloatField(null=True) #Degrees Celsius.
+    apparent_temp_low = models.FloatField(null=True) #Degrees Celsius.
+    apparent_temp_max = models.FloatField(null=True) #Degrees Celsius.
+    apparent_temp_min = models.FloatField(null=True) #Degrees Celsius.
+    humidity = models.FloatField(null=True) #The relative humidity, between 0 and 1, inclusive.
+    moonphase = models.FloatField(null=True) #a value of 0 corresponds to a new moon, 0.25 to a first quarter moon, 0.5 to a full moon, and 0.75 to a last quarter moon
+    temp_max = models.FloatField(null=True) #Degrees Celsius.
+    temp_min = models.FloatField(null=True) #Degrees Celsius.
 
-    precip_intencity_max = models.FloatField(default=0) #Millimeters per hour.
-    precip_accumulation_max = models.FloatField(default=0) #Centimeters
-    precip_type = models.CharField(max_length=100) #values: "rain", "snow", or "sleet" if precip_intencity exists
-    wind_speed = models.FloatField(default=0) #Meters per second.
-    visibility = models.FloatField(default=0) #Kilometers
-    pressure = models.FloatField(default=0) #millibars
+    precip_intencity_max = models.FloatField(null=True) #Millimeters per hour.
+    precip_accumulation_max = models.FloatField(null=True) #Centimeters
+    precip_type = models.CharField(max_length=100, null=True) #values: "rain", "snow", or "sleet" if precip_intencity exists
+    wind_speed = models.FloatField(null=True) #Meters per second.
+    visibility = models.FloatField(null=True) #Kilometers
+    pressure = models.FloatField(null=True) #millibars
 
     def __str__(self):
-        longname = str(self.city)
-        longname = longname + str(self.day) + str(self.month)
+        longname = str(self.city) + str(self.date)
         return longname
