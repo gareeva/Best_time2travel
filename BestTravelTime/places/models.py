@@ -19,7 +19,7 @@ class City(models.Model):
 class Indicators_byMonth(models.Model):
     city = models.ForeignKey(City, on_delete=models.CASCADE)
     month = models.IntegerField()
-    month_score = models.IntegerField()
+    month_score = models.IntegerField(default = 0)
 
     # icon  = models.CharField(max_length=200, default = None)
 
@@ -52,6 +52,7 @@ class Indicators_byDay(models.Model):
     # day = models.IntegerField(default=-1)
     # month = models.IntegerField(default=-1)
     date = models.DateField(default = date.today)
+    day_score = models.IntegerField(default = 0)
     icon  = models.CharField(max_length=200, default = None)
     apparent_temp_high = models.FloatField(null=True) #Degrees Celsius.
     apparent_temp_low = models.FloatField(null=True) #Degrees Celsius.

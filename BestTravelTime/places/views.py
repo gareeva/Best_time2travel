@@ -66,22 +66,28 @@ def get_city_top(request):
     entered_start_datetime = request.POST.get('startdate', False)
     entered_end_datetime = request.POST.get('enddate', False)
 
-    city_list = City.objects.all()
+    if(entered_start_datetime == 'test' or entered_end_datetime == 'test'):
+        entered_start_datetime = datetime.date(2018, 1, 14)
+        entered_end_datetime = datetime.date(2018, 1, 18)
+        # entered_end_datetime = datetime.date(year, month, 1)
+
+    country = Country.objects.get(country_name = "Chad")
+    city_list = City.objects.filter(city_country = country)
 
     for city in city_list:
         check_month_date_existence(city, entered_start_datetime, entered_end_datetime)
 
-    calculate_month_score()
-    make_city_rating()
+    # calculate_month_score()
+    data = make_city_rating(entered_start_datetime, entered_end_datetime)
 
     #change when you fix datetime in db!!!
-    places_top = Indicators_byMonth.objects.filter(datetime = '2018-10-16 18:24:04.000000')
+    # places_top = Indicators_byMonth.objects.filter(datetime = '2018-10-16 18:24:04.000000')
 
-    new_city_list = []
-    new_city_list = get_city_list(places_top)
-    context = {
-        'places_top' : new_city_list,
-    }
+    # new_city_list = []
+    # new_city_list = get_city_list(places_top)
+    # context = {
+    #     'places_top' : new_city_list,
+    # }
 
     return HttpResponse(data)
 
@@ -114,6 +120,8 @@ def get_city_coordinates(city):
     request_url = request_url + city.city_name + "&key=AIzaSyD_QIJehROPYOkn6ww4d7SPtr3jhYETXDo"
     response = requests.get(request_url)
     response_json = response.json()
+
+    print("coordinates:", response_json)
 
     city_coordinates = {
         'latitude': response_json['results'][0]['geometry']['location']['lat'],
@@ -166,6 +174,7 @@ def create_Indicators_byDay(file_row, city, mydate):
     if 'pressure' in file_row:
         daily_record.pressure = file_row['pressure']
         
+    calculate_day_score(daily_record)
     daily_record.save(force_insert=True)
 
 def calculate_fields_byMonth(year, month, city):
@@ -187,10 +196,10 @@ def calculate_fields_byMonth(year, month, city):
     average_apparent_temp = average_humidity = wet_days_count = average_precipitation_intencity = average_precipitation_accumulation = average_wind_speed = average_visibility = pressure = count_of_rain_days = count_of_snow_days = count_of_sleet_days =  count_of_cloudy_days = count_of_clear_days = count_of_wind_days = count_of_fog_days = 0
     
     for some_day in range(D1,D2+1):
-        date = datetime.date.fromordinal(some_day)
-        daily_record = Indicators_byDay.objects.get(city = city, date = date)
 
-        # print("--date in month:", date, daily_record)
+        date = datetime.date.fromordinal(some_day)
+        print("--date in month:", date,city)
+        daily_record = Indicators_byDay.objects.get(city = city, date = date)
         
         if (daily_record.precip_intencity_max is not None):
             if (daily_record.precip_intencity_max > 0.1 and daily_record.precip_intencity_max < 7.6):
@@ -275,14 +284,14 @@ def calculate_fields_byMonth(year, month, city):
 
 def calculate_month_score(month, count_temp, count_precip_intencity, count_visibility):
     total_score = 0
-    total_score += calculate_precipitation_score(month,count_precip_intencity)
-    total_score += calculate_visibility_score(month,count_visibility)
-    total_score += calculate_temperature_score(month, count_temp)
+    total_score += calculate_precipitation_score_m(month,count_precip_intencity)
+    total_score += calculate_visibility_score_m(month,count_visibility)
+    total_score += calculate_temperature_score_m(month, count_temp)
 
-    print("total_score = ",total_score)
+    print("total_score FOR MONTH = ",total_score)
     month.month_score = total_score
 
-def calculate_precipitation_score(month, count_precip_intencity):
+def calculate_precipitation_score_m(month, count_precip_intencity):
     if (count_precip_intencity != 0):
         precipitation = month.average_precipitation_intencity
         print("precipitation = " + str(precipitation) + " count_precip_intencity=" + str(count_precip_intencity) )
@@ -303,7 +312,7 @@ def calculate_precipitation_score(month, count_precip_intencity):
             return 12
 
 
-def calculate_visibility_score(month, count_visibility):
+def calculate_visibility_score_m(month, count_visibility):
     if (count_visibility != 0):
         visibility = month.average_visibility
         print("visbility = " + str(visibility))
@@ -325,7 +334,7 @@ def calculate_visibility_score(month, count_visibility):
         elif(snowy_days > 10):
             return 12
 
-def calculate_temperature_score(month, count_temp):
+def calculate_temperature_score_m(month, count_temp):
     if(count_temp != 0):
         temperature = month.average_apparent_temp
         print("temp = "+ str(temperature))
@@ -360,6 +369,7 @@ def check_month_date_existence(city, startdate, enddate):
     D1 = datetime.date.toordinal(startdate)
     D2 = datetime.date.toordinal(enddate)
 
+    # переписать! не нужно каждый раз проверять на существование записи месяца 
     while D1 <= D2:
         current_date = datetime.date.fromordinal(D1)
         current_date_extracted = datetime.datetime.strptime(str(current_date), "%Y-%m-%d")
@@ -369,16 +379,18 @@ def check_month_date_existence(city, startdate, enddate):
 
         if (Indicators_byMonth.objects.filter(city=city, month = current_date_month).exists()):
             print("data for this month already exists = ", current_date_month)
-            answer = Indicators_byMonth.objects.filter(city=city, month = current_date_month)
+            # answer = Indicators_byMonth.objects.filter(city=city, month = current_date_month)
             break
         else:
             print("search new data for month = ", current_date_month)
             new_startdate = datetime.date(current_date_year, current_date_month, 1)
             new_enddate = datetime.date(current_date_year, current_date_month, current_date_month_days_count)
-            answer = get_info_from_weatheronline(city, new_startdate, new_enddate)
-            calculate_fields_byMonth(current_date_year, current_date_month, city)
+            if (get_info_from_weatheronline(city, new_startdate, new_enddate) is not None):
+                calculate_fields_byMonth(current_date_year, current_date_month, city)
+            else:
+                print(city, " is broken!! No data in Darksky!")
+                break
         D1 += current_date_month_days_count
-    return answer
 
 def get_info_from_weatheronline(city, startdate, enddate):
     output_to_me = ""
@@ -387,20 +399,22 @@ def get_info_from_weatheronline(city, startdate, enddate):
     D1 = datetime.date.toordinal(startdate)
     D2 = datetime.date.toordinal(enddate)
 
+    city_coordinates = get_city_coordinates(city)
+    city_latitude = str(city_coordinates['latitude'])
+    city_longitude = str(city_coordinates['longitude'])
+
+
     for some_day in range(D1,D2+1):
         date = datetime.date.fromordinal(some_day)
-        # print (date)
+        print (date)
         if (check_data_existence(city, date)):
             output_to_me += str(Indicators_byDay.objects.get(city = city, date = date))
         else:
             # print("Accessing new day from API")
             unix_date = int(time.mktime(date.timetuple()))
-            city_coordinates = get_city_coordinates(city)
-            city_latitude = str(city_coordinates['latitude'])
-            city_longitude = str(city_coordinates['longitude'])
             response = request_to_weatheronline(city_latitude, city_longitude, unix_date)
-            output_to_me += str(response_parsing(response, city, date))
-    return output_to_me
+            return response_parsing(response, city, date)
+    return None
 
 
 def check_data_existence(city, date):
@@ -421,9 +435,12 @@ def request_to_weatheronline(city_latitude, city_longitude, unix_date):
 
 def response_parsing(response, city, mydate):
     response_json = response.json()
-    daily_data = response_json['daily']['data'][0]
-    create_Indicators_byDay(daily_data, city, mydate)
-    return daily_data
+    print("respoooooonce", response_json)
+    if 'daily' in response_json:
+        daily_data = response_json['daily']['data'][0]
+        create_Indicators_byDay(daily_data, city, mydate)
+        return daily_data
+    return None
 
 def test_data_generator(city):
     year = 2018
@@ -458,11 +475,99 @@ def make_month_rating(city):
     return months_list
 
 
-def make_city_rating(month):
-    city_list = Indicators_byMonth.objects.filter(month = month).order_by('month_score', '-average_apparent_temp', '-count_of_clear_days')
+def make_city_rating(entered_start_datetime, entered_end_datetime):
+    city_list =[]
+
+    D1 = datetime.date.toordinal(entered_start_datetime)
+    D2 = datetime.date.toordinal(entered_end_datetime)
+
+    for some_day in range(D1,D2+1):
+        date = datetime.date.fromordinal(some_day)
+        city_list.append(Indicators_byDay.objects.filter(date = date))
+    
+    city_list.order_by('day_score')
+    
     for each in city_list:
-        print("rating: " + str(each))
+        print("rating for this dates: " + str(each))
 
     return city_list
 
 
+#  ____________
+# delete it after Parent Class implementation
+# ____________
+
+def calculate_day_score(day):
+    total_score = 0
+    total_score += calculate_precipitation_score(day)
+    total_score += calculate_visibility_score(day)
+    total_score += calculate_temperature_score(day)
+
+    print("total_score FOR DAY= ",total_score)
+    day.day_score = total_score
+
+def calculate_precipitation_score(day):
+    if (day.precip_intencity_max is not None):
+        precipitation = day.precip_intencity_max
+        print("precipitation = " + str(precipitation))
+        if (precipitation >= 0 and precipitation <= 2.5):
+            return 1
+        elif (precipitation > 2.5 and precipitation <= 7.6):
+            return 6
+        elif(precipitation > 7.6):
+            return 12
+    else:
+        if (day.icon != 'rain'):
+            return 1
+        else:
+            return 12
+
+
+def calculate_visibility_score(day):
+    if (day.visibility is not None):
+        visibility = day.visibility
+        print("visbility = " + str(visibility))
+        if (visibility >= 1):
+            return 1
+        elif (visibility > 0.5 and visibility < 1):
+            return 6
+        elif (visibility < 0.5 and visibility != 0):
+            return 12
+        else:
+            return 0
+    else:
+        if (day.icon != 'snow'):
+            return 1
+        else:
+            return 12
+
+def calculate_temperature_score(day):
+    temperature = day.apparent_temp_high + day.apparent_temp_low/2
+    if(temperature is not None):
+        print("temp = "+ str(temperature))
+        if (temperature < -32):
+            return 12
+        elif (temperature > -32 and temperature <= -24):
+            return 11
+        elif (temperature > -24 and temperature <= -10):
+            return 9
+        elif (temperature > -10 and temperature <= 0):
+            return 8
+        elif (temperature > 0 and temperature <= 7):
+            return 7
+        elif (temperature > 7 and temperature <= 11):
+            return 6
+        elif (temperature > 11 and temperature <= 15):
+            return 5
+        elif (temperature > 15 and temperature <= 20):
+            return 4
+        elif (temperature > 20 and temperature <= 24):
+            return 2
+        elif (temperature > 24 and temperature <= 28):
+            return 1
+        elif (temperature > 28 and temperature <= 33):
+            return 3
+        elif (temperature > 33):
+            return 10
+    else:
+        print("temperature is not defined!!!!!!!!")
